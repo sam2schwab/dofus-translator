@@ -1,19 +1,15 @@
-import en from "../tokenMaps/tokenMap_en.json";
-import pt from "../tokenMaps/tokenMap_pt.json";
-import de from "../tokenMaps/tokenMap_de.json";
-import es from "../tokenMaps/tokenMap_es.json";
-
 import { Language } from "./languages";
+import axios from "axios";
+
+const REPO = 'sam2schwab/dofus-translator';
 
 type TokenMap = Record<string, any>;
 
-const mapsPromises: Record<Language, TokenMap> = {
-  en,
-  de,
-  pt,
-  es,
-};
+const cache: {[key in Language]?: Promise<TokenMap>} = {}
 
-export const getTokenMap = (language: Language) => {
-  return mapsPromises[language];
+export const getTokenMap = async (language: Language) => {
+  if (cache[language] === undefined) {
+    cache[language] = axios.get(`https://raw.githubusercontent.com/${REPO}/main/tokenMaps/tokenMap_${language}.json`).then(({data}) => data);
+  }
+  return cache[language];
 };

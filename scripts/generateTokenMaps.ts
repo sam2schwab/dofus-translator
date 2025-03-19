@@ -70,7 +70,7 @@ const generateMap = async (
 
   const outputFile = path.join(
     __dirname,
-    `../src/tokenMaps/tokenMap_${language}.json`
+    `../tokenMaps/tokenMap_${language}.json`
   );
   await writeFile(outputFile, JSON.stringify(tokenMap, null, 2), "utf-8");
 };

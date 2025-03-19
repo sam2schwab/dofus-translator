@@ -5,7 +5,7 @@ import { getTokenMap } from "./tokenMaps";
 const cleanString = (s: string) => s.replace("œ", "oe").replace('’', '\'').replace('Œ', 'Oe');
 
 export const translateLine = async (line: string,  language: Language) => {
-    const tokenMap = getTokenMap(language);
+    const tokenMap = await getTokenMap(language);
     const tokens = tokenize(cleanString(line));
     const result = [];
   
