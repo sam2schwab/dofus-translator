@@ -54,16 +54,7 @@
       "000": {
         " ": {
           "points": {
-            "__default": "1,000 Points",
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "1,000 Achievement Points"
-                  }
-                }
-              }
-            }
+            "__default": "1,000 Points"
           },
           "challenges": {
             "__default": "1,000 Challenges"
@@ -400,16 +391,7 @@
       "000": {
         " ": {
           "points": {
-            "__default": "5,000 Points",
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "5,000 Achievement Points"
-                  }
-                }
-              }
-            }
+            "__default": "5,000 Points"
           }
         }
       },
@@ -679,16 +661,7 @@
       "000": {
         " ": {
           "points": {
-            "__default": "10,000 Points",
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "10,000 Achievement Points"
-                  }
-                }
-              }
-            }
+            "__default": "10,000 Points"
           }
         }
       },
@@ -712,21 +685,6 @@
     " ": {
       "ovatons": {
         "__default": "15 Ovatokens"
-      },
-      "000": {
-        " ": {
-          "points": {
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "15,000 Achievement Points"
-                  }
-                }
-              }
-            }
-          }
-        }
       }
     }
   },
@@ -734,21 +692,6 @@
     " ": {
       "tempotons": {
         "__default": "20 Tempokens"
-      },
-      "000": {
-        " ": {
-          "points": {
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "20,000 Achievement Points"
-                  }
-                }
-              }
-            }
-          }
-        }
       }
     }
   },
@@ -1538,63 +1481,6 @@
   "apprenti": {
     "__default": "Apprentice",
     " ": {
-      "alchimiste": {
-        "__default": "Apprentice Alchemist"
-      },
-      "bûcheron": {
-        "__default": "Apprentice Lumberjack"
-      },
-      "chasseur": {
-        "__default": "Apprentice Hunter"
-      },
-      "mineur": {
-        "__default": "Apprentice Miner"
-      },
-      "paysan": {
-        "__default": "Apprentice Farmer"
-      },
-      "pêcheur": {
-        "__default": "Apprentice Fisherman"
-      },
-      "bijoutier": {
-        "__default": "Apprentice Jeweller"
-      },
-      "bricoleur": {
-        "__default": "Apprentice Handyman"
-      },
-      "cordonnier": {
-        "__default": "Apprentice Shoemaker"
-      },
-      "façonneur": {
-        "__default": "Apprentice Artificer"
-      },
-      "forgeron": {
-        "__default": "Apprentice Blacksmith"
-      },
-      "sculpteur": {
-        "__default": "Apprentice Carver"
-      },
-      "tailleur": {
-        "__default": "Apprentice Tailor"
-      },
-      "cordomage": {
-        "__default": "Apprentice Shoemagus"
-      },
-      "costumage": {
-        "__default": "Apprentice Costumagus"
-      },
-      "façomage": {
-        "__default": "Apprentice Craftmagus"
-      },
-      "forgemage": {
-        "__default": "Apprentice Smithmagus"
-      },
-      "joaillomage": {
-        "__default": "Apprentice Jewelmagus"
-      },
-      "sculptemage": {
-        "__default": "Apprentice Carvmagus"
-      },
       "brasseur": {
         "__default": "Apprentice Brewer"
       },
@@ -1641,7 +1527,7 @@
     "__default": "Earner"
   },
   "compagnon": {
-    "__default": "Breadwinner",
+    "__default": "Sidekick",
     " ": {
       "de": {
         " ": {
@@ -2432,6 +2318,9 @@
           },
           "nileza": {
             "__default": "Nileza's Laboratory"
+          },
+          "curiosité": {
+            "__default": "Lab of Curiosities"
           }
         }
       },
@@ -3107,6 +2996,9 @@
                 }
               }
             }
+          },
+          "tourne": {
+            "__default": "Clockwise Combat"
           }
         }
       },
@@ -3344,11 +3236,6 @@
                 "spécial": {
                   ")": {
                     "__default": "The Eternal Conflict (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "The Eternal Conflict (Solo)"
                   }
                 }
               }
@@ -4527,6 +4414,29 @@
             }
           }
         }
+      },
+      "échec": {
+        " ": {
+          "n": {
+            "'": {
+              "est": {
+                " ": {
+                  "pas": {
+                    " ": {
+                      "une": {
+                        " ": {
+                          "option": {
+                            "__default": "Failure Is Not an Option"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     },
     ".": {
@@ -4911,6 +4821,17 @@
                 " ": {
                   "!": {
                     "__default": "This Round's on Me!"
+                  }
+                }
+              }
+            }
+          },
+          "très": {
+            " ": {
+              "vague": {
+                " ": {
+                  "!": {
+                    "__default": "Wave Goodbye"
                   }
                 }
               }
@@ -5686,6 +5607,67 @@
             "__default": "I'm Coming!"
           }
         }
+      },
+      "y": {
+        " ": {
+          "suis": {
+            ",": {
+              " ": {
+                "j": {
+                  "'": {
+                    "y": {
+                      " ": {
+                        "reste": {
+                          "__default": "Here to Stay"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "en": {
+        " ": {
+          "ai": {
+            " ": {
+              "fait": {
+                " ": {
+                  "un": {
+                    " ": {
+                      "pin": {
+                        "'": {
+                          "s": {
+                            "__default": "Nail 'Em Down"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "accours": {
+        ",": {
+          " ": {
+            "les": {
+              " ": {
+                "croquants": {
+                  " ": {
+                    "!": {
+                      "__default": "I'm Coming, Crunchies!"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     },
     "-": {
@@ -5854,6 +5836,11 @@
       },
       "effet": {
         "__default": "No Effect"
+      }
+    },
+    "-": {
+      "coeur": {
+        "__default": "Heartless"
       }
     }
   },
@@ -6561,6 +6548,21 @@
             " ": {
               "mauve": {
                 "__default": "The Mauve Side of Life"
+              }
+            }
+          },
+          "est": {
+            " ": {
+              "une": {
+                " ": {
+                  "chausse": {
+                    "-": {
+                      "trappe": {
+                        "__default": "Life Is Full of Pitfalls"
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -7794,6 +7796,13 @@
                 }
               }
             }
+          },
+          "sait": {
+            " ": {
+              "attendre": {
+                "__default": "Death Is Patient"
+              }
+            }
           }
         }
       },
@@ -8806,6 +8815,17 @@
                 }
               }
             }
+          },
+          "ne": {
+            " ": {
+              "fut": {
+                " ": {
+                  "jamais": {
+                    "__default": "Don't Let There Be Light"
+                  }
+                }
+              }
+            }
           }
         }
       },
@@ -9224,6 +9244,42 @@
             }
           }
         }
+      },
+      "contre": {
+        "-": {
+          "poterie": {
+            "__default": "Shard It"
+          }
+        }
+      },
+      "diagonale": {
+        " ": {
+          "du": {
+            " ": {
+              "plein": {
+                "__default": "Diagon Allies"
+              }
+            }
+          }
+        }
+      },
+      "ligne": {
+        " ": {
+          "interdite": {
+            "__default": "The Forbidden Line"
+          }
+        }
+      },
+      "taille": {
+        " ": {
+          "du": {
+            " ": {
+              "rat": {
+                "__default": "Cutting Big Rat"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -9568,6 +9624,28 @@
             "__default": "En garde!"
           }
         }
+      },
+      "ligne": {
+        " ": {
+          "de": {
+            " ": {
+              "mire": {
+                "__default": "In the Line of Fire"
+              }
+            }
+          }
+        }
+      },
+      "cassant": {
+        " ": {
+          "des": {
+            " ": {
+              "oeufs": {
+                "__default": "By Breaking a Few Eggs"
+              }
+            }
+          }
+        }
       }
     },
     "-": {
@@ -9694,6 +9772,13 @@
                     }
                   }
                 }
+              }
+            }
+          },
+          "même": {
+            " ": {
+              "lignée": {
+                "__default": "Along the Same Lines"
               }
             }
           }
@@ -9840,6 +9925,15 @@
         " ": {
           "coeur": {
             "__default": "Heart to Heart"
+          }
+        }
+      },
+      "véritables": {
+        " ": {
+          "craqu": {
+            "'": {
+              "__default": "A Crackin' Good Fight"
+            }
           }
         }
       }
@@ -10216,11 +10310,6 @@
               ")": {
                 "__default": "Royal Jellies (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Royal Jellies (Solo)"
-              }
             }
           }
         },
@@ -10440,7 +10529,8 @@
               }
             }
           }
-        }
+        },
+        "__default": "Right to Bear Arms"
       },
       "champa": {
         " ": {
@@ -11949,6 +12039,9 @@
                         " ": {
                           "amis": {
                             "__default": "Friends You Can Count On"
+                          },
+                          "ennemis": {
+                            "__default": "Enemies You Can Count On"
                           }
                         }
                       }
@@ -12717,6 +12810,52 @@
                                 }
                               }
                             }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "yeux": {
+        " ": {
+          "aussi": {
+            " ": {
+              "gros": {
+                " ": {
+                  "que": {
+                    " ": {
+                      "le": {
+                        " ": {
+                          "ventre": {
+                            "__default": "The Better to See You With"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "fans": {
+        " ": {
+          "et": {
+            " ": {
+              "les": {
+                " ": {
+                  "enfants": {
+                    " ": {
+                      "d": {
+                        "'": {
+                          "abord": {
+                            "__default": "Fans and Children First"
                           }
                         }
                       }
@@ -14515,6 +14654,13 @@
       },
       "fantomatiques": {
         "__default": "Ghostly Fangs"
+      },
+      "à": {
+        " ": {
+          "crocs": {
+            "__default": "Close Combite"
+          }
+        }
       }
     }
   },
@@ -14865,6 +15011,13 @@
             " ": {
               "lenald": {
                 "__default": "Lenald Games"
+              },
+              "la": {
+                " ": {
+                  "dame": {
+                    "__default": "The Queen's Gambit"
+                  }
+                }
               }
             }
           }
@@ -14953,11 +15106,6 @@
             "spécial": {
               ")": {
                 "__default": "LeChouque (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "LeChouque (Solo)"
               }
             }
           }
@@ -17834,6 +17982,62 @@
             }
           }
         }
+      },
+      "kin": {
+        "-": {
+          "fu": {
+            " ": {
+              "d": {
+                "'": {
+                  "abord": {
+                    "__default": "Kin-Fu First"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "kang": {
+        "-": {
+          "fu": {
+            " ": {
+              "d": {
+                "'": {
+                  "abord": {
+                    "__default": "Kang-Fu First"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "jardin": {
+        " ": {
+          "que": {
+            " ": {
+              "pierre": {
+                " ": {
+                  "a": {
+                    " ": {
+                      "bâti": {
+                        "__default": "The Garden that Rock Built"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "sein": {
+        "-": {
+          "supplice": {
+            "__default": "Martittydom"
+          }
+        }
       }
     }
   },
@@ -17990,11 +18194,6 @@
             "spécial": {
               ")": {
                 "__default": "Wurmlord (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Wurmlord (Solo)"
               }
             }
           }
@@ -18394,17 +18593,6 @@
         " ": {
           "hétéroclite": {
             "__default": "Motley Clan"
-          }
-        }
-      },
-      "métier": {
-        " ": {
-          "de": {
-            " ": {
-              "rêve": {
-                "__default": "Dream Profession"
-              }
-            }
           }
         }
       },
@@ -19141,6 +19329,58 @@
             "__default": "One to One"
           }
         }
+      },
+      "régime": {
+        " ": {
+          "équilibré": {
+            "__default": "A Balanced Diet"
+          }
+        }
+      },
+      "mulou": {
+        " ": {
+          "dans": {
+            " ": {
+              "la": {
+                " ": {
+                  "bergerie": {
+                    "__default": "A Boowolf Among the Sheep"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "projet": {
+        " ": {
+          "tentaculaire": {
+            "__default": "Tentacles Off"
+          }
+        }
+      }
+    },
+    ",": {
+      " ": {
+        "deux": {
+          ",": {
+            " ": {
+              "troix": {
+                ",": {
+                  " ": {
+                    "bozu": {
+                      " ": {
+                        "!": {
+                          "__default": "Bozu's Footsteps!"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -19551,6 +19791,32 @@
             "__default": "Valuable Assistance"
           }
         }
+      },
+      "paire": {
+        " ": {
+          "d": {
+            "'": {
+              "impairs": {
+                "__default": "Odd Couple"
+              }
+            }
+          }
+        }
+      },
+      "lanterne": {
+        " ": {
+          "dans": {
+            " ": {
+              "la": {
+                " ": {
+                  "nuit": {
+                    "__default": "Lantern in the Night"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -19828,6 +20094,9 @@
       },
       "feuillu": {
         "__default": "Leafy Tree"
+      },
+      "hakam": {
+        "__default": "Tree Keeholo"
       }
     },
     "__default": "Tree"
@@ -19891,11 +20160,6 @@
               ")": {
                 "__default": "Famished Sunflower (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Famished Sunflower (Solo)"
-              }
             }
           }
         },
@@ -19930,11 +20194,6 @@
                 "versatile": {
                   ")": {
                     "__default": "Sponge Mob (Versatile)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Sponge Mob (Solo)"
                   }
                 }
               }
@@ -19979,11 +20238,6 @@
             "spécial": {
               ")": {
                 "__default": "Royal Gobball (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Royal Gobball (Solo)"
               }
             }
           }
@@ -20113,11 +20367,6 @@
               ")": {
                 "__default": "Golden Scarabugly (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Golden Scarabugly (Solo)"
-              }
             }
           }
         },
@@ -20153,11 +20402,6 @@
             "spécial": {
               ")": {
                 "__default": "Ronin Chafer (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Ronin Chafer (Solo)"
               }
             }
           }
@@ -20345,11 +20589,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Smiths' Chest (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Smiths' Chest (Solo)"
                   }
                 }
               }
@@ -20954,11 +21193,6 @@
               ")": {
                 "__default": "Shin Larva (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Shin Larva (Solo)"
-              }
             }
           },
           "croque": {
@@ -21002,11 +21236,6 @@
               ")": {
                 "__default": "Great Coralator (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Great Coralator (Solo)"
-              }
             }
           }
         },
@@ -21041,11 +21270,6 @@
             "spécial": {
               ")": {
                 "__default": "Kanniball Andchain (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Kanniball Andchain (Solo)"
               }
             }
           }
@@ -21087,7 +21311,8 @@
       "khau": {
         "__default": "Kanniball Kau"
       }
-    }
+    },
+    "__default": "Kanniball"
   },
   "blops": {
     " ": {
@@ -21112,11 +21337,6 @@
             "spécial": {
               ")": {
                 "__default": "Royal Blops (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Royal Blops (Solo)"
               }
             }
           }
@@ -21156,11 +21376,6 @@
                   ")": {
                     "__default": "Gourlo the Terrible (Special)"
                   }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Gourlo the Terrible (Solo)"
-                  }
                 }
               }
             },
@@ -21193,11 +21408,6 @@
             "spécial": {
               ")": {
                 "__default": "Legendary Crackler (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Legendary Crackler (Solo)"
               }
             }
           }
@@ -21304,11 +21514,6 @@
               ")": {
                 "__default": "Ancestral Treechnid (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Ancestral Treechnid (Solo)"
-              }
             }
           }
         },
@@ -21393,11 +21598,6 @@
               ")": {
                 "__default": "Dragon Pig (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Dragon Pig (Solo)"
-              }
             }
           }
         },
@@ -21437,11 +21637,6 @@
           ")": {
             "__default": "Koolich (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Koolich (Solo)"
-          }
         }
       },
       "braisé": {
@@ -21477,10 +21672,20 @@
           ")": {
             "__default": "Moowolf (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Moowolf (Solo)"
+        }
+      },
+      "y": {
+        " ": {
+          "es": {
+            "-": {
+              "tu": {
+                " ": {
+                  "?": {
+                    "__default": "What's the Time, Mr Moowolf?"
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -21523,11 +21728,6 @@
                       ")": {
                         "__default": "Silf the Greater Bherb (Special)"
                       }
-                    },
-                    "solo": {
-                      ")": {
-                        "__default": "Silf the Greater Bherb (Solo)"
-                      }
                     }
                   }
                 },
@@ -21563,10 +21763,20 @@
               ")": {
                 "__default": "Lord Crow (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Lord Crow (Solo)"
+            }
+          },
+          "sur": {
+            " ": {
+              "un": {
+                " ": {
+                  "arbre": {
+                    " ": {
+                      "perché": {
+                        "__default": "Lord Crow Perched on a Tree One Day"
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -21605,11 +21815,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Puppet Master (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Puppet Master (Solo)"
                   }
                 }
               }
@@ -21785,6 +21990,9 @@
       },
       "artifouxier": {
         "__default": "Master Pyrofouxnician"
+      },
+      "kopiste": {
+        "__default": "Master Kopier"
       }
     },
     "-": {
@@ -21818,11 +22026,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Royal Rainbow Blop (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Royal Rainbow Blop (Solo)"
                   }
                 }
               }
@@ -21919,11 +22122,6 @@
           ")": {
             "__default": "Royal Mastogob (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Royal Mastogob (Solo)"
-          }
         }
       }
     },
@@ -21957,11 +22155,6 @@
             "spécial": {
               ")": {
                 "__default": "Royal Tofu (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Royal Tofu (Solo)"
               }
             }
           }
@@ -22150,6 +22343,11 @@
           }
         }
       }
+    },
+    "-": {
+      "phobie": {
+        "__default": "Tofuphobia"
+      }
     }
   },
   "chêne": {
@@ -22175,11 +22373,6 @@
             "spécial": {
               ")": {
                 "__default": "Soft Oak (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Soft Oak (Solo)"
               }
             }
           }
@@ -22219,11 +22412,6 @@
             "spécial": {
               ")": {
                 "__default": "Royal Pingwin (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Royal Pingwin (Solo)"
               }
             }
           }
@@ -22266,11 +22454,6 @@
                   ")": {
                     "__default": "Buck Anear (Special)"
                   }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Buck Anear (Solo)"
-                  }
                 }
               }
             },
@@ -22302,11 +22485,6 @@
           ")": {
             "__default": "Obsidemon (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Obsidemon (Solo)"
-          }
         }
       }
     },
@@ -22336,11 +22514,6 @@
               ")": {
                 "__default": "Tengu Snowfoux (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Tengu Snowfoux (Solo)"
-              }
             }
           }
         },
@@ -22369,11 +22542,6 @@
         "spécial": {
           ")": {
             "__default": "Korriander (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Korriander (Solo)"
           }
         }
       }
@@ -22408,11 +22576,6 @@
             "spécial": {
               ")": {
                 "__default": "Giant Kralove (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Giant Kralove (Solo)"
               }
             }
           }
@@ -22466,11 +22629,6 @@
           ")": {
             "__default": "Ougaa (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Ougaa (Solo)"
-          }
         }
       }
     },
@@ -22506,11 +22664,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Foster Fuji Snowfoux (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Foster Fuji Snowfoux (Solo)"
                   }
                 }
               }
@@ -22549,11 +22702,6 @@
           ")": {
             "__default": "Grohlum (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Grohlum (Solo)"
-          }
         }
       }
     },
@@ -22585,11 +22733,6 @@
         "spécial": {
           ")": {
             "__default": "Celestial Bearbarian (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Celestial Bearbarian (Solo)"
           }
         }
       }
@@ -23141,11 +23284,6 @@
               ")": {
                 "__default": "Cross Strich (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Cross Strich (Solo)"
-              }
             }
           }
         },
@@ -23268,6 +23406,13 @@
                 " ": {
                   "coups": {
                     "__default": "Three Birds With One Stone"
+                  }
+                }
+              },
+              "deux": {
+                " ": {
+                  "kouï": {
+                    "__default": "Two Bhalls with One Stone"
                   }
                 }
               }
@@ -23452,6 +23597,9 @@
           },
           "bavards": {
             "__default": "Gossip Hunt"
+          },
+          "coquillages": {
+            "__default": "Shell Hunt"
           }
         }
       },
@@ -24630,6 +24778,17 @@
             "__default": "Kwakwa (Special)"
           }
         }
+      },
+      "?": {
+        " ": {
+          "kwapoussée": {
+            " ": {
+              "!": {
+                "__default": "Kwakwa Kwapush!"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -25187,6 +25346,9 @@
             " ": {
               "ballons": {
                 "__default": "Full Speed Ahead"
+              },
+              "boulons": {
+                "__default": "Batten Down the Hatches"
               }
             }
           }
@@ -25680,6 +25842,9 @@
                 }
               }
             }
+          },
+          "cool": {
+            "__default": "Keep Your Uncool"
           }
         }
       },
@@ -25800,6 +25965,24 @@
         " ": {
           "vitesse": {
             "__default": "Breakneck Speed"
+          }
+        }
+      },
+      "portée": {
+        " ": {
+          "de": {
+            " ": {
+              "dard": {
+                "__default": "In Sting Range"
+              }
+            }
+          }
+        }
+      },
+      "son": {
+        " ": {
+          "hypogée": {
+            "__default": "At Apogeum"
           }
         }
       }
@@ -26081,6 +26264,9 @@
             "__default": "Kickstrutter"
           }
         }
+      },
+      "racine": {
+        "__default": "Putting Down Roots"
       }
     }
   },
@@ -27238,6 +27424,9 @@
       },
       "champêtre": {
         "__default": "Country Ranger"
+      },
+      "emplumée": {
+        "__default": "Feathered Guard"
       }
     },
     "__default": "On Guard"
@@ -27592,6 +27781,17 @@
       },
       "paradoxale": {
         "__default": "Paradoxical Voyage"
+      },
+      "en": {
+        " ": {
+          "terrain": {
+            " ": {
+              "kouïu": {
+                "__default": "Off the Beaten Off Path"
+              }
+            }
+          }
+        }
       }
     },
     "__default": "Travel"
@@ -28676,6 +28876,24 @@
                 }
               }
             }
+          },
+          "peut": {
+            " ": {
+              "la": {
+                " ": {
+                  "nyée": {
+                    "__default": "Rac Off"
+                  }
+                }
+              }
+            }
+          },
+          "touche": {
+            " ": {
+              "pas": {
+                "__default": "I'm Not Touching You"
+              }
+            }
           }
         }
       },
@@ -28700,6 +28918,32 @@
                     "__default": "Treading on Eggshells"
                   }
                 }
+              }
+            }
+          }
+        }
+      },
+      "lui": {
+        " ": {
+          "pèlera": {
+            " ": {
+              "le": {
+                " ": {
+                  "bourgeon": {
+                    "__default": "Stick in the Bud"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "voulait": {
+        " ": {
+          "l": {
+            "'": {
+              "autre": {
+                "__default": "No, the Other One"
               }
             }
           }
@@ -28947,11 +29191,6 @@
               ")": {
                 "__default": "Missiz Freezz (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Missiz Freezz (Solo)"
-              }
             }
           }
         },
@@ -29198,11 +29437,6 @@
               ")": {
                 "__default": "Count Harebourg (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Count Harebourg (Solo)"
-              }
             }
           }
         },
@@ -29229,11 +29463,6 @@
             "spécial": {
               ")": {
                 "__default": "Count Razof (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Count Razof (Solo)"
               }
             }
           }
@@ -29505,6 +29734,9 @@
         " ": {
           "propriétaire": {
             "__default": "Grand Tour"
+          },
+          "monde": {
+            "__default": "Around the world"
           }
         }
       }
@@ -30136,6 +30368,17 @@
                             "__default": "How to Make Friends and Keep Them"
                           }
                         }
+                      }
+                    }
+                  }
+                }
+              },
+              "kouïs": {
+                " ": {
+                  "en": {
+                    " ": {
+                      "or": {
+                        "__default": "Make a Killing"
                       }
                     }
                   }
@@ -31276,6 +31519,13 @@
           },
           "chauffer": {
             "__default": "Things are heating up"
+          },
+          "plonger": {
+            " ": {
+              "chérie": {
+                "__default": "Take the Plunge"
+              }
+            }
           }
         }
       },
@@ -31434,6 +31684,17 @@
                     "__default": "Push or Miss"
                   }
                 }
+              }
+            }
+          }
+        }
+      },
+      "pique": {
+        " ": {
+          "le": {
+            " ": {
+              "kipik": {
+                "__default": "Picky Pricky"
               }
             }
           }
@@ -32728,11 +32989,6 @@
           ")": {
             "__default": "Shadow (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Shadow (Solo)"
-          }
         }
       },
       "tissée": {
@@ -33095,11 +33351,6 @@
           ")": {
             "__default": "Kanigrula (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kanigrula (Solo)"
-          }
         }
       }
     },
@@ -33447,11 +33698,6 @@
               ")": {
                 "__default": "King Nidas (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "King Nidas (Solo)"
-              }
             }
           }
         },
@@ -33482,11 +33728,6 @@
             "spécial": {
               ")": {
                 "__default": "King Imagami (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "King Imagami (Solo)"
               }
             }
           }
@@ -33602,11 +33843,6 @@
           ")": {
             "__default": "Drhossil (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Drhossil (Solo)"
-          }
         }
       }
     },
@@ -33660,11 +33896,6 @@
         "spécial": {
           ")": {
             "__default": "Brutatax (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Brutatax (Solo)"
           }
         }
       },
@@ -33800,7 +34031,8 @@
       "profond": {
         "__default": "Deep Crimson"
       }
-    }
+    },
+    "__default": "Crimson"
   },
   "aux": {
     " ": {
@@ -33814,6 +34046,13 @@
                     "__default": "Under Cover of Night"
                   }
                 }
+              }
+            }
+          },
+          "d": {
+            "'": {
+              "externam": {
+                "__default": "At the Gates of Externam"
               }
             }
           }
@@ -34000,11 +34239,6 @@
                   ")": {
                     "__default": "Queen of Thieves (Special)"
                   }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Queen of Thieves (Solo)"
-                  }
                 }
               }
             },
@@ -34042,11 +34276,6 @@
               ")": {
                 "__default": "Rac Queen (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Rac Queen (Solo)"
-              }
             }
           }
         },
@@ -34082,11 +34311,6 @@
             "spécial": {
               ")": {
                 "__default": "Queen Amirukam (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Queen Amirukam (Solo)"
               }
             }
           }
@@ -34183,11 +34407,6 @@
               ")": {
                 "__default": "Captain Scarlight (Sidekick)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Captain Scarlight (Solo)"
-              }
             }
           }
         },
@@ -34219,11 +34438,6 @@
             "spécial": {
               ")": {
                 "__default": "Captain Meno (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Captain Meno (Solo)"
               }
             }
           }
@@ -34676,11 +34890,6 @@
           ")": {
             "__default": "Protoz'orror (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Protoz'orror (Solo)"
-          }
         }
       }
     },
@@ -34690,6 +34899,9 @@
     " ": {
       "humanitaire": {
         "__default": "Booster Shot"
+      },
+      "pyramidal": {
+        "__default": "Pyramid Scheme"
       }
     }
   },
@@ -35359,11 +35571,6 @@
           ")": {
             "__default": "Fraktal (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Fraktal (Solo)"
-          }
         }
       }
     },
@@ -35391,6 +35598,13 @@
         " ": {
           "cocalane": {
             "__default": "Cocaloco Village"
+          }
+        }
+      },
+      "l": {
+        "'": {
+          "éponge": {
+            "__default": "Sponge Shover"
           }
         }
       }
@@ -35484,11 +35698,6 @@
         "spécial": {
           ")": {
             "__default": "Kickroach (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kickroach (Solo)"
           }
         }
       }
@@ -35894,6 +36103,13 @@
                     "__default": "To the Last Sigh"
                   }
                 }
+              }
+            }
+          },
+          "l": {
+            "'": {
+              "aurore": {
+                "__default": "Until Dawn"
               }
             }
           }
@@ -36628,11 +36844,6 @@
           ")": {
             "__default": "Colousses (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Colousses (Solo)"
-          }
         }
       }
     },
@@ -36778,11 +36989,6 @@
           ")": {
             "__default": "Catseye (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Catseye (Solo)"
-          }
         }
       }
     },
@@ -36836,11 +37042,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Koutoulou Larva (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Koutoulou Larva (Solo)"
                   }
                 }
               }
@@ -37015,11 +37216,6 @@
         "spécial": {
           ")": {
             "__default": "Dantinea (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Dantinea (Solo)"
           }
         }
       }
@@ -37897,6 +38093,9 @@
         " ": {
           "désert": {
             "__default": "Go Without Desert"
+          },
+          "dessert": {
+            "__default": "No Pudding for You"
           }
         }
       }
@@ -38452,11 +38651,6 @@
           ")": {
             "__default": "Cauldini (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Cauldini (Solo)"
-          }
         }
       }
     },
@@ -38528,11 +38722,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Anerice the Shushess (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Anerice the Shushess (Solo)"
                   }
                 }
               }
@@ -38868,6 +39057,9 @@
                               "__default": "Came, Fought, Ate Chocolate!"
                             }
                           }
+                        },
+                        "tracas": {
+                          "__default": "No Arms, No Alarms"
                         }
                       }
                     }
@@ -38957,6 +39149,28 @@
       },
       "feutrés": {
         "__default": "Silken Footsteps"
+      },
+      "vu": {
+        " ": {
+          "pas": {
+            " ": {
+              "pris": {
+                "__default": "Peek-a-Boo"
+              }
+            }
+          }
+        }
+      },
+      "dans": {
+        " ": {
+          "mes": {
+            " ": {
+              "pattes": {
+                "__default": "Out of My Way"
+              }
+            }
+          }
+        }
       }
     },
     "-": {
@@ -39619,11 +39833,6 @@
               ")": {
                 "__default": "Dazahk Freezammer (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Dazahk Freezammer (Solo)"
-              }
             }
           }
         },
@@ -39924,11 +40133,6 @@
           ")": {
             "__default": "Turtelonia (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Turtelonia (Solo)"
-          }
         }
       }
     },
@@ -39966,11 +40170,6 @@
         "spécial": {
           ")": {
             "__default": "Kharnotaurus (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kharnotaurus (Solo)"
           }
         }
       }
@@ -40169,11 +40368,6 @@
         "spécial": {
           ")": {
             "__default": "War (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "War (Solo)"
           }
         }
       },
@@ -40399,11 +40593,6 @@
         "spécial": {
           ")": {
             "__default": "Misery (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Misery (Solo)"
           }
         }
       },
@@ -40704,11 +40893,6 @@
               ")": {
                 "__default": "Black Rat (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Black Rat (Solo)"
-              }
             }
           }
         }
@@ -40735,11 +40919,6 @@
             "spécial": {
               ")": {
                 "__default": "White Rat (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "White Rat (Solo)"
               }
             }
           }
@@ -40859,6 +41038,11 @@
       "varice": {
         "__default": "Stingirat"
       }
+    },
+    "-": {
+      "trapage": {
+        "__default": "Ratch-Up"
+      }
     }
   },
   "hanshi": {
@@ -40892,11 +41076,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Hanshi and Shihan (Special)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Hanshi and Shihan (Solo)"
                   }
                 }
               }
@@ -41405,11 +41584,6 @@
                         "spécial": {
                           ")": {
                             "__default": "Lady of the Water Nagate (Special)"
-                          }
-                        },
-                        "solo": {
-                          ")": {
-                            "__default": "Lady of the Water Nagate (Solo)"
                           }
                         }
                       }
@@ -42467,6 +42641,9 @@
                 }
               }
             }
+          },
+          "élément": {
+            "__default": "Memory of an Element"
           }
         }
       },
@@ -43135,6 +43312,25 @@
             "__default": "Two in One"
           }
         }
+      },
+      "pour": {
+        " ": {
+          "le": {
+            " ": {
+              "prix": {
+                " ": {
+                  "d": {
+                    "'": {
+                      "un": {
+                        "__default": "Two for the Price of One"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -43307,6 +43503,9 @@
           },
           "jade": {
             "__default": "Jade Ritual"
+          },
+          "survie": {
+            "__default": "Survival Ritual"
           }
         }
       },
@@ -43348,11 +43547,6 @@
         "spécial": {
           ")": {
             "__default": "Kabaal (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kabaal (Solo)"
           }
         }
       }
@@ -44471,6 +44665,25 @@
             }
           }
         }
+      },
+      "ne": {
+        " ": {
+          "sert": {
+            " ": {
+              "de": {
+                " ": {
+                  "se": {
+                    " ": {
+                      "cacher": {
+                        "__default": "No Use Hiding"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -44570,11 +44783,6 @@
             "spécial": {
               ")": {
                 "__default": "Director Grunob (Special)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Director Grunob (Solo)"
               }
             }
           }
@@ -45175,11 +45383,6 @@
           ")": {
             "__default": "Belladonna (Special)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Belladonna (Solo)"
-          }
         }
       },
       "de": {
@@ -45264,11 +45467,6 @@
               ")": {
                 "__default": "Berylbell Copperbeard (Special)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Berylbell Copperbeard (Solo)"
-              }
             }
           }
         },
@@ -45339,11 +45537,6 @@
         "spécial": {
           ")": {
             "__default": "Raccooper (Special)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Raccooper (Solo)"
           }
         }
       }
@@ -45576,6 +45769,11 @@
         "'": {
           "outre": {
             "-": {
+              "tombe": {
+                "__default": "From Beyond the Grave"
+              }
+            },
+            " ": {
               "tombe": {
                 "__default": "From Beyond the Grave"
               }
@@ -46009,57 +46207,92 @@
       }
     }
   },
-  "féca": {
+  "neutre": {
+    "__default": "Neutral",
     " ": {
-      "fondamental": {
-        "__default": "Fundamental Feca"
+      "(": {
+        "%": {
+          ")": {
+            "__default": "Neutral (%)"
+          }
+        },
+        "fixe": {
+          ")": {
+            "__default": "Neutral (fixed)"
+          }
+        }
+      }
+    }
+  },
+  "bontarien": {
+    "__default": "Bontarian",
+    " ": {
+      "suspicieux": {
+        "__default": "Suspicious Bontarian"
       },
-      "primordial": {
-        "__default": "Primordial Feca"
+      "intrépide": {
+        "__default": "Intrepid Bontarian"
       },
-      "attitude": {
-        "__default": "Feca Attitude"
+      "énervé": {
+        "__default": "Irritated Bontarian"
       },
-      "-": {
+      "méfiant": {
+        "__default": "Wary Bontarian"
+      },
+      "en": {
         " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Feca – Female Face"
-              },
-              "masculin": {
-                "__default": "Feca – Male Face"
-              }
-            }
+          "détresse": {
+            "__default": "Bontarian in Distress"
+          }
+        }
+      }
+    }
+  },
+  "brâkmarien": {
+    "__default": "Brakmarian",
+    " ": {
+      "moribond": {
+        "__default": "Moribund Brakmarian"
+      }
+    }
+  },
+  "foire": {
+    " ": {
+      "du": {
+        " ": {
+          "trool": {
+            "__default": "Trool Fair"
           }
         }
       },
-      "menaçant": {
-        "__default": "Menacing Feca"
-      }
-    },
-    "__default": "Feca"
-  },
-  "osamodas": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Osamodas"
-      },
-      "primordial": {
-        "__default": "Primordial Osamodas"
-      },
-      "attitude": {
-        "__default": "Osamodas Attitude"
-      },
-      "-": {
+      "en": {
         " ": {
-          "visage": {
+          "question": {
+            "__default": "Fair-equently Asked Questions"
+          }
+        }
+      }
+    }
+  },
+  "îlots": {
+    " ": {
+      "de": {
+        " ": {
+          "la": {
             " ": {
-              "féminin": {
-                "__default": "Osamodas – Female Face"
-              },
-              "masculin": {
-                "__default": "Osamodas – Male Face"
+              "mer": {
+                " ": {
+                  "d": {
+                    "'": {
+                      "asse": {
+                        "__default": "Asse Sea Islands"
+                      }
+                    }
+                  },
+                  "kantil": {
+                    "__default": "Antinau Sea Islands"
+                  }
+                }
               }
             }
           }
@@ -46067,504 +46300,135 @@
       }
     }
   },
-  "enutrof": {
+  "zone": {
     " ": {
-      "fondamental": {
-        "__default": "Fundamental Enutrof"
-      },
-      "primordial": {
-        "__default": "Primordial Enutrof"
-      },
-      "attitude": {
-        "__default": "Enutrof Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Enutrof – Female Face"
-              },
-              "masculin": {
-                "__default": "Enutrof – Male Face"
-              }
-            }
+      "1": {
+        "-": {
+          "a": {
+            "__default": "Area 1-A"
+          },
+          "b": {
+            "__default": "Area 1-B"
+          },
+          "c": {
+            "__default": "Area 1-C"
+          },
+          "d": {
+            "__default": "Area 1-D"
           }
         }
       },
-      "calculateur": {
-        "__default": "Calculating Enutrof"
-      },
-      "avide": {
-        "__default": "Greedy Enutrof"
-      },
-      "avare": {
-        "__default": "Miserly Enutrof"
-      },
-      "prospecteur": {
-        "__default": "Prospecting Enutrof"
-      }
-    }
-  },
-  "sram": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Sram"
-      },
-      "primordial": {
-        "__default": "Primordial Sram"
-      },
-      "attitude": {
-        "__default": "Sram Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Sram – Female Face"
-              },
-              "masculin": {
-                "__default": "Sram – Male Face"
-              }
-            }
+      "2": {
+        "-": {
+          "a": {
+            "__default": "Area 2-A"
+          },
+          "b": {
+            "__default": "Area 2-B"
+          },
+          "c": {
+            "__default": "Area 2-C"
+          },
+          "d": {
+            "__default": "Area 2-D"
           }
         }
       },
-      "moche": {
-        "__default": "Ugly Sram"
-      },
-      "naïf": {
-        "__default": "Naive Sram"
-      },
-      "assassiné": {
-        "__default": "Assassinated Sram"
-      },
-      "d": {
-        "'": {
-          "égoutant": {
-            "__default": "The Stinking Sram"
-          }
-        }
-      }
-    }
-  },
-  "xélor": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Xelor"
-      },
-      "primordial": {
-        "__default": "Primordial Xelor"
-      },
-      "attitude": {
-        "__default": "Xelor Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Xelor – Female Face"
-              },
-              "masculin": {
-                "__default": "Xelor – Male Face"
-              }
-            }
+      "3": {
+        "-": {
+          "a": {
+            "__default": "Area 3-A"
+          },
+          "b": {
+            "__default": "Area 3-B"
+          },
+          "c": {
+            "__default": "Area 3-C"
+          },
+          "d": {
+            "__default": "Area 3-D"
           }
         }
       },
-      "louche": {
-        "__default": "Seedy Xelor"
-      },
-      "suspect": {
-        "__default": "Suspect Xelor"
-      },
-      "interlope": {
-        "__default": "Shady Xelor"
-      },
-      "menaçante": {
-        "__default": "Menacing Xelor"
-      },
-      "dofusophile": {
-        "__default": "Dofusophile Xelor"
-      }
-    },
-    "__default": "Xelor"
-  },
-  "ecaflip": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Ecaflip"
-      },
-      "primordial": {
-        "__default": "Primordial Ecaflip"
-      },
-      "attitude": {
-        "__default": "Ecaflip Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Ecaflip – Female Face"
-              },
-              "masculin": {
-                "__default": "Ecaflip – Male Face"
-              }
-            }
+      "4": {
+        "-": {
+          "a": {
+            "__default": "Area 4-A"
+          },
+          "b": {
+            "__default": "Area 4-B"
+          },
+          "c": {
+            "__default": "Area 4-C"
+          },
+          "d": {
+            "__default": "Area 4-D"
           }
         }
       },
-      "agressive": {
-        "__default": "Agressive Ecaflip"
-      },
-      "querelleur": {
-        "__default": "Quarrelsome Ecaflip"
-      },
-      "belliqueuse": {
-        "__default": "Belligerent Ecaflip"
-      },
-      "malchanceuse": {
-        "__default": "Unlucky Ecaflip"
-      },
-      "sourit": {
-        " ": {
-          "aux": {
-            " ": {
-              "audacieux": {
-                "__default": "Ecaflip Favours the Brave"
-              }
-            }
+      "5": {
+        "-": {
+          "a": {
+            "__default": "Area 5-A"
+          },
+          "b": {
+            "__default": "Area 5-B"
+          },
+          "c": {
+            "__default": "Area 5-C"
+          },
+          "d": {
+            "__default": "Area 5-D"
           }
         }
-      }
-    }
-  },
-  "eniripsa": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Eniripsa"
       },
-      "primordial": {
-        "__default": "Primordial Eniripsa"
-      },
-      "attitude": {
-        "__default": "Eniripsa Attitude"
-      },
-      "angoissée": {
-        "__default": "Anxious Eniripsa"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Eniripsa – Female Face"
-              },
-              "masculin": {
-                "__default": "Eniripsa – Male Face"
-              }
-            }
+      "6": {
+        "-": {
+          "a": {
+            "__default": "Area 6-A"
+          },
+          "b": {
+            "__default": "Area 6-B"
+          },
+          "c": {
+            "__default": "Area 6-C"
+          },
+          "d": {
+            "__default": "Area 6-D"
           }
         }
+      },
+      "privée": {
+        "__default": "Private Area"
       },
       "de": {
         " ": {
-          "brâkmar": {
-            "__default": "Brakmarian Eniripsa"
-          }
-        }
-      },
-      "hyperactive": {
-        "__default": "Hyperactive Eniripsa"
-      },
-      "rassurée": {
-        "__default": "Relieved Eniripsa"
-      }
-    }
-  },
-  "iop": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Iop"
-      },
-      "primordial": {
-        "__default": "Primordial Iop"
-      },
-      "attitude": {
-        "__default": "Iop Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
+          "départ": {
+            "__default": "Starting area"
+          },
+          "protection": {
             " ": {
-              "féminin": {
-                "__default": "Iop - Female Face"
-              },
-              "masculin": {
-                "__default": "Iop – Male Face"
+              "glyphe": {
+                "__default": "Protection Zone Glyph"
               }
-            }
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "cape": {
-            " ": {
-              "brâkmarienne": {
-                "__default": "Iop in a Brakmarian Cloak"
-              }
-            }
-          }
-        }
-      },
-      "menaçante": {
-        "__default": "Menacing Iop"
-      },
-      "désinvolte": {
-        "__default": "Casual Iop"
-      },
-      "iopesque": {
-        "__default": "Ioppish Iop"
-      },
-      "simplet": {
-        "__default": "Simple Iop"
-      },
-      "possédée": {
-        "__default": "Possessed Iop"
-      },
-      "geignante": {
-        "__default": "Moaning Iop"
-      },
-      "expérimentée": {
-        "__default": "Experienced Iop"
-      },
-      "fiévreux": {
-        "__default": "Feverish Iop"
-      },
-      "fortuné": {
-        "__default": "Fortunate Iop"
-      },
-      "et": {
-        " ": {
-          "hop": {
-            "__default": "Iop and Hop"
+            },
+            "__default": "Protection Zone"
           }
         }
       }
     }
   },
-  "crâ": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Cra"
-      },
-      "primordial": {
-        "__default": "Primordial Cra"
-      },
-      "attitude": {
-        "__default": "Cra Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Cra – Female Face"
-              },
-              "masculin": {
-                "__default": "Cra – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "menaçant": {
-        "__default": "Menacing Cra"
-      },
-      "mitrailleur": {
-        "__default": "Fast-Shooting Cra"
-      },
-      "possédée": {
-        "__default": "Possessed Cra"
-      },
-      "calculateur": {
-        "__default": "Calculating Cra"
-      }
-    },
-    "__default": "Cra"
-  },
-  "sadida": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Sadida"
-      },
-      "primordial": {
-        "__default": "Primordial Sadida"
-      },
-      "attitude": {
-        "__default": "Sadida Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Sadida – Female Face"
-              },
-              "masculin": {
-                "__default": "Sadida – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "cape": {
-            " ": {
-              "bontarienne": {
-                "__default": "Sadida in a Bontarian cape"
-              }
-            }
-          }
-        }
-      },
-      "monomaniaque": {
-        "__default": "Obsessed Sadida"
-      },
-      "corrompu": {
-        "__default": "Corrupted Sadida"
-      }
-    }
-  },
-  "sacrieur": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Sacrier"
-      },
-      "primordial": {
-        "__default": "Primordial Sacrier"
-      },
-      "attitude": {
-        "__default": "Sacrier Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Sacrier – Female Face"
-              },
-              "masculin": {
-                "__default": "Sacrier – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "au": {
-        " ": {
-          "foulard": {
-            " ": {
-              "rouge": {
-                "__default": "Sacrier in a Red Scarf"
-              }
-            }
-          }
-        }
-      }
-    },
-    "__default": "Sacrier"
-  },
-  "pandawa": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Pandawa"
-      },
-      "primordial": {
-        "__default": "Primordial Pandawa"
-      },
-      "attitude": {
-        "__default": "Pandawa Attitude"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Pandawa – Female Face"
-              },
-              "masculin": {
-                "__default": "Pandawa – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "éméché": {
-        "__default": "Tipsy Pandawa"
-      },
-      "déboussolé": {
-        "__default": "Flummoxed Pandawa"
-      },
-      "mélancolique": {
-        "__default": "Melancholic Pandawa"
-      }
-    }
-  },
-  "roublard": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Rogue"
-      },
-      "primordial": {
-        "__default": "Primordial Rogue"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Rogue – Female Face"
-              },
-              "masculin": {
-                "__default": "Rogue – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "akiri": {
-        "__default": "Rogue Fort"
-      },
-      "ticho": {
-        "__default": "Artich Rogue"
-      },
-      "kebuz": {
-        "__default": "Blam Stoker"
-      },
-      "riko": {
-        "__default": "Rogue Ling"
-      },
-      "lequin": {
-        "__default": "Rogue Rish"
-      },
-      "chypel": {
-        "__default": "Rogue Shambo"
-      },
-      "ébouillanté": {
-        "__default": "Scalded Rogue"
-      },
-      "du": {
-        " ": {
-          "clan": {
-            " ": {
-              "smisse": {
-                "__default": "Smisse Clan Rogue"
+  "saharach": {
+    "__default": "Ohwymi",
+    ",": {
+      " ": {
+        "territoire": {
+          " ": {
+            "verdoyant": {
+              " ": {
+                "?": {
+                  "__default": "Ohwymi, a Luscious Countryside?"
+                }
               }
             }
           }
@@ -46572,38 +46436,65 @@
       }
     }
   },
-  "zobal": {
+  "profondeurs": {
     " ": {
-      "fondamental": {
-        "__default": "Fundamental Masqueraider"
-      },
-      "primordial": {
-        "__default": "Primordial Masqueraider"
-      },
-      "-": {
+      "de": {
         " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Masqueraider – Female Face"
-              },
-              "masculin": {
-                "__default": "Masqueraider – Male Face"
-              }
-            }
+          "sufokia": {
+            "__default": "Depths of Sufokia"
           }
         }
       },
-      "hibaba": {
-        " ": {
-          "et": {
+      "d": {
+        "'": {
+          "astrub": {
+            "__default": "Depths of Astrub"
+          }
+        }
+      },
+      "marines": {
+        "__default": "Ocean Depths"
+      }
+    }
+  },
+  "mode": {
+    " ": {
+      "tactique": {
+        "__default": "Tactical Mode"
+      },
+      "d": {
+        "'": {
+          "emploi": {
             " ": {
-              "les": {
+              "de": {
                 " ": {
-                  "40": {
+                  "la": {
                     " ": {
-                      "roublards": {
-                        "__default": "Masqueraider Babali and the 40 Rogues"
+                      "pelle": {
+                        " ": {
+                          "hectrochoc": {
+                            "__default": "Dontase Mebro Shovel Instruction Manual"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "des": {
+                " ": {
+                  "pierres": {
+                    " ": {
+                      "sacrées": {
+                        " ": {
+                          "d": {
+                            "'": {
+                              "araknas": {
+                                "__default": "Araknas Sacred Stones User Guide"
+                              }
+                            }
+                          }
+                        }
                       }
                     }
                   }
@@ -46615,229 +46506,8 @@
       }
     }
   },
-  "steamer": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Foggernaut"
-      },
-      "primordial": {
-        "__default": "Primordial Foggernaut"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Foggernaut – Female Face"
-              },
-              "masculin": {
-                "__default": "Foggernaut – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "hystérique": {
-        "__default": "Hysterical Foggernaut"
-      },
-      "catatonique": {
-        "__default": "Catatonic Foggernaut"
-      },
-      "suicidaire": {
-        "__default": "Suicidal Foggernaut"
-      },
-      "ahurie": {
-        "__default": "Stupefied Foggernaut"
-      }
-    }
-  },
-  "eliotrope": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Eliotrope"
-      },
-      "primordial": {
-        "__default": "Primordial Eliotrope"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Eliotrope – Female Face"
-              },
-              "masculin": {
-                "__default": "Eliotrope – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "menaçant": {
-        "__default": "Threatening Eliotrope"
-      },
-      "agressive": {
-        "__default": "Aggressive Eliotrope"
-      },
-      "hostile": {
-        "__default": "Hostile Eliotrope"
-      },
-      "somnolent": {
-        "__default": "Sleeping Eliotrope"
-      }
-    }
-  },
-  "huppermage": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Huppermage"
-      },
-      "primordial": {
-        "__default": "Primordial Huppermage"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Huppermage – Female Face"
-              },
-              "masculin": {
-                "__default": "Huppermage – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "menaçante": {
-        "__default": "Menacing Huppermage"
-      }
-    }
-  },
-  "ouginak": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Ouginak"
-      },
-      "primordial": {
-        "__default": "Primordial Ouginak"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Ouginak – Female Face"
-              },
-              "masculin": {
-                "__default": "Ouginak – Male Face"
-              }
-            }
-          }
-        }
-      },
-      "déchaîné": {
-        "__default": "Rabid Ouginak"
-      },
-      "évolué": {
-        "__default": "Cultivated Ouginak"
-      },
-      "craintif": {
-        "__default": "Fearful Ouginak"
-      },
-      "de": {
-        " ": {
-          "srambad": {
-            "__default": "Ouginak from Srambad"
-          }
-        }
-      },
-      "désorienté": {
-        "__default": "Disorientated Ouginak"
-      },
-      "allergique": {
-        "__default": "Allergic Ouginak"
-      },
-      "cuit": {
-        " ": {
-          "à": {
-            " ": {
-              "point": {
-                "__default": "Medium Rare Ouginak"
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "forgelance": {
-    " ": {
-      "fondamental": {
-        "__default": "Fundamental Forgelance"
-      },
-      "primordial": {
-        "__default": "Primordial Forgelance"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Forgelance – Female Face"
-              },
-              "masculin": {
-                "__default": "Forgelance – Male Face"
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "persécution": {
-    "__default": "Persecution"
-  },
-  "anéantissement": {
-    "__default": "Annihilation"
-  },
-  "alignement": {
-    " ": {
-      "primitif": {
-        "__default": "Primitive Alignment"
-      },
-      "croissant": {
-        "__default": "Increasing Alignment"
-      },
-      "avancé": {
-        "__default": "Advanced Alignment"
-      },
-      "extrême": {
-        "__default": "Extreme Alignment"
-      },
-      "ultime": {
-        "__default": "Ultimate Alignment"
-      }
-    },
-    "__default": "Alignment"
-  },
-  "métisseur": {
-    "__default": "Crossbreeder"
-  },
-  "anomaniaque": {
-    "__default": "Anomaniac"
-  },
-  "castagneur": {
-    "__default": "Brawler"
-  },
   "rêve": {
     " ": {
-      "animal": {
-        "__default": "Animal Dream"
-      },
-      "légendaire": {
-        "__default": "Legendary Dream"
-      },
       "du": {
         " ": {
           "monde": {
@@ -47526,528 +47196,6 @@
           },
           "tynrils": {
             "__default": "Tynrils' Dream"
-          }
-        }
-      }
-    }
-  },
-  "expert": {
-    " ": {
-      "alchimiste": {
-        "__default": "Expert Alchemist"
-      },
-      "bûcheron": {
-        "__default": "Expert Lumberjack"
-      },
-      "chasseur": {
-        "__default": "Expert Hunter"
-      },
-      "mineur": {
-        "__default": "Expert Miner"
-      },
-      "paysan": {
-        "__default": "Expert Farmer"
-      },
-      "pêcheur": {
-        "__default": "Expert Fisherman"
-      },
-      "bijoutier": {
-        "__default": "Expert Jeweller"
-      },
-      "bricoleur": {
-        "__default": "Expert Handyman"
-      },
-      "cordonnier": {
-        "__default": "Expert Shoemaker"
-      },
-      "façonneur": {
-        "__default": "Expert Artificer"
-      },
-      "forgeron": {
-        "__default": "Expert Blacksmith"
-      },
-      "sculpteur": {
-        "__default": "Expert Carver"
-      },
-      "tailleur": {
-        "__default": "Expert Tailor"
-      },
-      "cordomage": {
-        "__default": "Expert Shoemagus"
-      },
-      "costumage": {
-        "__default": "Expert Costumagus"
-      },
-      "façomage": {
-        "__default": "Expert Craftmagus"
-      },
-      "forgemage": {
-        "__default": "Expert Smithmagus"
-      },
-      "joaillomage": {
-        "__default": "Expert Jewelmagus"
-      },
-      "sculptemage": {
-        "__default": "Expert Carvmagus"
-      },
-      "en": {
-        " ": {
-          "chronomagie": {
-            "__default": "Chronomagic Expert"
-          }
-        }
-      }
-    }
-  },
-  "récolteur": {
-    " ": {
-      "en": {
-        " ": {
-          "chef": {
-            "__default": "Harvester-in-Chief"
-          }
-        }
-      },
-      "frigostien": {
-        "__default": "Frigostian Harvester"
-      }
-    }
-  },
-  "artisan": {
-    " ": {
-      "en": {
-        " ": {
-          "chef": {
-            "__default": "Crafter-in-Chief"
-          }
-        }
-      },
-      "pandawa": {
-        "__default": "Pandawan Artisan"
-      }
-    }
-  },
-  "forgemage": {
-    " ": {
-      "en": {
-        " ": {
-          "chef": {
-            "__default": "Smithmagus-in-Chief"
-          }
-        }
-      }
-    },
-    "__default": "Smithmagus"
-  },
-  "aventurier": {
-    " ": {
-      "cramoisi": {
-        "__default": "Crimson Adventurer"
-      },
-      "rutilant": {
-        "__default": "Gleaming Adventurer"
-      },
-      "rayonnant": {
-        "__default": "Radiant Adventurer"
-      },
-      "brasillant": {
-        "__default": "Sparkling Adventurer"
-      },
-      "maudit": {
-        "__default": "Cursed Adventurer"
-      },
-      "frénétique": {
-        "__default": "Frenzied Adventurer"
-      },
-      "batailleur": {
-        "__default": "Battling Adventurer"
-      },
-      "sanguinaire": {
-        "__default": "Bloodthirsty Adventurer"
-      },
-      "pris": {
-        " ": {
-          "sur": {
-            " ": {
-              "le": {
-                " ": {
-                  "fait": {
-                    "__default": "Adventurer Caught in the Act"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "repéré": {
-        "__default": "Adventurer Spotted"
-      },
-      "injurieux": {
-        "__default": "Insulting Adventurer"
-      },
-      "crétin": {
-        "__default": "Dimwit Adventurer"
-      },
-      "illettré": {
-        "__default": "Uneducated Adventurer"
-      },
-      "provocateur": {
-        "__default": "Provocative Adventurer"
-      },
-      "impatient": {
-        "__default": "Impatient Adventurer"
-      },
-      "débrouillard": {
-        "__default": "Resourceful Adventurer"
-      },
-      "crâ": {
-        "__default": "Cra Adventurer"
-      },
-      "sram": {
-        "__default": "Sram Adventurer"
-      },
-      "pandawa": {
-        "__default": "Pandawa Adventurer"
-      },
-      "osamodas": {
-        "__default": "Osamodas Adventurer"
-      },
-      "ecaflip": {
-        "__default": "Ecaflip Adventurer"
-      },
-      "iop": {
-        "__default": "Iop Adventurer"
-      },
-      "sadida": {
-        "__default": "Sadida Adventurer"
-      },
-      "sacrieur": {
-        "__default": "Sacrier Adventurer"
-      }
-    }
-  },
-  "heros": {
-    " ": {
-      "cramoisi": {
-        "__default": "Crimson Hero"
-      }
-    }
-  },
-  "héros": {
-    " ": {
-      "rutilant": {
-        "__default": "Gleaming Hero"
-      },
-      "rayonnant": {
-        "__default": "Radiant Hero"
-      },
-      "brasillant": {
-        "__default": "Sparkling Hero"
-      },
-      "des": {
-        " ": {
-          "douze": {
-            "__default": "Hero of the Twelve"
-          }
-        }
-      }
-    }
-  },
-  "neutre": {
-    "__default": "Neutral",
-    " ": {
-      "(": {
-        "%": {
-          ")": {
-            "__default": "Neutral (%)"
-          }
-        },
-        "fixe": {
-          ")": {
-            "__default": "Neutral (fixed)"
-          }
-        }
-      }
-    }
-  },
-  "bontarien": {
-    "__default": "Bontarian",
-    " ": {
-      "suspicieux": {
-        "__default": "Suspicious Bontarian"
-      },
-      "intrépide": {
-        "__default": "Intrepid Bontarian"
-      },
-      "énervé": {
-        "__default": "Irritated Bontarian"
-      },
-      "méfiant": {
-        "__default": "Wary Bontarian"
-      },
-      "en": {
-        " ": {
-          "détresse": {
-            "__default": "Bontarian in Distress"
-          }
-        }
-      }
-    }
-  },
-  "brâkmarien": {
-    "__default": "Brakmarian",
-    " ": {
-      "moribond": {
-        "__default": "Moribund Brakmarian"
-      }
-    }
-  },
-  "foire": {
-    " ": {
-      "du": {
-        " ": {
-          "trool": {
-            "__default": "Trool Fair"
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "question": {
-            "__default": "Fair-equently Asked Questions"
-          }
-        }
-      }
-    }
-  },
-  "îlots": {
-    " ": {
-      "de": {
-        " ": {
-          "la": {
-            " ": {
-              "mer": {
-                " ": {
-                  "d": {
-                    "'": {
-                      "asse": {
-                        "__default": "Asse Sea Islands"
-                      }
-                    }
-                  },
-                  "kantil": {
-                    "__default": "Antinau Sea Islands"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "zone": {
-    " ": {
-      "1": {
-        "-": {
-          "a": {
-            "__default": "Area 1-A"
-          },
-          "b": {
-            "__default": "Area 1-B"
-          },
-          "c": {
-            "__default": "Area 1-C"
-          },
-          "d": {
-            "__default": "Area 1-D"
-          }
-        }
-      },
-      "2": {
-        "-": {
-          "a": {
-            "__default": "Area 2-A"
-          },
-          "b": {
-            "__default": "Area 2-B"
-          },
-          "c": {
-            "__default": "Area 2-C"
-          },
-          "d": {
-            "__default": "Area 2-D"
-          }
-        }
-      },
-      "3": {
-        "-": {
-          "a": {
-            "__default": "Area 3-A"
-          },
-          "b": {
-            "__default": "Area 3-B"
-          },
-          "c": {
-            "__default": "Area 3-C"
-          },
-          "d": {
-            "__default": "Area 3-D"
-          }
-        }
-      },
-      "4": {
-        "-": {
-          "a": {
-            "__default": "Area 4-A"
-          },
-          "b": {
-            "__default": "Area 4-B"
-          },
-          "c": {
-            "__default": "Area 4-C"
-          },
-          "d": {
-            "__default": "Area 4-D"
-          }
-        }
-      },
-      "5": {
-        "-": {
-          "a": {
-            "__default": "Area 5-A"
-          },
-          "b": {
-            "__default": "Area 5-B"
-          },
-          "c": {
-            "__default": "Area 5-C"
-          },
-          "d": {
-            "__default": "Area 5-D"
-          }
-        }
-      },
-      "6": {
-        "-": {
-          "a": {
-            "__default": "Area 6-A"
-          },
-          "b": {
-            "__default": "Area 6-B"
-          },
-          "c": {
-            "__default": "Area 6-C"
-          },
-          "d": {
-            "__default": "Area 6-D"
-          }
-        }
-      },
-      "privée": {
-        "__default": "Private Area"
-      },
-      "de": {
-        " ": {
-          "départ": {
-            "__default": "Starting area"
-          },
-          "protection": {
-            " ": {
-              "glyphe": {
-                "__default": "Protection Zone Glyph"
-              }
-            },
-            "__default": "Protection Zone"
-          }
-        }
-      }
-    }
-  },
-  "saharach": {
-    "__default": "Ohwymi",
-    ",": {
-      " ": {
-        "territoire": {
-          " ": {
-            "verdoyant": {
-              " ": {
-                "?": {
-                  "__default": "Ohwymi, a Luscious Countryside?"
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "profondeurs": {
-    " ": {
-      "de": {
-        " ": {
-          "sufokia": {
-            "__default": "Depths of Sufokia"
-          }
-        }
-      },
-      "d": {
-        "'": {
-          "astrub": {
-            "__default": "Depths of Astrub"
-          }
-        }
-      },
-      "marines": {
-        "__default": "Ocean Depths"
-      }
-    }
-  },
-  "mode": {
-    " ": {
-      "tactique": {
-        "__default": "Tactical Mode"
-      },
-      "d": {
-        "'": {
-          "emploi": {
-            " ": {
-              "de": {
-                " ": {
-                  "la": {
-                    " ": {
-                      "pelle": {
-                        " ": {
-                          "hectrochoc": {
-                            "__default": "Dontase Mebro Shovel Instruction Manual"
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              "des": {
-                " ": {
-                  "pierres": {
-                    " ": {
-                      "sacrées": {
-                        " ": {
-                          "d": {
-                            "'": {
-                              "araknas": {
-                                "__default": "Araknas Sacred Stones User Guide"
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
           }
         }
       }
@@ -49990,6 +49138,13 @@
       },
       "désincarné": {
         "__default": "Disembodied Fire"
+      },
+      "l": {
+        "'": {
+          "artifice": {
+            "__default": "Fouxwork Fire"
+          }
+        }
       }
     },
     "__default": "Fire"
@@ -50239,6 +49394,9 @@
         }
       }
     }
+  },
+  "alignement": {
+    "__default": "Alignment"
   },
   "pourcentage": {
     " ": {
@@ -83523,6 +82681,9 @@
           },
           "outils": {
             "__default": "Sack of Tools"
+          },
+          "pupuces": {
+            "__default": "Fleefleebag"
           }
         }
       },
@@ -84887,7 +84048,8 @@
       "sang": {
         "__default": "First Blood"
       }
-    }
+    },
+    "__default": "First"
   },
   "transformation": {
     " ": {
@@ -90843,6 +90005,411 @@
   },
   "guigne": {
     "__default": "Cataplasm"
+  },
+  "iop": {
+    " ": {
+      "attitude": {
+        "__default": "Iop Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Iop - Female Face"
+              },
+              "masculin": {
+                "__default": "Iop – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "en": {
+        " ": {
+          "cape": {
+            " ": {
+              "brâkmarienne": {
+                "__default": "Iop in a Brakmarian Cloak"
+              }
+            }
+          }
+        }
+      },
+      "menaçante": {
+        "__default": "Menacing Iop"
+      },
+      "désinvolte": {
+        "__default": "Casual Iop"
+      },
+      "iopesque": {
+        "__default": "Ioppish Iop"
+      },
+      "simplet": {
+        "__default": "Simple Iop"
+      },
+      "possédée": {
+        "__default": "Possessed Iop"
+      },
+      "geignante": {
+        "__default": "Moaning Iop"
+      },
+      "expérimentée": {
+        "__default": "Experienced Iop"
+      },
+      "fiévreux": {
+        "__default": "Feverish Iop"
+      },
+      "fortuné": {
+        "__default": "Fortunate Iop"
+      },
+      "et": {
+        " ": {
+          "hop": {
+            "__default": "Iop and Hop"
+          }
+        }
+      }
+    }
+  },
+  "xélor": {
+    " ": {
+      "attitude": {
+        "__default": "Xelor Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Xelor – Female Face"
+              },
+              "masculin": {
+                "__default": "Xelor – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "louche": {
+        "__default": "Seedy Xelor"
+      },
+      "suspect": {
+        "__default": "Suspect Xelor"
+      },
+      "interlope": {
+        "__default": "Shady Xelor"
+      },
+      "menaçante": {
+        "__default": "Menacing Xelor"
+      },
+      "dofusophile": {
+        "__default": "Dofusophile Xelor"
+      }
+    },
+    "__default": "Xelor"
+  },
+  "sadida": {
+    " ": {
+      "attitude": {
+        "__default": "Sadida Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Sadida – Female Face"
+              },
+              "masculin": {
+                "__default": "Sadida – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "en": {
+        " ": {
+          "cape": {
+            " ": {
+              "bontarienne": {
+                "__default": "Sadida in a Bontarian cape"
+              }
+            }
+          }
+        }
+      },
+      "monomaniaque": {
+        "__default": "Obsessed Sadida"
+      },
+      "corrompu": {
+        "__default": "Corrupted Sadida"
+      }
+    }
+  },
+  "féca": {
+    " ": {
+      "attitude": {
+        "__default": "Feca Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Feca – Female Face"
+              },
+              "masculin": {
+                "__default": "Feca – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "menaçant": {
+        "__default": "Menacing Feca"
+      }
+    },
+    "__default": "Feca"
+  },
+  "eniripsa": {
+    " ": {
+      "attitude": {
+        "__default": "Eniripsa Attitude"
+      },
+      "angoissée": {
+        "__default": "Anxious Eniripsa"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Eniripsa – Female Face"
+              },
+              "masculin": {
+                "__default": "Eniripsa – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "brâkmar": {
+            "__default": "Brakmarian Eniripsa"
+          }
+        }
+      },
+      "hyperactive": {
+        "__default": "Hyperactive Eniripsa"
+      },
+      "rassurée": {
+        "__default": "Relieved Eniripsa"
+      }
+    }
+  },
+  "enutrof": {
+    " ": {
+      "attitude": {
+        "__default": "Enutrof Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Enutrof – Female Face"
+              },
+              "masculin": {
+                "__default": "Enutrof – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "calculateur": {
+        "__default": "Calculating Enutrof"
+      },
+      "avide": {
+        "__default": "Greedy Enutrof"
+      },
+      "avare": {
+        "__default": "Miserly Enutrof"
+      },
+      "prospecteur": {
+        "__default": "Prospecting Enutrof"
+      }
+    }
+  },
+  "sacrieur": {
+    " ": {
+      "attitude": {
+        "__default": "Sacrier Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Sacrier – Female Face"
+              },
+              "masculin": {
+                "__default": "Sacrier – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "au": {
+        " ": {
+          "foulard": {
+            " ": {
+              "rouge": {
+                "__default": "Sacrier in a Red Scarf"
+              }
+            }
+          }
+        }
+      }
+    },
+    "__default": "Sacrier"
+  },
+  "sram": {
+    " ": {
+      "attitude": {
+        "__default": "Sram Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Sram – Female Face"
+              },
+              "masculin": {
+                "__default": "Sram – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "moche": {
+        "__default": "Ugly Sram"
+      },
+      "naïf": {
+        "__default": "Naive Sram"
+      },
+      "assassiné": {
+        "__default": "Assassinated Sram"
+      },
+      "d": {
+        "'": {
+          "égoutant": {
+            "__default": "The Stinking Sram"
+          }
+        }
+      }
+    }
+  },
+  "osamodas": {
+    " ": {
+      "attitude": {
+        "__default": "Osamodas Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Osamodas – Female Face"
+              },
+              "masculin": {
+                "__default": "Osamodas – Male Face"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ecaflip": {
+    " ": {
+      "attitude": {
+        "__default": "Ecaflip Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Ecaflip – Female Face"
+              },
+              "masculin": {
+                "__default": "Ecaflip – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "agressive": {
+        "__default": "Agressive Ecaflip"
+      },
+      "querelleur": {
+        "__default": "Quarrelsome Ecaflip"
+      },
+      "belliqueuse": {
+        "__default": "Belligerent Ecaflip"
+      },
+      "malchanceuse": {
+        "__default": "Unlucky Ecaflip"
+      },
+      "sourit": {
+        " ": {
+          "aux": {
+            " ": {
+              "audacieux": {
+                "__default": "Ecaflip Favours the Brave"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "crâ": {
+    " ": {
+      "attitude": {
+        "__default": "Cra Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Cra – Female Face"
+              },
+              "masculin": {
+                "__default": "Cra – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "menaçant": {
+        "__default": "Menacing Cra"
+      },
+      "mitrailleur": {
+        "__default": "Fast-Shooting Cra"
+      },
+      "possédée": {
+        "__default": "Possessed Cra"
+      },
+      "calculateur": {
+        "__default": "Calculating Cra"
+      }
+    },
+    "__default": "Cra"
   },
   "petite": {
     " ": {
@@ -101700,6 +101267,9 @@
       },
       "brûlée": {
         "__default": "Hothead"
+      },
+      "dure": {
+        "__default": "Hard Headed"
       }
     }
   },
@@ -111025,6 +110595,36 @@
   "touflage": {
     "__default": "Plantouflage"
   },
+  "pandawa": {
+    " ": {
+      "attitude": {
+        "__default": "Pandawa Attitude"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Pandawa – Female Face"
+              },
+              "masculin": {
+                "__default": "Pandawa – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "éméché": {
+        "__default": "Tipsy Pandawa"
+      },
+      "déboussolé": {
+        "__default": "Flummoxed Pandawa"
+      },
+      "mélancolique": {
+        "__default": "Melancholic Pandawa"
+      }
+    }
+  },
   "corno": {
     " ": {
       "fulgures": {
@@ -113300,6 +112900,9 @@
       },
       "soin": {
         "__default": "Anti-Heal"
+      },
+      "kopiage": {
+        "__default": "Anti-Kopiing"
       }
     }
   },
@@ -116089,6 +115692,9 @@
           },
           "patafleuf": {
             "__default": "Marshafluff Flavour"
+          },
+          "mutinerie": {
+            "__default": "The Scent of Mutiny"
           }
         }
       },
@@ -117221,6 +116827,9 @@
             }
           }
         }
+      },
+      "propres": {
+        "__default": "Clean Hands"
       }
     }
   },
@@ -121473,7 +121082,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Mirror"
   },
   "short": {
     " ": {
@@ -131193,7 +130803,7 @@
     }
   },
   "élémentaire": {
-    "__default": "Elementary",
+    "__default": "Elementary, My Dear!",
     " ": {
       "d": {
         "'": {
@@ -133925,7 +133535,8 @@
       "souffle": {
         "__default": "Last Breath"
       }
-    }
+    },
+    "__default": "Last"
   },
   "reste": {
     " ": {
@@ -136186,6 +135797,13 @@
             "__default": "One Step Behind"
           }
         }
+      },
+      "qui": {
+        " ": {
+          "court": {
+            "__default": "Time Flies"
+          }
+        }
       }
     }
   },
@@ -136582,6 +136200,9 @@
           },
           "levant": {
             "__default": "Ryzsun Breeze"
+          },
+          "printemps": {
+            "__default": "Spring Breeze"
           }
         }
       },
@@ -142316,6 +141937,24 @@
             "__default": "Three-Ply Lotus"
           }
         }
+      },
+      "pour": {
+        " ": {
+          "un": {
+            "__default": "Lotus for One"
+          }
+        }
+      },
+      "et": {
+        " ": {
+          "bouche": {
+            " ": {
+              "cousue": {
+                "__default": "Button Your Lotus"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -143939,6 +143578,9 @@
                 "__default": "By the Skin of Your Teeth"
               }
             }
+          },
+          "nimpatience": {
+            "__default": "Unstubbygerness"
           }
         }
       }
@@ -150074,6 +149716,17 @@
   "bulbécrome": {
     "__default": "Necrobulb"
   },
+  "héros": {
+    " ": {
+      "des": {
+        " ": {
+          "douze": {
+            "__default": "Hero of the Twelve"
+          }
+        }
+      }
+    }
+  },
   "papillouclier": {
     "__default": "Fluttershield"
   },
@@ -153837,6 +153490,87 @@
       }
     }
   },
+  "steamer": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Foggernaut – Female Face"
+              },
+              "masculin": {
+                "__default": "Foggernaut – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "hystérique": {
+        "__default": "Hysterical Foggernaut"
+      },
+      "catatonique": {
+        "__default": "Catatonic Foggernaut"
+      },
+      "suicidaire": {
+        "__default": "Suicidal Foggernaut"
+      },
+      "ahurie": {
+        "__default": "Stupefied Foggernaut"
+      }
+    }
+  },
+  "eliotrope": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Eliotrope – Female Face"
+              },
+              "masculin": {
+                "__default": "Eliotrope – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "menaçant": {
+        "__default": "Threatening Eliotrope"
+      },
+      "agressive": {
+        "__default": "Aggressive Eliotrope"
+      },
+      "hostile": {
+        "__default": "Hostile Eliotrope"
+      },
+      "somnolent": {
+        "__default": "Sleeping Eliotrope"
+      }
+    }
+  },
+  "huppermage": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Huppermage – Female Face"
+              },
+              "masculin": {
+                "__default": "Huppermage – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "menaçante": {
+        "__default": "Menacing Huppermage"
+      }
+    }
+  },
   "booftrool": {
     " ": {
       "de": {
@@ -153881,6 +153615,162 @@
             " ": {
               "lary": {
                 "__default": "Lary Masters Spaulders"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "roublard": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Rogue – Female Face"
+              },
+              "masculin": {
+                "__default": "Rogue – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "akiri": {
+        "__default": "Rogue Fort"
+      },
+      "ticho": {
+        "__default": "Artich Rogue"
+      },
+      "kebuz": {
+        "__default": "Blam Stoker"
+      },
+      "riko": {
+        "__default": "Rogue Ling"
+      },
+      "lequin": {
+        "__default": "Rogue Rish"
+      },
+      "chypel": {
+        "__default": "Rogue Shambo"
+      },
+      "ébouillanté": {
+        "__default": "Scalded Rogue"
+      },
+      "du": {
+        " ": {
+          "clan": {
+            " ": {
+              "smisse": {
+                "__default": "Smisse Clan Rogue"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "zobal": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Masqueraider – Female Face"
+              },
+              "masculin": {
+                "__default": "Masqueraider – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "hibaba": {
+        " ": {
+          "et": {
+            " ": {
+              "les": {
+                " ": {
+                  "40": {
+                    " ": {
+                      "roublards": {
+                        "__default": "Masqueraider Babali and the 40 Rogues"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ouginak": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Ouginak – Female Face"
+              },
+              "masculin": {
+                "__default": "Ouginak – Male Face"
+              }
+            }
+          }
+        }
+      },
+      "déchaîné": {
+        "__default": "Rabid Ouginak"
+      },
+      "évolué": {
+        "__default": "Cultivated Ouginak"
+      },
+      "craintif": {
+        "__default": "Fearful Ouginak"
+      },
+      "de": {
+        " ": {
+          "srambad": {
+            "__default": "Ouginak from Srambad"
+          }
+        }
+      },
+      "désorienté": {
+        "__default": "Disorientated Ouginak"
+      },
+      "allergique": {
+        "__default": "Allergic Ouginak"
+      },
+      "cuit": {
+        " ": {
+          "à": {
+            " ": {
+              "point": {
+                "__default": "Medium Rare Ouginak"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "forgelance": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Forgelance – Female Face"
+              },
+              "masculin": {
+                "__default": "Forgelance – Male Face"
               }
             }
           }
@@ -154172,6 +154062,9 @@
         "__default": "Bontarian Farmer"
       }
     }
+  },
+  "forgemage": {
+    "__default": "Smithmagus"
   },
   "sculptemage": {
     "__default": "Carvmagus"
@@ -161872,6 +161765,16 @@
             "__default": "Death Slayer"
           }
         }
+      },
+      "à": {
+        " ": {
+          "gages": {
+            "__default": "Contract Killer"
+          },
+          "vue": {
+            "__default": "Kill on Sight"
+          }
+        }
       }
     }
   },
@@ -163963,6 +163866,82 @@
       }
     }
   },
+  "aventurier": {
+    " ": {
+      "maudit": {
+        "__default": "Cursed Adventurer"
+      },
+      "frénétique": {
+        "__default": "Frenzied Adventurer"
+      },
+      "batailleur": {
+        "__default": "Battling Adventurer"
+      },
+      "sanguinaire": {
+        "__default": "Bloodthirsty Adventurer"
+      },
+      "pris": {
+        " ": {
+          "sur": {
+            " ": {
+              "le": {
+                " ": {
+                  "fait": {
+                    "__default": "Adventurer Caught in the Act"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "repéré": {
+        "__default": "Adventurer Spotted"
+      },
+      "injurieux": {
+        "__default": "Insulting Adventurer"
+      },
+      "crétin": {
+        "__default": "Dimwit Adventurer"
+      },
+      "illettré": {
+        "__default": "Uneducated Adventurer"
+      },
+      "provocateur": {
+        "__default": "Provocative Adventurer"
+      },
+      "impatient": {
+        "__default": "Impatient Adventurer"
+      },
+      "débrouillard": {
+        "__default": "Resourceful Adventurer"
+      },
+      "crâ": {
+        "__default": "Cra Adventurer"
+      },
+      "sram": {
+        "__default": "Sram Adventurer"
+      },
+      "pandawa": {
+        "__default": "Pandawa Adventurer"
+      },
+      "osamodas": {
+        "__default": "Osamodas Adventurer"
+      },
+      "ecaflip": {
+        "__default": "Ecaflip Adventurer"
+      },
+      "iop": {
+        "__default": "Iop Adventurer"
+      },
+      "sadida": {
+        "__default": "Sadida Adventurer"
+      },
+      "sacrieur": {
+        "__default": "Sacrier Adventurer"
+      }
+    }
+  },
   "rib": {
     " ": {
       "saignant": {
@@ -164110,6 +164089,13 @@
     " ": {
       "fellet": {
         "__default": "Will-o'-the-Wacky"
+      },
+      "de": {
+        " ": {
+          "choco": {
+            "__default": "Cuckoo for Choco"
+          }
+        }
       }
     }
   },
@@ -168659,6 +168645,9 @@
             }
           }
         }
+      },
+      "grozu": {
+        "__default": "Tsume-Bigzu"
       }
     }
   },
@@ -177130,6 +177119,13 @@
   "bharik": {
     "__default": "Bharil"
   },
+  "récolteur": {
+    " ": {
+      "frigostien": {
+        "__default": "Frigostian Harvester"
+      }
+    }
+  },
   "émile": {
     " ": {
       "kah": {
@@ -177338,6 +177334,17 @@
   },
   "fraouctor": {
     "__default": "Frauguctor"
+  },
+  "expert": {
+    " ": {
+      "en": {
+        " ": {
+          "chronomagie": {
+            "__default": "Chronomagic Expert"
+          }
+        }
+      }
+    }
   },
   "proie": {
     " ": {
@@ -178148,6 +178155,13 @@
   },
   "ren": {
     "__default": "Renn"
+  },
+  "artisan": {
+    " ": {
+      "pandawa": {
+        "__default": "Pandawan Artisan"
+      }
+    }
   },
   "montagnarde": {
     " ": {
@@ -179941,6 +179955,9 @@
           },
           "bambol": {
             "__default": "Bambrassed Off"
+          },
+          "boule": {
+            "__default": "Lesser and Fewer"
           }
         }
       },
@@ -180482,6 +180499,13 @@
         " ": {
           "baume": {
             "__default": "Whalebeing"
+          },
+          "boum": {
+            " ": {
+              "?": {
+                "__default": "Can I Get a Boom?"
+              }
+            }
           }
         }
       },
@@ -181069,9 +181093,15 @@
             "__default": "Venomous Counterattack"
           }
         }
+      },
+      "vent": {
+        " ": {
+          "contraire": {
+            "__default": "Fighting the Headwinds"
+          }
+        }
       }
-    },
-    "__default": "Counter"
+    }
   },
   "affrontement": {
     " ": {
@@ -183651,6 +183681,25 @@
                         }
                       }
                     }
+                  },
+                  "elle": {
+                    " ": {
+                      "a": {
+                        " ": {
+                          "ma": {
+                            " ": {
+                              "goule": {
+                                " ": {
+                                  "?": {
+                                    "__default": "What makes you think I'm crazy?"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
                   }
                 }
               }
@@ -183848,6 +183897,37 @@
             " ": {
               "armutins": {
                 "__default": "Armarines on Strike"
+              }
+            }
+          }
+        }
+      },
+      "kwapa": {
+        "__default": "Kwapa Mutiny"
+      },
+      "du": {
+        " ": {
+          "sarkapwane": {
+            "__default": "Blokapwane Mutiny"
+          },
+          "betto": {
+            "__default": "Baka Mutiny"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "la": {
+            " ": {
+              "kokom": {
+                "__default": "Kwakumber Mutiny"
+              }
+            }
+          },
+          "l": {
+            "'": {
+              "akakwa": {
+                "__default": "Akakwa Mutiny"
               }
             }
           }
@@ -184313,6 +184393,13 @@
                 "__default": "Leave the Shadows"
               }
             }
+          },
+          "sa": {
+            " ": {
+              "coquille": {
+                "__default": "Come Out of Your Shell"
+              }
+            }
           }
         }
       }
@@ -184698,6 +184785,24 @@
             }
           }
         }
+      },
+      "son": {
+        " ": {
+          "monstre": {
+            "__default": "To Each His Pwn"
+          },
+          "tour": {
+            " ": {
+              "de": {
+                " ": {
+                  "magie": {
+                    "__default": "A Turn of Magic"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -184763,7 +184868,36 @@
       "pas": {
         " ": {
           "pousser": {
-            "__default": "Don't Push"
+            "__default": "Don't Push",
+            " ": {
+              "les": {
+                " ": {
+                  "cochons": {
+                    " ": {
+                      "dans": {
+                        " ": {
+                          "la": {
+                            " ": {
+                              "confiture": {
+                                " ": {
+                                  "d": {
+                                    "'": {
+                                      "orties": {
+                                        "__default": "Don't Push Your Lucky Pearls Before Swine"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -185555,6 +185689,25 @@
             }
           }
         }
+      },
+      "l": {
+        "'": {
+          "esprit": {
+            " ": {
+              "qui": {
+                " ": {
+                  "croyait": {
+                    " ": {
+                      "prendre": {
+                        "__default": "Tables Turned"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -185578,6 +185731,15 @@
       },
       "à": {
         " ": {
+          "l": {
+            "'": {
+              "aveuglette": {
+                "__default": "Fighting Blind"
+              }
+            }
+          }
+        },
+        " ": {
           "l": {
             "'": {
               "aveuglette": {
@@ -187299,6 +187461,9 @@
       }
     }
   },
+  "persécution": {
+    "__default": "Persecution"
+  },
   "reconstitution": {
     "__default": "Regeneration",
     " ": {
@@ -188456,6 +188621,9 @@
             }
           }
         }
+      },
+      "larvaire": {
+        "__default": "Larval Stymation"
       }
     }
   },
@@ -192917,6 +193085,13 @@
       },
       "djaulien": {
         "__default": "Djaulian Duel"
+      },
+      "et": {
+        " ": {
+          "pique": {
+            "__default": "Spade to Rest"
+          }
+        }
       }
     }
   },
@@ -194360,6 +194535,13 @@
     " ": {
       "célium": {
         "__default": "Mice Helium"
+      },
+      "des": {
+        " ": {
+          "bombombres": {
+            "__default": "Friend of Cucumbombs"
+          }
+        }
       }
     }
   },
@@ -194689,6 +194871,16 @@
             "__default": "Unsafe Distance"
           }
         }
+      },
+      "de": {
+        " ": {
+          "sécurité": {
+            "__default": "Safe Distance"
+          }
+        }
+      },
+      "respectueuse": {
+        "__default": "Respectful Distance"
       }
     }
   },
@@ -196396,6 +196588,17 @@
       },
       "marécageux": {
         "__default": "Swampmates"
+      },
+      "passés": {
+        " ": {
+          "au": {
+            " ": {
+              "futur": {
+                "__default": "Summons Stoppage"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -196437,6 +196640,13 @@
         " ": {
           "pointe": {
             "__default": "Peak Hour"
+          },
+          "la": {
+            " ": {
+              "mort": {
+                "__default": "Hour of Death"
+              }
+            }
           }
         }
       }
@@ -197010,6 +197220,13 @@
     " ": {
       "vivant": {
         "__default": "Living Show"
+      },
+      "de": {
+        " ": {
+          "marionnettes": {
+            "__default": "Puppet Show"
+          }
+        }
       }
     }
   },
@@ -197198,6 +197415,9 @@
           },
           "sang": {
             "__default": "Blood Bath"
+          },
+          "foule": {
+            "__default": "Walkabout"
           }
         }
       },
@@ -197696,6 +197916,13 @@
       },
       "abordage": {
         "__default": "Dirty Boarding"
+      },
+      "gosse": {
+        " ": {
+          "!": {
+            "__default": "Why You Little...!"
+          }
+        }
       }
     }
   },
@@ -198011,7 +198238,16 @@
     }
   },
   "diagonale": {
-    "__default": "Diagonal"
+    "__default": "Diagonal",
+    " ": {
+      "du": {
+        " ": {
+          "vide": {
+            "__default": "Void Diagonal"
+          }
+        }
+      }
+    }
   },
   "vitesse": {
     "__default": "Speed"
@@ -198748,7 +198984,16 @@
     }
   },
   "sortie": {
-    "__default": "Exit"
+    "__default": "Exit",
+    " ": {
+      "de": {
+        " ": {
+          "ring": {
+            "__default": "Out of the Ring"
+          }
+        }
+      }
+    }
   },
   "strapiège": {
     " ": {
@@ -199393,6 +199638,9 @@
       },
       "cochon": {
         "__default": "Leap-Pig"
+      },
+      "pirate": {
+        "__default": "Swappin' Swabbie Swatter"
       }
     }
   },
@@ -200805,6 +201053,9 @@
           }
         },
         "__default": "Risky Opening"
+      },
+      "facile": {
+        "__default": "Easy Opening"
       }
     }
   },
@@ -201155,6 +201406,9 @@
     " ": {
       "prioritaire": {
         "__default": "Priority Target"
+      },
+      "facile": {
+        "__default": "Easy Target"
       }
     }
   },
@@ -202935,6 +203189,9 @@
       },
       "cauchemardesque": {
         "__default": "Nightmarish Pursuit"
+      },
+      "royale": {
+        "__default": "Royal Pursuit"
       }
     }
   },
@@ -206456,6 +206713,9 @@
             }
           }
         }
+      },
+      "forestière": {
+        "__default": "Forest Vigilance"
       }
     }
   },
@@ -218755,6 +219015,9 @@
             }
           }
         }
+      },
+      "pludent": {
+        "__default": "Alchemisafe"
       }
     }
   },
@@ -221030,7 +221293,552 @@
       }
     }
   },
+  "économe": {
+    "__default": "Scanty"
+  },
+  "intouchable": {
+    "__default": "Untouchable"
+  },
+  "ordonné": {
+    "__default": "Maniac"
+  },
+  "élitiste": {
+    "__default": "Elitist"
+  },
+  "imprévisible": {
+    "__default": "Unpredictable"
+  },
+  "hardi": {
+    "__default": "Impertinence"
+  },
+  "collant": {
+    "__default": "Tight"
+  },
+  "econome": {
+    "__default": "Scanty"
+  },
+  "circulez": {
+    " ": {
+      "!": {
+        "__default": "Keep Moving!"
+      }
+    }
+  },
+  "quatuor": {
+    "__default": "Quartet"
+  },
+  "bombombragogo": {
+    "__default": "Cucumbombagogo"
+  },
+  "kwaboom": {
+    " ": {
+      "2": {
+        " ": {
+          "en": {
+            " ": {
+              "1": {
+                "__default": "2-for-1 Kwaboom"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ultra": {
+    " ": {
+      "instinct": {
+        "__default": "Ultima Instinct"
+      }
+    }
+  },
+  "rinku": {
+    " ": {
+      "meurtrier": {
+        "__default": "Murderous Rinku"
+      }
+    }
+  },
+  "m": {
+    " ": {
+      "et": {
+        " ": {
+          "mme": {
+            " ": {
+              "samovar": {
+                " ": {
+                  "ont": {
+                    " ": {
+                      "un": {
+                        " ": {
+                          "fils": {
+                            ".": {
+                              ".": {
+                                ".": {
+                                  "__default": "I'm a Little..."
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "images": {
+    " ": {
+      "du": {
+        " ": {
+          "monde": {
+            " ": {
+              "flottant": {
+                "__default": "Images of the Floating World"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "courber": {
+    " ": {
+      "l": {
+        "'": {
+          "épine": {
+            "__default": "Thorny Problem"
+          }
+        }
+      }
+    }
+  },
+  "madurasse": {
+    " ": {
+      "masque": {
+        "__default": "Madurasse Mask"
+      }
+    }
+  },
+  "kaokuriche": {
+    "__default": "Kaokurich"
+  },
+  "onigovrille": {
+    "__default": "Onigorispin"
+  },
+  "lantervalle": {
+    "__default": "Lanternval"
+  },
+  "saïffe": {
+    " ": {
+      "zaune": {
+        "__default": "Sayff Zown"
+      }
+    }
+  },
+  "domakurobligeance": {
+    "__default": "Domakourtesy"
+  },
+  "dorigamise": {
+    " ": {
+      "à": {
+        " ": {
+          "mort": {
+            "__default": "Dorigexecution"
+          }
+        }
+      }
+    }
+  },
+  "dorigamiséricorde": {
+    "__default": "Dorigamercy"
+  },
+  "raser": {
+    " ": {
+      "les": {
+        " ": {
+          "murs": {
+            "__default": "Wallflowers"
+          }
+        }
+      }
+    }
+  },
+  "conquérant": {
+    "__default": "Conqueror"
+  },
+  "doume": {
+    "__default": "Doom"
+  },
+  "lâche": {
+    " ": {
+      "mes": {
+        " ": {
+          "côtes": {
+            "__default": "Don't Tickle My Ribs"
+          }
+        }
+      }
+    }
+  },
+  "empêtrement": {
+    " ": {
+      "d": {
+        "'": {
+          "esprit": {
+            " ": {
+              "entêtant": {
+                "__default": "Mental Entanglement"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "dorée": {
+    ",": {
+      " ": {
+        "mi": {
+          " ": {
+            "fa": {
+              " ": {
+                "sol": {
+                  "__default": "Don't Ray Me, Fah"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "désillusion": {
+    "__default": "Disillusion"
+  },
+  "bécotam": {
+    "__default": "Keep 'Em in Line"
+  },
+  "dirige": {
+    " ": {
+      "mais": {
+        " ": {
+          "mal": {
+            " ": {
+              "rédige": {
+                "__default": "Team-Busting Exercise"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tombés": {
+    " ": {
+      "sous": {
+        " ": {
+          "le": {
+            " ": {
+              "charme": {
+                "__default": "Fallen Under the Spell"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "collé": {
+    "-": {
+      "serré": {
+        "__default": "Stuck on You"
+      }
+    }
+  },
+  "touche": {
+    " ": {
+      "pas": {
+        " ": {
+          "à": {
+            " ": {
+              "mon": {
+                " ": {
+                  "blop": {
+                    "__default": "Hands off My Blop"
+                  }
+                }
+              },
+              "mes": {
+                " ": {
+                  "blops": {
+                    "__default": "Hands off My Blops"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "mené": {
+    " ": {
+      "à": {
+        " ": {
+          "la": {
+            " ": {
+              "cawotte": {
+                "__default": "Cawwot and Stick"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tonneaux": {
+    " ": {
+      "truands": {
+        "__default": "Buccaneer Barrels"
+      }
+    }
+  },
+  "échapper": {
+    " ": {
+      "au": {
+        " ": {
+          "fisk": {
+            "__default": "Evadatax"
+          }
+        }
+      }
+    }
+  },
+  "parcimonie": {
+    " ": {
+      "royale": {
+        "__default": "Royal Parsimony"
+      }
+    }
+  },
+  "guerilla": {
+    "__default": "Guerrilla"
+  },
+  "truchement": {
+    "__default": "Strich and Slide"
+  },
+  "enchaînemou": {
+    "__default": "Soft Lines"
+  },
+  "privilège": {
+    " ": {
+      "royal": {
+        "__default": "Royal Privilege"
+      }
+    }
+  },
+  "raviver": {
+    " ": {
+      "la": {
+        " ": {
+          "flamme": {
+            "__default": "Keep the Flame Alive"
+          }
+        }
+      }
+    }
+  },
+  "pizwa": {
+    " ": {
+      "quatre": {
+        " ": {
+          "couleurs": {
+            "__default": "Four-Colour Pizwa"
+          }
+        }
+      }
+    }
+  },
+  "hamrack": {
+    "'": {
+      "n": {
+        " ": {
+          "roll": {
+            "__default": "Hamrack 'n' Roll"
+          }
+        }
+      }
+    }
+  },
+  "hellémentaire": {
+    "__default": "Hellemental"
+  },
+  "autonomie": {
+    " ": {
+      "givrée": {
+        "__default": "Frozen Autonomy"
+      }
+    }
+  },
+  "émancipation": {
+    " ": {
+      "maternelle": {
+        "__default": "Maternal Emancipation"
+      }
+    }
+  },
+  "baston": {
+    " ": {
+      "équitable": {
+        "__default": "Fair Fight"
+      }
+    }
+  },
+  "relation": {
+    " ": {
+      "toxique": {
+        "__default": "Toxic Relationship"
+      }
+    }
+  },
+  "complaisance": {
+    " ": {
+      "gloursonne": {
+        "__default": "Bearbaric Complacency"
+      }
+    }
+  },
+  "jeux": {
+    " ": {
+      "d": {
+        "'": {
+          "ombres": {
+            "__default": "Shadow Play"
+          }
+        }
+      }
+    }
+  },
+  "antioxydant": {
+    "__default": "Antioxidant"
+  },
+  "brikolère": {
+    "__default": "Tinkerage"
+  },
+  "voyez": {
+    ",": {
+      " ": {
+        "il": {
+          " ": {
+            "y": {
+              " ": {
+                "a": {
+                  " ": {
+                    "du": {
+                      " ": {
+                        "monde": {
+                          "__default": "Always Someone There to Align Me"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "pingrerie": {
+    "__default": "Stinginess"
+  },
+  "chaises": {
+    " ": {
+      "musicales": {
+        "__default": "Musical Chairs"
+      }
+    }
+  },
+  "lunatique": {
+    "__default": "Lunartic"
+  },
+  "abjecte": {
+    " ": {
+      "opulence": {
+        "__default": "Abject Opulence"
+      }
+    }
+  },
+  "arsenal": {
+    " ": {
+      "total": {
+        "__default": "Total Arsenal"
+      }
+    }
+  },
+  "régence": {
+    " ": {
+      "d": {
+        "'": {
+          "encre": {
+            "__default": "Ink Regency"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "papier": {
+            "__default": "Paper Regency"
+          }
+        }
+      }
+    }
+  },
+  "sauvegarde": {
+    " ": {
+      "des": {
+        " ": {
+          "krokilles": {
+            "__default": "Save the Sauroshells"
+          }
+        }
+      }
+    }
+  },
+  "charier": {
+    " ": {
+      "la": {
+        " ": {
+          "chocolaterie": {
+            "__default": "A Nice Light Snack"
+          }
+        }
+      }
+    }
+  },
   "po": {
     "__default": "Range"
+  },
+  "ddg": {
+    "__default": "Ice Dofus"
+  },
+  "tdm": {
+    "__default": "Around the world"
+  },
+  "pano": {
+    "__default": "set"
+  },
+  "grobe": {
+    "__default": "Nolifis"
+  },
+  "hdv": {
+    "__default": "market"
   }
 }

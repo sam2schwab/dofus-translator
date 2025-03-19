@@ -15,7 +15,8 @@ export const categories = [
     "super-areas",
     "worlds",
     "item-sets",
-    "spells"
+    "spells",
+    "challenges"
   ] as const;
   
   export type Category = (typeof categories)[number];

@@ -54,16 +54,7 @@
       "000": {
         " ": {
           "points": {
-            "__default": "1.000 Punkte",
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "1.000 Erfolgspunkte"
-                  }
-                }
-              }
-            }
+            "__default": "1.000 Punkte"
           },
           "challenges": {
             "__default": "1.000 Challenges"
@@ -400,16 +391,7 @@
       "000": {
         " ": {
           "points": {
-            "__default": "5.000 Punkte",
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "5.000 Erfolgspunkte"
-                  }
-                }
-              }
-            }
+            "__default": "5.000 Punkte"
           }
         }
       },
@@ -679,16 +661,7 @@
       "000": {
         " ": {
           "points": {
-            "__default": "10.000 Punkte",
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "10.000 Erfolgspunkte"
-                  }
-                }
-              }
-            }
+            "__default": "10.000 Punkte"
           }
         }
       },
@@ -712,21 +685,6 @@
     " ": {
       "ovatons": {
         "__default": "15 Ovatons"
-      },
-      "000": {
-        " ": {
-          "points": {
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "15.000 Erfolgspunkte"
-                  }
-                }
-              }
-            }
-          }
-        }
       }
     }
   },
@@ -734,21 +692,6 @@
     " ": {
       "tempotons": {
         "__default": "20 Tempotons"
-      },
-      "000": {
-        " ": {
-          "points": {
-            " ": {
-              "de": {
-                " ": {
-                  "succès": {
-                    "__default": "20.000 Erfolgspunkte"
-                  }
-                }
-              }
-            }
-          }
-        }
       }
     }
   },
@@ -1563,63 +1506,6 @@
   "apprenti": {
     "__default": "Lehrling",
     " ": {
-      "alchimiste": {
-        "__default": "Alchemisten-Lehrling"
-      },
-      "bûcheron": {
-        "__default": "Holzfäller-Lehrling"
-      },
-      "chasseur": {
-        "__default": "Jäger-Lehrling"
-      },
-      "mineur": {
-        "__default": "Bergmann-Lehrling"
-      },
-      "paysan": {
-        "__default": "Bauer-Lehrling"
-      },
-      "pêcheur": {
-        "__default": "Fischer-Lehrling"
-      },
-      "bijoutier": {
-        "__default": "Juwelier-Lehrling"
-      },
-      "bricoleur": {
-        "__default": "Bastler-Lehrling"
-      },
-      "cordonnier": {
-        "__default": "Schuhmacher-Lehrling"
-      },
-      "façonneur": {
-        "__default": "Werkstoffschmied-Lehrling"
-      },
-      "forgeron": {
-        "__default": "Schmied-Lehrling"
-      },
-      "sculpteur": {
-        "__default": "Schnitzer-Lehrling"
-      },
-      "tailleur": {
-        "__default": "Schneider-Lehrling"
-      },
-      "cordomage": {
-        "__default": "Schuhmagier-Lehrling"
-      },
-      "costumage": {
-        "__default": "Kleidsamagier-Lehrling"
-      },
-      "façomage": {
-        "__default": "Bastelmagier-Lehrling"
-      },
-      "forgemage": {
-        "__default": "Schmiedmagier-Lehrling"
-      },
-      "joaillomage": {
-        "__default": "Schmuckmagier-Lehrling"
-      },
-      "sculptemage": {
-        "__default": "Schnitzmagier-Lehrling"
-      },
       "brasseur": {
         "__default": "Brauerlehrling"
       },
@@ -1666,7 +1552,7 @@
     "__default": "Arbeiter"
   },
   "compagnon": {
-    "__default": "Geselle",
+    "__default": "Begleiter",
     " ": {
       "de": {
         " ": {
@@ -2458,6 +2344,9 @@
           },
           "nileza": {
             "__default": "Nilezas Laboratorium"
+          },
+          "curiosité": {
+            "__default": "Kuriositätenlabor"
           }
         }
       },
@@ -3133,6 +3022,9 @@
                 }
               }
             }
+          },
+          "tourne": {
+            "__default": "Die Zeit läuft"
           }
         }
       },
@@ -3370,11 +3262,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Der Ewige Konflikt (Spezial)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Der Ewige Konflikt (Solo)"
                   }
                 }
               }
@@ -4553,6 +4440,29 @@
             }
           }
         }
+      },
+      "échec": {
+        " ": {
+          "n": {
+            "'": {
+              "est": {
+                " ": {
+                  "pas": {
+                    " ": {
+                      "une": {
+                        " ": {
+                          "option": {
+                            "__default": "Aufgeben ist keine Option"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     },
     ".": {
@@ -4937,6 +4847,17 @@
                 " ": {
                   "!": {
                     "__default": "Die Runde geht auf mich!"
+                  }
+                }
+              }
+            }
+          },
+          "très": {
+            " ": {
+              "vague": {
+                " ": {
+                  "!": {
+                    "__default": "Die Wellen verschwimmen"
                   }
                 }
               }
@@ -5709,6 +5630,67 @@
             "__default": "Ich komme!"
           }
         }
+      },
+      "y": {
+        " ": {
+          "suis": {
+            ",": {
+              " ": {
+                "j": {
+                  "'": {
+                    "y": {
+                      " ": {
+                        "reste": {
+                          "__default": "Hier bin ich, hier bleib ich"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "en": {
+        " ": {
+          "ai": {
+            " ": {
+              "fait": {
+                " ": {
+                  "un": {
+                    " ": {
+                      "pin": {
+                        "'": {
+                          "s": {
+                            "__default": "Der perfekte Anstecker"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "accours": {
+        ",": {
+          " ": {
+            "les": {
+              " ": {
+                "croquants": {
+                  " ": {
+                    "!": {
+                      "__default": "Ich komme, ihr Knabbereien!"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -5858,6 +5840,11 @@
       },
       "effet": {
         "__default": "Ohne Wirkung"
+      }
+    },
+    "-": {
+      "coeur": {
+        "__default": "Herzlos"
       }
     }
   },
@@ -6565,6 +6552,21 @@
             " ": {
               "mauve": {
                 "__default": "Mein Leben in lila"
+              }
+            }
+          },
+          "est": {
+            " ": {
+              "une": {
+                " ": {
+                  "chausse": {
+                    "-": {
+                      "trappe": {
+                        "__default": "Das Leben ist eine Falle"
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -7798,6 +7800,13 @@
                 }
               }
             }
+          },
+          "sait": {
+            " ": {
+              "attendre": {
+                "__default": "Der Tod kann warten"
+              }
+            }
           }
         }
       },
@@ -8534,6 +8543,13 @@
                 }
               }
             }
+          },
+          "du": {
+            " ": {
+              "lion": {
+                "__default": "Der Tanz des Löwen"
+              }
+            }
           }
         }
       },
@@ -8799,6 +8815,17 @@
                         "__default": "Licht am Ende der Kanalisation"
                       }
                     }
+                  }
+                }
+              }
+            }
+          },
+          "ne": {
+            " ": {
+              "fut": {
+                " ": {
+                  "jamais": {
+                    "__default": "Es ward kein Licht"
                   }
                 }
               }
@@ -9221,6 +9248,42 @@
             }
           }
         }
+      },
+      "contre": {
+        "-": {
+          "poterie": {
+            "__default": "Antitöpfern"
+          }
+        }
+      },
+      "diagonale": {
+        " ": {
+          "du": {
+            " ": {
+              "plein": {
+                "__default": "Auf der Diagonalen"
+              }
+            }
+          }
+        }
+      },
+      "ligne": {
+        " ": {
+          "interdite": {
+            "__default": "Die verbotene Linie"
+          }
+        }
+      },
+      "taille": {
+        " ": {
+          "du": {
+            " ": {
+              "rat": {
+                "__default": "Rattenhackschnitzel"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -9565,6 +9628,28 @@
             "__default": "En garde!"
           }
         }
+      },
+      "ligne": {
+        " ": {
+          "de": {
+            " ": {
+              "mire": {
+                "__default": "In Schusslinie"
+              }
+            }
+          }
+        }
+      },
+      "cassant": {
+        " ": {
+          "des": {
+            " ": {
+              "oeufs": {
+                "__default": "Wo Späne fliegen"
+              }
+            }
+          }
+        }
       }
     },
     "-": {
@@ -9694,6 +9779,13 @@
                     }
                   }
                 }
+              }
+            }
+          },
+          "même": {
+            " ": {
+              "lignée": {
+                "__default": "In einer Reihe"
               }
             }
           }
@@ -9840,6 +9932,15 @@
         " ": {
           "coeur": {
             "__default": "Von Herzen und Schmerzen"
+          }
+        }
+      },
+      "véritables": {
+        " ": {
+          "craqu": {
+            "'": {
+              "__default": "Echt geniale Krachler"
+            }
           }
         }
       }
@@ -10245,11 +10346,6 @@
               ")": {
                 "__default": "Königliche Gelees (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Königliche Gelees (Solo)"
-              }
             }
           }
         },
@@ -10498,7 +10594,8 @@
               }
             }
           }
-        }
+        },
+        "__default": "Große Arme"
       },
       "champa": {
         " ": {
@@ -10628,11 +10725,6 @@
             "spécial": {
               ")": {
                 "__default": "Königliche Blobs (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Königliche Blobs (Solo)"
               }
             }
           }
@@ -12045,6 +12137,9 @@
                         " ": {
                           "amis": {
                             "__default": "Kleine Geschenke erhalten die Freundschaft"
+                          },
+                          "ennemis": {
+                            "__default": "Immer schön aufpassen"
                           }
                         }
                       }
@@ -12813,6 +12908,52 @@
                                 }
                               }
                             }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "yeux": {
+        " ": {
+          "aussi": {
+            " ": {
+              "gros": {
+                " ": {
+                  "que": {
+                    " ": {
+                      "le": {
+                        " ": {
+                          "ventre": {
+                            "__default": "Augen so groß wie der Mund"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "fans": {
+        " ": {
+          "et": {
+            " ": {
+              "les": {
+                " ": {
+                  "enfants": {
+                    " ": {
+                      "d": {
+                        "'": {
+                          "abord": {
+                            "__default": "Fans und Kinder zuerst"
                           }
                         }
                       }
@@ -14609,6 +14750,13 @@
       },
       "fantomatiques": {
         "__default": "Phantomfänge"
+      },
+      "à": {
+        " ": {
+          "crocs": {
+            "__default": "Fangzahn um Fangzahn"
+          }
+        }
       }
     }
   },
@@ -14959,6 +15107,13 @@
             " ": {
               "lenald": {
                 "__default": "Der Listige Lenald"
+              },
+              "la": {
+                " ": {
+                  "dame": {
+                    "__default": "Damengambit"
+                  }
+                }
               }
             }
           }
@@ -15047,11 +15202,6 @@
             "spécial": {
               ")": {
                 "__default": "Le Tschuck (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Le Tschuck (Solo)"
               }
             }
           }
@@ -17928,6 +18078,62 @@
             }
           }
         }
+      },
+      "kin": {
+        "-": {
+          "fu": {
+            " ": {
+              "d": {
+                "'": {
+                  "abord": {
+                    "__default": "Kin-Fu zuerst"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "kang": {
+        "-": {
+          "fu": {
+            " ": {
+              "d": {
+                "'": {
+                  "abord": {
+                    "__default": "Kang-Fu zuerst"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "jardin": {
+        " ": {
+          "que": {
+            " ": {
+              "pierre": {
+                " ": {
+                  "a": {
+                    " ": {
+                      "bâti": {
+                        "__default": "Gartengestein"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "sein": {
+        "-": {
+          "supplice": {
+            "__default": "Das schlägt, das Zeug"
+          }
+        }
       }
     }
   },
@@ -18084,11 +18290,6 @@
             "spécial": {
               ")": {
                 "__default": "Vater Wurm (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Vater Wurm (Solo)"
               }
             }
           }
@@ -18408,7 +18609,7 @@
           "presque": {
             " ": {
               "parfait": {
-                "__default": "Das fast perfekte Weißnachten"
+                "__default": "Eine fast perfekte Weißnacht"
               }
             }
           }
@@ -18488,17 +18689,6 @@
         " ": {
           "hétéroclite": {
             "__default": "Ein bunt zusammengewürfelter Clan"
-          }
-        }
-      },
-      "métier": {
-        " ": {
-          "de": {
-            " ": {
-              "rêve": {
-                "__default": "Ein Traumberuf"
-              }
-            }
           }
         }
       },
@@ -19235,6 +19425,58 @@
             "__default": "Einer für einen"
           }
         }
+      },
+      "régime": {
+        " ": {
+          "équilibré": {
+            "__default": "Ausgeglichene Trefferquote"
+          }
+        }
+      },
+      "mulou": {
+        " ": {
+          "dans": {
+            " ": {
+              "la": {
+                " ": {
+                  "bergerie": {
+                    "__default": "Ein WuWulf im Fresssackstall"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "projet": {
+        " ": {
+          "tentaculaire": {
+            "__default": "Tentakuläres Projekt"
+          }
+        }
+      }
+    },
+    ",": {
+      " ": {
+        "deux": {
+          ",": {
+            " ": {
+              "troix": {
+                ",": {
+                  " ": {
+                    "bozu": {
+                      " ": {
+                        "!": {
+                          "__default": "Bozu am Berg"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -19645,6 +19887,32 @@
             "__default": "Wertvolle Hilfe"
           }
         }
+      },
+      "paire": {
+        " ": {
+          "d": {
+            "'": {
+              "impairs": {
+                "__default": "Gerade genug Ungerade"
+              }
+            }
+          }
+        }
+      },
+      "lanterne": {
+        " ": {
+          "dans": {
+            " ": {
+              "la": {
+                " ": {
+                  "nuit": {
+                    "__default": "Laterne in der Nacht"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -19985,11 +20253,6 @@
               ")": {
                 "__default": "Ausgehungertes Sonnenblümchen (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Ausgehungertes Sonnenblümchen (Solo)"
-              }
             }
           }
         },
@@ -20024,11 +20287,6 @@
                 "versatile": {
                   ")": {
                     "__default": "Spongemob (Vielseitigkeit)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Spongemob Schwammtopf (Solo)"
                   }
                 }
               }
@@ -20073,11 +20331,6 @@
             "spécial": {
               ")": {
                 "__default": "Königlicher Fresssack (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Königlicher Fresssack (Solo)"
               }
             }
           }
@@ -20207,11 +20460,6 @@
               ")": {
                 "__default": "Goldenes Scarabiest (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Goldenes Scarabiest (Solo)"
-              }
             }
           }
         },
@@ -20245,11 +20493,6 @@
         "spécial": {
           ")": {
             "__default": "Bartaboo (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Bartaboo (Solo)"
           }
         }
       },
@@ -20287,11 +20530,6 @@
             "spécial": {
               ")": {
                 "__default": "Ronin-Chafer (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Ronin-Chafer (Solo)"
               }
             }
           }
@@ -20480,11 +20718,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Schatztruhe der Schattenschmiede (Spezial)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Schatztruhe der Schattenschmiede (Solo)"
                   }
                 }
               }
@@ -21089,11 +21322,6 @@
               ")": {
                 "__default": "Shin-Larve (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Shin-Larve (Solo)"
-              }
             }
           },
           "croque": {
@@ -21140,11 +21368,6 @@
               ")": {
                 "__default": "Mächtiger Korallator (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Mächtiger Korallator (Solo)"
-              }
             }
           }
         },
@@ -21187,10 +21410,16 @@
           ")": {
             "__default": "Kwackatau (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kwackatau (Solo)"
+        }
+      },
+      "?": {
+        " ": {
+          "kwapoussée": {
+            " ": {
+              "!": {
+                "__default": "Kwackawas? Kwackaschubser!"
+              }
+            }
           }
         }
       }
@@ -21220,11 +21449,6 @@
             "spécial": {
               ")": {
                 "__default": "Kanniball Aahde (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Kanniball Aahde (Solo)"
               }
             }
           }
@@ -21295,11 +21519,6 @@
           ")": {
             "__default": "Nelwynn (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Nelwynn (Solo)"
-          }
         }
       }
     },
@@ -21336,11 +21555,6 @@
                   ")": {
                     "__default": "Gurrlo, der Fürchterliche (Spezial)"
                   }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Gurrlo, der Fürchterliche (Solo)"
-                  }
                 }
               }
             },
@@ -21373,11 +21587,6 @@
             "spécial": {
               ")": {
                 "__default": "Legendärer Mega-Krachler (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Legendärer Mega-Krachler (Solo)"
               }
             }
           }
@@ -21484,11 +21693,6 @@
               ")": {
                 "__default": "Ur-Astaknyde (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Ur-Astaknyde (Solo)"
-              }
             }
           }
         },
@@ -21573,11 +21777,6 @@
               ")": {
                 "__default": "Schweinedrache (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Schweinedrache (Solo)"
-              }
             }
           }
         },
@@ -21617,11 +21816,6 @@
           ")": {
             "__default": "Kuhloss (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kuhloss (Solo)"
-          }
         }
       },
       "braisé": {
@@ -21657,10 +21851,20 @@
           ")": {
             "__default": "MuWulf (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "MuWulf (Solo)"
+        }
+      },
+      "y": {
+        " ": {
+          "es": {
+            "-": {
+              "tu": {
+                " ": {
+                  "?": {
+                    "__default": "MuWulf, wo bist du?"
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -21703,11 +21907,6 @@
                       ")": {
                         "__default": "Groß-Shilf (Spezial)"
                       }
-                    },
-                    "solo": {
-                      ")": {
-                        "__default": "Groß-Shilf (Solo)"
-                      }
                     }
                   }
                 },
@@ -21743,10 +21942,20 @@
               ")": {
                 "__default": "Meister Rab (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Meister Rab (Solo)"
+            }
+          },
+          "sur": {
+            " ": {
+              "un": {
+                " ": {
+                  "arbre": {
+                    " ": {
+                      "perché": {
+                        "__default": "Meister Rab auf dem Baume"
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -21785,11 +21994,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Meister der Hampelmänner (Spezial)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Meister der Hampelmänner (Solo)"
                   }
                 }
               }
@@ -21965,6 +22169,9 @@
       },
       "artifouxier": {
         "__default": "Meister des Feuerwirrks"
+      },
+      "kopiste": {
+        "__default": "Meisterkopist"
       }
     },
     "-": {
@@ -21998,11 +22205,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Königlicher Multiblob (Spezial)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Königlicher Multiblob (Solo)"
                   }
                 }
               }
@@ -22099,11 +22301,6 @@
           ")": {
             "__default": "Königlicher Fressmut (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Königlicher Fressmut (Solo)"
-          }
         }
       }
     },
@@ -22137,11 +22334,6 @@
             "spécial": {
               ")": {
                 "__default": "Königlicher Tofu (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Königlicher Tofu (Solo)"
               }
             }
           }
@@ -22330,6 +22522,11 @@
           }
         }
       }
+    },
+    "-": {
+      "phobie": {
+        "__default": "Tofu-Phobie"
+      }
     }
   },
   "chêne": {
@@ -22355,11 +22552,6 @@
             "spécial": {
               ")": {
                 "__default": "Weich-Eich (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Weich-Eich (Solo)"
               }
             }
           }
@@ -22393,11 +22585,6 @@
           ")": {
             "__default": "Tynril (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Tynril (Solo)"
-          }
         }
       }
     }
@@ -22430,11 +22617,6 @@
             "spécial": {
               ")": {
                 "__default": "King Ping (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "King Ping (Solo)"
               }
             }
           }
@@ -22477,11 +22659,6 @@
                   ")": {
                     "__default": "Ben der Ripat (Spezial)"
                   }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Ben der Ripat (Solo)"
-                  }
                 }
               }
             },
@@ -22513,11 +22690,6 @@
           ")": {
             "__default": "Obsidianter (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Obsidianter (Solo)"
-          }
         }
       }
     },
@@ -22547,11 +22719,6 @@
               ")": {
                 "__default": "Tengu Eisfux (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Tengu Eisfux (Solo)"
-              }
             }
           }
         },
@@ -22580,11 +22747,6 @@
         "spécial": {
           ")": {
             "__default": "Korriander (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Korriander (Solo)"
           }
         }
       }
@@ -22619,11 +22781,6 @@
             "spécial": {
               ")": {
                 "__default": "Riesenkrakamor (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Riesenkrakamor (Solo)"
               }
             }
           }
@@ -22677,11 +22834,6 @@
           ")": {
             "__default": "Stinkeling (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Stinkeling (Solo)"
-          }
         }
       }
     },
@@ -22708,11 +22860,6 @@
         "spécial": {
           ")": {
             "__default": "Daxolossus (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Daxolossus (Solo)"
           }
         }
       }
@@ -22749,11 +22896,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Fuji Eisfux Ziehmutter (Spezial)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Fuji Eisfux Ziehmutter (Solo)"
                   }
                 }
               }
@@ -22792,11 +22934,6 @@
           ")": {
             "__default": "Grollum (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Grollum (Solo)"
-          }
         }
       }
     },
@@ -22828,11 +22965,6 @@
         "spécial": {
           ")": {
             "__default": "Himmlischer Barbär (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Himmlischer Barbär (Solo)"
           }
         }
       }
@@ -23384,11 +23516,6 @@
               ")": {
                 "__default": "Kamedelspatz (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Kamedelspatz (Solo)"
-              }
             }
           }
         },
@@ -23511,6 +23638,13 @@
                 " ": {
                   "coups": {
                     "__default": "Drei Fliegen mit einer Klappe"
+                  }
+                }
+              },
+              "deux": {
+                " ": {
+                  "kouï": {
+                    "__default": "Zwei Eier mit einer Klappe"
                   }
                 }
               }
@@ -23695,6 +23829,9 @@
           },
           "bavards": {
             "__default": "Schwatzjagd"
+          },
+          "coquillages": {
+            "__default": "Muscheljagd"
           }
         }
       },
@@ -25437,6 +25574,9 @@
             " ": {
               "ballons": {
                 "__default": "Vor Energie sprühen"
+              },
+              "boulons": {
+                "__default": "Hier wird nicht geschubst"
               }
             }
           }
@@ -25930,6 +26070,9 @@
                 }
               }
             }
+          },
+          "cool": {
+            "__default": "Easy-peasy"
           }
         }
       },
@@ -26050,6 +26193,24 @@
         " ": {
           "vitesse": {
             "__default": "Vollspeed"
+          }
+        }
+      },
+      "portée": {
+        " ": {
+          "de": {
+            " ": {
+              "dard": {
+                "__default": "In Stachellänge"
+              }
+            }
+          }
+        }
+      },
+      "son": {
+        " ": {
+          "hypogée": {
+            "__default": "In voller Grabkammer"
           }
         }
       }
@@ -26274,6 +26435,9 @@
             "__default": "Fußfasser"
           }
         }
+      },
+      "racine": {
+        "__default": "Wurzeln schlagen"
       }
     }
   },
@@ -26418,7 +26582,7 @@
   "animal": {
     " ": {
       "totem": {
-        "__default": "Totem-Tier"
+        "__default": "Tier-Totem"
       }
     },
     "__default": "Tier"
@@ -27432,6 +27596,9 @@
       },
       "champêtre": {
         "__default": "Feldschütz"
+      },
+      "emplumée": {
+        "__default": "Gefiederter Wächter"
       }
     },
     "__default": "Wächter"
@@ -27722,6 +27889,17 @@
       },
       "paradoxale": {
         "__default": "Paradoxe Reise"
+      },
+      "en": {
+        " ": {
+          "terrain": {
+            " ": {
+              "kouïu": {
+                "__default": "Reise auf Terra Klötika"
+              }
+            }
+          }
+        }
       }
     },
     "__default": "Reise"
@@ -28806,6 +28984,24 @@
                 }
               }
             }
+          },
+          "peut": {
+            " ": {
+              "la": {
+                " ": {
+                  "nyée": {
+                    "__default": "Jetzt aber Ei-lig"
+                  }
+                }
+              }
+            }
+          },
+          "touche": {
+            " ": {
+              "pas": {
+                "__default": "Nicht anfassen"
+              }
+            }
           }
         }
       },
@@ -28830,6 +29026,32 @@
                     "__default": "Wie auf Eiern gehen"
                   }
                 }
+              }
+            }
+          }
+        }
+      },
+      "lui": {
+        " ": {
+          "pèlera": {
+            " ": {
+              "le": {
+                " ": {
+                  "bourgeon": {
+                    "__default": "Knospenschälerei"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "voulait": {
+        " ": {
+          "l": {
+            "'": {
+              "autre": {
+                "__default": "Och nö, nicht der"
               }
             }
           }
@@ -29223,11 +29445,6 @@
           ")": {
             "__default": "R.Klimm (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "R.Klimm (Solo)"
-          }
         }
       },
       "et": {
@@ -29245,7 +29462,7 @@
       "à": {
         " ": {
           "cuir": {
-            "__default": "Zäh wie Leder"
+            "__default": "Lederhartgesotten"
           }
         }
       },
@@ -29328,11 +29545,6 @@
               ")": {
                 "__default": "Graf Primzahl (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Graf Primzahl (Solo)"
-              }
             }
           }
         },
@@ -29359,11 +29571,6 @@
             "spécial": {
               ")": {
                 "__default": "Graf Razoff (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Graf Razoff (Solo)"
               }
             }
           }
@@ -30202,11 +30409,6 @@
           ")": {
             "__default": "Verderbnis (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Verderbnis (Solo)"
-          }
         }
       },
       "rampante": {
@@ -30277,6 +30479,17 @@
                             "__default": "Freunde finden und behalten"
                           }
                         }
+                      }
+                    }
+                  }
+                }
+              },
+              "kouïs": {
+                " ": {
+                  "en": {
+                    " ": {
+                      "or": {
+                        "__default": "Kamascheffelei"
                       }
                     }
                   }
@@ -31401,6 +31614,13 @@
           },
           "chauffer": {
             "__default": "Manche mögen's heiß"
+          },
+          "plonger": {
+            " ": {
+              "chérie": {
+                "__default": "Hechtsprung"
+              }
+            }
           }
         }
       },
@@ -31559,6 +31779,17 @@
                     "__default": "Auf Biegen und Schubsen"
                   }
                 }
+              }
+            }
+          }
+        }
+      },
+      "pique": {
+        " ": {
+          "le": {
+            " ": {
+              "kipik": {
+                "__default": "Kipikserei"
               }
             }
           }
@@ -32854,11 +33085,6 @@
           ")": {
             "__default": "Schatten (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Schatten (Solo)"
-          }
         }
       },
       "tissée": {
@@ -33562,11 +33788,6 @@
               ")": {
                 "__default": "König Nidas (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "König Nidas (Solo)"
-              }
             }
           }
         },
@@ -33597,11 +33818,6 @@
             "spécial": {
               ")": {
                 "__default": "König Imagami (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "König Imagami (Solo)"
               }
             }
           }
@@ -33716,11 +33932,6 @@
           ")": {
             "__default": "Griesengad (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Griesengad (Solo)"
-          }
         }
       }
     },
@@ -33774,11 +33985,6 @@
         "spécial": {
           ")": {
             "__default": "Unruhtruh (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Unruhtruh (Solo)"
           }
         }
       },
@@ -33928,6 +34134,13 @@
                     "__default": "Tore der Nacht"
                   }
                 }
+              }
+            }
+          },
+          "d": {
+            "'": {
+              "externam": {
+                "__default": "Vor Externams Türen"
               }
             }
           }
@@ -34111,11 +34324,6 @@
                   ")": {
                     "__default": "Königin der Diebe (Spezial)"
                   }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Königin der Diebe (Solo)"
-                  }
                 }
               }
             },
@@ -34153,11 +34361,6 @@
               ")": {
                 "__default": "Arachkönigin (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Arachkönigin (Solo)"
-              }
             }
           }
         },
@@ -34193,11 +34396,6 @@
             "spécial": {
               ")": {
                 "__default": "Königin Amirukam (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Königin Amirukam (Solo)"
               }
             }
           }
@@ -34299,11 +34497,6 @@
               ")": {
                 "__default": "Hauptmann Rot-Teka (Begleiter)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Hauptmann Rot-Teka (Solo)"
-              }
             }
           }
         },
@@ -34335,11 +34528,6 @@
             "spécial": {
               ")": {
                 "__default": "Kapitän Meno (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Kapitän Meno (Solo)"
               }
             }
           }
@@ -34786,11 +34974,6 @@
           ")": {
             "__default": "Protozoomax (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Protozoomax (Solo)"
-          }
         }
       }
     },
@@ -34800,6 +34983,9 @@
     " ": {
       "humanitaire": {
         "__default": "Humanitäres System"
+      },
+      "pyramidal": {
+        "__default": "Pyramidensystem"
       }
     }
   },
@@ -35477,11 +35663,6 @@
           ")": {
             "__default": "Fraktal (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Fraktal (Solo)"
-          }
         }
       }
     },
@@ -35509,6 +35690,13 @@
         " ": {
           "cocalane": {
             "__default": "Kokalan, gezapft!"
+          }
+        }
+      },
+      "l": {
+        "'": {
+          "éponge": {
+            "__default": "Den Schwamm übergeben"
           }
         }
       }
@@ -35618,11 +35806,6 @@
         "spécial": {
           ")": {
             "__default": "Kaakerlaak (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kaakerlaak (Solo)"
           }
         }
       }
@@ -36072,6 +36255,13 @@
                     "__default": "Bis zum letzten Seufzer"
                   }
                 }
+              }
+            }
+          },
+          "l": {
+            "'": {
+              "aurore": {
+                "__default": "Bis zur Morgenröte"
               }
             }
           }
@@ -36858,11 +37048,6 @@
           ")": {
             "__default": "Flohzilla (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Flohzilla (Solo)"
-          }
         }
       }
     },
@@ -37005,11 +37190,6 @@
           ")": {
             "__default": "Manzaug (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Maunzaug (Solo)"
-          }
         }
       }
     },
@@ -37060,11 +37240,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Kutuluhlarve (Spezial)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Kutuluhlarve (Solo)"
                   }
                 }
               }
@@ -37239,11 +37414,6 @@
         "spécial": {
           ")": {
             "__default": "Zantinea (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Zantinea (Solo)"
           }
         }
       }
@@ -38089,11 +38259,6 @@
           ")": {
             "__default": "Mantiskor (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Mantiskor (Solo)"
-          }
         }
       }
     },
@@ -38137,7 +38302,7 @@
             },
             "duo": {
               ")": {
-                "__default": "El Piekso (Solo)"
+                "__default": "El Piekso (Duo)"
               }
             },
             "spécial": {
@@ -38187,6 +38352,9 @@
         " ": {
           "désert": {
             "__default": "Wüste Zeiten"
+          },
+          "dessert": {
+            "__default": "Kein Nachtisch für dich!"
           }
         }
       }
@@ -38777,11 +38945,6 @@
           ")": {
             "__default": "Helmukol (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Helmukol (Solo)"
-          }
         }
       }
     },
@@ -38853,11 +39016,6 @@
                 "spécial": {
                   ")": {
                     "__default": "Anerice die Shushu-Königin (Spezial)"
-                  }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Anerice die Shushu-Königin (Solo)"
                   }
                 }
               }
@@ -39252,6 +39410,9 @@
                               "__default": "Keine Arme, keine Kekse!"
                             }
                           }
+                        },
+                        "tracas": {
+                          "__default": "Kleine Arme, kleine Sorgen – große Arme, große Sorgen"
                         }
                       }
                     }
@@ -39341,6 +39502,28 @@
       },
       "feutrés": {
         "__default": "Leisetreter"
+      },
+      "vu": {
+        " ": {
+          "pas": {
+            " ": {
+              "pris": {
+                "__default": "Nicht gesehen, nichts geschehen"
+              }
+            }
+          }
+        }
+      },
+      "dans": {
+        " ": {
+          "mes": {
+            " ": {
+              "pattes": {
+                "__default": "Keine Knüppel zwischen meinen Pfoten"
+              }
+            }
+          }
+        }
       }
     },
     "-": {
@@ -40003,11 +40186,6 @@
               ")": {
                 "__default": "Dazahk Eishammer (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Dazahk Eishammer (Solo)"
-              }
             }
           }
         },
@@ -40538,11 +40716,6 @@
           ")": {
             "__default": "Krieg (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Krieg (Solo)"
-          }
         }
       },
       "froide": {
@@ -40743,11 +40916,6 @@
           ")": {
             "__default": "Knechtschaft (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Knechtschaft (Solo)"
-          }
         }
       },
       "éternelle": {
@@ -40816,11 +40984,6 @@
         "spécial": {
           ")": {
             "__default": "Elend (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Elend (Solo)"
           }
         }
       },
@@ -41132,11 +41295,6 @@
               ")": {
                 "__default": "Weiße Ratte (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Weiße Ratte (Solo)"
-              }
             }
           }
         }
@@ -41182,11 +41340,6 @@
             "spécial": {
               ")": {
                 "__default": "Schwarze Ratte (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Schwarze Ratte (Solo)"
               }
             }
           }
@@ -41292,6 +41445,11 @@
       "varice": {
         "__default": "Krampfratte"
       }
+    },
+    "-": {
+      "trapage": {
+        "__default": "Ratten-Fang"
+      }
     }
   },
   "hanshi": {
@@ -41326,11 +41484,6 @@
                   ")": {
                     "__default": "Hanshi und Shihan (Spezial)"
                   }
-                },
-                "solo": {
-                  ")": {
-                    "__default": "Hanshi und Shihan (Solo)"
-                  }
                 }
               }
             }
@@ -41361,11 +41514,6 @@
         "spécial": {
           ")": {
             "__default": "Fuxoroshi (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Fuxoroshi (Solo)"
           }
         }
       }
@@ -41992,11 +42140,6 @@
                           ")": {
                             "__default": "Nagate, die Herrin über die Gewässer (Spezial)"
                           }
-                        },
-                        "solo": {
-                          ")": {
-                            "__default": "Nagate, die Herrin über die Gewässer (Solo)"
-                          }
                         }
                       }
                     },
@@ -42400,11 +42543,6 @@
         "spécial": {
           ")": {
             "__default": "Kumiho (Spezial)"
-          }
-        },
-        "solo": {
-          ")": {
-            "__default": "Kumiho (Solo)"
           }
         }
       },
@@ -43061,6 +43199,9 @@
                 }
               }
             }
+          },
+          "élément": {
+            "__default": "Elementares Gedächtnis"
           }
         }
       },
@@ -43729,6 +43870,25 @@
             "__default": "Zwei in einem"
           }
         }
+      },
+      "pour": {
+        " ": {
+          "le": {
+            " ": {
+              "prix": {
+                " ": {
+                  "d": {
+                    "'": {
+                      "un": {
+                        "__default": "Zwei zum Preis von einem"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -43901,6 +44061,9 @@
           },
           "jade": {
             "__default": "Jade-Ritual"
+          },
+          "survie": {
+            "__default": "Überlebensritual"
           }
         }
       },
@@ -45054,6 +45217,25 @@
             }
           }
         }
+      },
+      "ne": {
+        " ": {
+          "sert": {
+            " ": {
+              "de": {
+                " ": {
+                  "se": {
+                    " ": {
+                      "cacher": {
+                        "__default": "Versteckspiel bringt nichts"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -45153,11 +45335,6 @@
             "spécial": {
               ")": {
                 "__default": "Direktor Grunob (Spezial)"
-              }
-            },
-            "solo": {
-              ")": {
-                "__default": "Direktor Grunob (Solo)"
               }
             }
           }
@@ -45701,11 +45878,6 @@
           ")": {
             "__default": "Belladonna (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Belladonna (Solo)"
-          }
         }
       },
       "de": {
@@ -45787,11 +45959,6 @@
               ")": {
                 "__default": "Barberyl Glockenleder (Spezial)"
               }
-            },
-            "solo": {
-              ")": {
-                "__default": "Barberyl Glockenleder (Solo)"
-              }
             }
           }
         },
@@ -45864,11 +46031,6 @@
           ")": {
             "__default": "Racooper (Spezial)"
           }
-        },
-        "solo": {
-          ")": {
-            "__default": "Racooper (Solo)"
-          }
         }
       }
     },
@@ -45899,7 +46061,7 @@
           "les": {
             " ": {
               "bêtes": {
-                "__default": "Unsere tierischen Freunde"
+                "__default": "Unsere Freunde die Tiere"
               }
             }
           }
@@ -46039,6 +46201,11 @@
             "-": {
               "tombe": {
                 "__default": "Zurück aus dem Jenseits"
+              }
+            },
+            " ": {
+              "tombe": {
+                "__default": "Rückkehr aus dem Grab"
               }
             }
           }
@@ -46335,230 +46502,334 @@
     },
     "__default": "Sekunde"
   },
-  "féca": {
+  "neutre": {
+    "__default": "Neutral",
     " ": {
-      "fondamental": {
-        "__default": "Grundlegender Féca"
-      },
-      "primordial": {
-        "__default": "Bedeutender Féca"
-      },
-      "attitude": {
-        "__default": "Féca-Emote"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Féca – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Féca – Männliches Gesicht"
-              }
-            }
+      "(": {
+        "%": {
+          ")": {
+            "__default": "Neutral (%)"
           }
-        }
-      },
-      "menaçant": {
-        "__default": "Bedrohlicher Féca"
-      }
-    }
-  },
-  "osamodas": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Osamodas"
-      },
-      "primordial": {
-        "__default": "Bedeutender Osamodas"
-      },
-      "attitude": {
-        "__default": "Osamodas-Emote"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Osamodas – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Osamodas – Männliches Gesicht"
-              }
-            }
+        },
+        "fixe": {
+          ")": {
+            "__default": "Neutral (Festwert)"
           }
         }
       }
     }
   },
-  "enutrof": {
+  "bontarien": {
+    "__default": "Bonta",
     " ": {
-      "fondamental": {
-        "__default": "Grundlegender Enutrof"
+      "suspicieux": {
+        "__default": "Verdächtiger Bonta"
       },
-      "primordial": {
-        "__default": "Bedeutender Enutrof"
+      "intrépide": {
+        "__default": "Furchtloser Bonta"
       },
-      "attitude": {
-        "__default": "Enutrof-Emote"
+      "énervé": {
+        "__default": "Erboster Bonta"
       },
-      "-": {
+      "méfiant": {
+        "__default": "Misstrauischer Bonta"
+      },
+      "en": {
         " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Enutrof – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Enutrof – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "calculateur": {
-        "__default": "Berechnender Enutrof"
-      },
-      "avide": {
-        "__default": "Gieriger Enutrof"
-      },
-      "avare": {
-        "__default": "Geiziger Enutrof"
-      },
-      "prospecteur": {
-        "__default": "Schürfender Enutrof"
-      }
-    }
-  },
-  "sram": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Sram"
-      },
-      "primordial": {
-        "__default": "Bedeutender Sram"
-      },
-      "attitude": {
-        "__default": "Sram-Emote"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Sram – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Sram – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "moche": {
-        "__default": "Häßlicher Sram"
-      },
-      "naïf": {
-        "__default": "Einfältiger Sram"
-      },
-      "assassiné": {
-        "__default": "Ermordeter Sram"
-      },
-      "d": {
-        "'": {
-          "égoutant": {
-            "__default": "Eine Sram Kanaille"
+          "détresse": {
+            "__default": "Bonta-Bürger in Not"
           }
         }
       }
     }
   },
-  "xélor": {
+  "brâkmarien": {
+    "__default": "Brâk",
     " ": {
-      "fondamental": {
-        "__default": "Grundlegender Xélor"
-      },
-      "primordial": {
-        "__default": "Bedeutender Xélor"
-      },
-      "attitude": {
-        "__default": "Xélor-Emote"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Xélor – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Xélor – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "louche": {
-        "__default": "Dubioser Xélor"
-      },
-      "suspect": {
-        "__default": "Verdächtiger Xélor"
-      },
-      "interlope": {
-        "__default": "Zwielichtiger Xélor"
-      },
-      "menaçante": {
-        "__default": "Bedrohliche Xélor"
-      },
-      "dofusophile": {
-        "__default": "Dofusophiler Xélor"
+      "moribond": {
+        "__default": "Sterbender Brâk"
       }
     }
   },
-  "ecaflip": {
+  "foire": {
     " ": {
-      "fondamental": {
-        "__default": "Grundlegender Ecaflip"
-      },
-      "primordial": {
-        "__default": "Bedeutender Ecaflip"
-      },
-      "attitude": {
-        "__default": "Ecaflip-Emote"
-      },
-      "-": {
+      "du": {
         " ": {
-          "visage": {
+          "trool": {
+            "__default": "Jahrmarkt des Trools",
             " ": {
-              "féminin": {
-                "__default": "Ecaflip – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Ecaflip – Männliches Gesicht"
+              "-": {
+                " ": {
+                  "roue": {
+                    " ": {
+                      "du": {
+                        " ": {
+                          "bouftou": {
+                            " ": {
+                              "-": {
+                                " ": {
+                                  "marqueur": {
+                                    " ": {
+                                      "cagnotte": {
+                                        " ": {
+                                          "1": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 1"
+                                          },
+                                          "2": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 2"
+                                          },
+                                          "3": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 3"
+                                          },
+                                          "4": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 4"
+                                          },
+                                          "5": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 5"
+                                          },
+                                          "6": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 6"
+                                          },
+                                          "7": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 7"
+                                          },
+                                          "8": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 8"
+                                          },
+                                          "9": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 9"
+                                          },
+                                          "10": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 10"
+                                          },
+                                          "11": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 11"
+                                          },
+                                          "12": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 12"
+                                          },
+                                          "13": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 13"
+                                          },
+                                          "14": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 14"
+                                          },
+                                          "15": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 15"
+                                          },
+                                          "16": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 16"
+                                          },
+                                          "17": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 17"
+                                          },
+                                          "18": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 18"
+                                          },
+                                          "19": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 19"
+                                          },
+                                          "20": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 20"
+                                          },
+                                          "21": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 21"
+                                          },
+                                          "22": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 22"
+                                          },
+                                          "23": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 23"
+                                          },
+                                          "37": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 37"
+                                          },
+                                          "38": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 38"
+                                          },
+                                          "39": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 39"
+                                          },
+                                          "40": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 40"
+                                          },
+                                          "41": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 41"
+                                          },
+                                          "42": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 42"
+                                          },
+                                          "43": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 43"
+                                          },
+                                          "44": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 44"
+                                          },
+                                          "45": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 45"
+                                          },
+                                          "46": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 46"
+                                          },
+                                          "47": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 47"
+                                          },
+                                          "48": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 48"
+                                          },
+                                          "49": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 49"
+                                          },
+                                          "50": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 50"
+                                          },
+                                          "51": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 51"
+                                          },
+                                          "52": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 52"
+                                          },
+                                          "53": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 53"
+                                          },
+                                          "54": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 54"
+                                          },
+                                          "55": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 55"
+                                          },
+                                          "56": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 56"
+                                          },
+                                          "57": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 57"
+                                          },
+                                          "58": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 58"
+                                          },
+                                          "59": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 59"
+                                          },
+                                          "60": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 60"
+                                          },
+                                          "61": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 61"
+                                          },
+                                          "62": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 62"
+                                          },
+                                          "63": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 63"
+                                          },
+                                          "64": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 64"
+                                          },
+                                          "65": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 65"
+                                          },
+                                          "66": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 66"
+                                          },
+                                          "67": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 67"
+                                          },
+                                          "68": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 68"
+                                          }
+                                        }
+                                      },
+                                      "jackpot": {
+                                        " ": {
+                                          "1": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 1"
+                                          },
+                                          "2": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 2"
+                                          },
+                                          "3": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 3"
+                                          },
+                                          "4": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 4"
+                                          },
+                                          "5": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 5"
+                                          },
+                                          "6": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 6"
+                                          },
+                                          "7": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 7"
+                                          },
+                                          "8": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 8"
+                                          },
+                                          "9": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 9"
+                                          },
+                                          "10": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 10"
+                                          },
+                                          "11": {
+                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 11"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "gagnant": {
+                                    " ": {
+                                      "normal": {
+                                        "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkasse GEWONNEN"
+                                      },
+                                      "jackpot": {
+                                        "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpot GEWONNEN"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           }
         }
       },
-      "agressive": {
-        "__default": "Aggressiver Ecaflip"
-      },
-      "querelleur": {
-        "__default": "Streitlustiger Ecaflip"
-      },
-      "belliqueuse": {
-        "__default": "Streitlustiger Ecaflip"
-      },
-      "malchanceuse": {
-        "__default": "Vom Pech verfolgte Ecaflip"
-      },
-      "sourit": {
+      "en": {
         " ": {
-          "aux": {
+          "question": {
+            "__default": "Häufig gestellter Jahrmarkt"
+          }
+        }
+      }
+    }
+  },
+  "îlots": {
+    " ": {
+      "de": {
+        " ": {
+          "la": {
             " ": {
-              "audacieux": {
-                "__default": "Ecaflip lächelt dem Mutigen zu"
+              "mer": {
+                " ": {
+                  "d": {
+                    "'": {
+                      "asse": {
+                        "__default": "Inselchen im Assel-Meer"
+                      }
+                    }
+                  },
+                  "kantil": {
+                    "__default": "Inselchen im Meer Khmal"
+                  }
+                }
               }
             }
           }
@@ -46566,366 +46837,183 @@
       }
     }
   },
-  "eniripsa": {
+  "zone": {
     " ": {
-      "fondamental": {
-        "__default": "Grundlegender Eniripsa"
-      },
-      "primordial": {
-        "__default": "Bedeutender Eniripsa"
-      },
-      "attitude": {
-        "__default": "Eniripsa-Emote"
-      },
-      "angoissée": {
-        "__default": "Angsterfüllte Eniripsa"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Eniripsa – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Eniripsa – Männliches Gesicht"
-              }
-            }
+      "1": {
+        "-": {
+          "a": {
+            "__default": "Bereich 1-A"
+          },
+          "b": {
+            "__default": "Bereich 1-B"
+          },
+          "c": {
+            "__default": "Bereich 1-C"
+          },
+          "d": {
+            "__default": "Bereich 1-D"
           }
         }
+      },
+      "2": {
+        "-": {
+          "a": {
+            "__default": "Bereich 2-A"
+          },
+          "b": {
+            "__default": "Bereich 2-B"
+          },
+          "c": {
+            "__default": "Bereich 2-C"
+          },
+          "d": {
+            "__default": "Bereich 2-D"
+          }
+        }
+      },
+      "3": {
+        "-": {
+          "a": {
+            "__default": "Bereich 3-A"
+          },
+          "b": {
+            "__default": "Bereich 3-B"
+          },
+          "c": {
+            "__default": "Bereich 3-C"
+          },
+          "d": {
+            "__default": "Bereich 3-D"
+          }
+        }
+      },
+      "4": {
+        "-": {
+          "a": {
+            "__default": "Bereich 4-A"
+          },
+          "b": {
+            "__default": "Bereich 4-B"
+          },
+          "c": {
+            "__default": "Bereich 4-C"
+          },
+          "d": {
+            "__default": "Bereich 4-D"
+          }
+        }
+      },
+      "5": {
+        "-": {
+          "a": {
+            "__default": "Bereich 5-A"
+          },
+          "b": {
+            "__default": "Bereich 5-B"
+          },
+          "c": {
+            "__default": "Bereich 5-C"
+          },
+          "d": {
+            "__default": "Bereich 5-D"
+          }
+        }
+      },
+      "6": {
+        "-": {
+          "a": {
+            "__default": "Bereich 6-A"
+          },
+          "b": {
+            "__default": "Bereich 6-B"
+          },
+          "c": {
+            "__default": "Bereich 6-C"
+          },
+          "d": {
+            "__default": "Bereich 6-D"
+          }
+        }
+      },
+      "privée": {
+        "__default": "Privater Bereich"
       },
       "de": {
         " ": {
-          "brâkmar": {
-            "__default": "Brâkmar-Eniripsa"
-          }
-        }
-      },
-      "hyperactive": {
-        "__default": "Hyperaktiver Eniripsa"
-      },
-      "rassurée": {
-        "__default": "Beruhigte Eniripsa"
-      }
-    }
-  },
-  "iop": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Iop"
-      },
-      "primordial": {
-        "__default": "Bedeutender Iop"
-      },
-      "attitude": {
-        "__default": "Iop-Emote"
-      },
-      "-": {
-        " ": {
-          "visage": {
+          "départ": {
+            "__default": "Anfangszone"
+          },
+          "protection": {
             " ": {
-              "féminin": {
-                "__default": "Iop – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Iop – Männliches Gesicht"
+              "glyphe": {
+                "__default": "Schutzgebiet-Glyphe"
               }
-            }
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "cape": {
-            " ": {
-              "brâkmarienne": {
-                "__default": "Iop mit Brâk-Umhang"
-              }
-            }
-          }
-        }
-      },
-      "menaçante": {
-        "__default": "Bedrohliche Iop"
-      },
-      "désinvolte": {
-        "__default": "Laxer Iop"
-      },
-      "iopesque": {
-        "__default": "Iopesker Iop"
-      },
-      "simplet": {
-        "__default": "Einfältiger Iop"
-      },
-      "possédée": {
-        "__default": "Besessene Iop"
-      },
-      "geignante": {
-        "__default": "Nörgelnder Iop"
-      },
-      "expérimentée": {
-        "__default": "Erfahrener Iop"
-      },
-      "fiévreux": {
-        "__default": "Hektischer Iop"
-      },
-      "fortuné": {
-        "__default": "Steinreicher Iop"
-      },
-      "et": {
-        " ": {
-          "hop": {
-            "__default": "Iop und Hopp"
+            },
+            "__default": "Schutzgebiet"
           }
         }
       }
     }
   },
-  "crâ": {
+  "profondeurs": {
     " ": {
-      "fondamental": {
-        "__default": "Grundlegender Crâ"
-      },
-      "primordial": {
-        "__default": "Bedeutender Crâ"
-      },
-      "attitude": {
-        "__default": "Crâ-Emote"
-      },
-      "-": {
+      "de": {
         " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Crâ – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Crâ – Männliches Gesicht"
-              }
-            }
+          "sufokia": {
+            "__default": "Tiefen von Sufokia"
           }
         }
       },
-      "menaçant": {
-        "__default": "Bedrohlicher Crâ"
+      "d": {
+        "'": {
+          "astrub": {
+            "__default": "Die Tiefen von Astrub"
+          }
+        }
       },
-      "mitrailleur": {
-        "__default": "Schießwütiger Crâ"
-      },
-      "possédée": {
-        "__default": "Besessene Crâ"
-      },
-      "calculateur": {
-        "__default": "Berechnender Crâ"
+      "marines": {
+        "__default": "Tiefsee"
       }
     }
   },
-  "sadida": {
+  "mode": {
     " ": {
-      "fondamental": {
-        "__default": "Grundlegender Sadida"
+      "tactique": {
+        "__default": "Taktikmodus"
       },
-      "primordial": {
-        "__default": "Bedeutender Sadida"
-      },
-      "attitude": {
-        "__default": "Sadida-Emote"
-      },
-      "-": {
-        " ": {
-          "visage": {
+      "d": {
+        "'": {
+          "emploi": {
             " ": {
-              "féminin": {
-                "__default": "Sadida – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Sadida – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "cape": {
-            " ": {
-              "bontarienne": {
-                "__default": "Sadida mit Bonta-Umhang"
-              }
-            }
-          }
-        }
-      },
-      "monomaniaque": {
-        "__default": "Monomanischer Sadida"
-      },
-      "corrompu": {
-        "__default": "Verdorbener Sadida"
-      }
-    }
-  },
-  "sacrieur": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Sacrieur"
-      },
-      "primordial": {
-        "__default": "Bedeutender Sacrieur"
-      },
-      "attitude": {
-        "__default": "Sacrieur-Emote"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Sacrieur – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Sacrieur – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "au": {
-        " ": {
-          "foulard": {
-            " ": {
-              "rouge": {
-                "__default": "Sacrieur mit dem roten Schal"
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "pandawa": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Pandawa"
-      },
-      "primordial": {
-        "__default": "Bedeutender Pandawa"
-      },
-      "attitude": {
-        "__default": "Pandawa-Look"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Pandawa – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Pandawa – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "éméché": {
-        "__default": "Besäuselter Pandawa"
-      },
-      "déboussolé": {
-        "__default": "Fassungsloser Pandawa"
-      },
-      "mélancolique": {
-        "__default": "Melancholischer Pandawa"
-      }
-    }
-  },
-  "roublard": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Halsabschneider"
-      },
-      "primordial": {
-        "__default": "Bedeutender Halsabschneider"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Halsabschneider – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Halsabschneider – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "akiri": {
-        "__default": "Halsabschneider Harry Kira"
-      },
-      "ticho": {
-        "__default": "Halsabschneider Arti Schocke"
-      },
-      "kebuz": {
-        "__default": "Halsabschneider Arke Buse"
-      },
-      "riko": {
-        "__default": "Halsabschneider Ausm"
-      },
-      "lequin": {
-        "__default": "Halsabschneider Sizz"
-      },
-      "chypel": {
-        "__default": "Halsabschneider Maista"
-      },
-      "ébouillanté": {
-        "__default": "Abgebrühter Halsabschneider"
-      },
-      "du": {
-        " ": {
-          "clan": {
-            " ": {
-              "smisse": {
-                "__default": "Halsabschneider des Clans Smiss"
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "zobal": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Maskerador"
-      },
-      "primordial": {
-        "__default": "Bedeutender Maskerador"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Maskeradoren – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Maskerador – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "hibaba": {
-        " ": {
-          "et": {
-            " ": {
-              "les": {
+              "de": {
                 " ": {
-                  "40": {
+                  "la": {
                     " ": {
-                      "roublards": {
-                        "__default": "Blabliblabla und die 40 Halsabschneider"
+                      "pelle": {
+                        " ": {
+                          "hectrochoc": {
+                            "__default": "Gebrauchsanweisung für die Elektroschockschaufel"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "des": {
+                " ": {
+                  "pierres": {
+                    " ": {
+                      "sacrées": {
+                        " ": {
+                          "d": {
+                            "'": {
+                              "araknas": {
+                                "__default": "Anleitung für die Heiligen Steine von Arachnas"
+                              }
+                            }
+                          }
+                        }
                       }
                     }
                   }
@@ -46937,263 +47025,8 @@
       }
     }
   },
-  "steamer": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Steamer"
-      },
-      "primordial": {
-        "__default": "Bedeutender Steamer"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Steamer – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Steamer – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "hystérique": {
-        "__default": "Hysterischer Steamer"
-      },
-      "catatonique": {
-        "__default": "Katatonischer Steamer"
-      },
-      "suicidaire": {
-        "__default": "Selbstmörderischer Steamer"
-      },
-      "ahurie": {
-        "__default": "Verblüffter Steamer"
-      }
-    }
-  },
-  "eliotrope": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Eliotrop"
-      },
-      "primordial": {
-        "__default": "Bedeutender Eliotrop"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Eliotrop – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Eliotrop – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "menaçant": {
-        "__default": "Bedrohlicher Eliotrop"
-      },
-      "agressive": {
-        "__default": "Aggressiver Eliotrop"
-      },
-      "hostile": {
-        "__default": "Feindlicher Eliotrop"
-      },
-      "somnolent": {
-        "__default": "Schläfriger Eliotrop"
-      }
-    }
-  },
-  "huppermage": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Übermagier"
-      },
-      "primordial": {
-        "__default": "Bedeutender Übermagier"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Übermagier – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Übermagier – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "menaçante": {
-        "__default": "Bedrohliche Übermagierin"
-      }
-    }
-  },
-  "ouginak": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Ouginak"
-      },
-      "primordial": {
-        "__default": "Bedeutender Ouginak"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Ouginak – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Ouginak – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      },
-      "déchaîné": {
-        "__default": "Tollwütiger Ouginak"
-      },
-      "évolué": {
-        "__default": "Hochentwickelter Ouginak"
-      },
-      "craintif": {
-        "__default": "Ängstlicher Ouginak"
-      },
-      "de": {
-        " ": {
-          "srambad": {
-            "__default": "Ouginak aus Srambad"
-          }
-        }
-      },
-      "désorienté": {
-        "__default": "Desorientierter Ouginak"
-      },
-      "allergique": {
-        "__default": "Allergischer Ouginak"
-      },
-      "cuit": {
-        " ": {
-          "à": {
-            " ": {
-              "point": {
-                "__default": "Medium gebratener Ouginak"
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "forgelance": {
-    " ": {
-      "fondamental": {
-        "__default": "Grundlegender Speerschmied"
-      },
-      "primordial": {
-        "__default": "Bedeutender Speerschmied"
-      },
-      "-": {
-        " ": {
-          "visage": {
-            " ": {
-              "féminin": {
-                "__default": "Speerschmied – Weibliches Gesicht"
-              },
-              "masculin": {
-                "__default": "Speerschmied – Männliches Gesicht"
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "persécution": {
-    "__default": "Verfolgung"
-  },
-  "destruction": {
-    "__default": "Zerstörung",
-    " ": {
-      "de": {
-        " ": {
-          "la": {
-            " ": {
-              "montagne": {
-                "__default": "Bergzertrümmerung"
-              }
-            }
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "monde": {
-            "__default": "Zerstörung der Welt"
-          }
-        }
-      },
-      "aveugle": {
-        "__default": "Blinde Zerstörung"
-      }
-    }
-  },
-  "anéantissement": {
-    "__default": "Vernichtung"
-  },
-  "extermination": {
-    "__default": "Auslöschung",
-    " ": {
-      "iopesque": {
-        "__default": "Iopische Auslöschung"
-      }
-    }
-  },
-  "alignement": {
-    " ": {
-      "primitif": {
-        "__default": "Urtümliche Gesinnung"
-      },
-      "croissant": {
-        "__default": "Wachsende Gesinnung"
-      },
-      "avancé": {
-        "__default": "Fortgeschrittene Gesinnung"
-      },
-      "extrême": {
-        "__default": "Extreme Gesinnung"
-      },
-      "ultime": {
-        "__default": "Ultimative Gesinnung"
-      }
-    },
-    "__default": "Gesinnung"
-  },
-  "métisseur": {
-    "__default": "Züchtologe"
-  },
-  "anomaniaque": {
-    "__default": "Anomalobsessionist"
-  },
-  "castagneur": {
-    "__default": "Rangler"
-  },
   "rêve": {
     " ": {
-      "animal": {
-        "__default": "Tierischer Traum"
-      },
-      "légendaire": {
-        "__default": "Legendärer Traum"
-      },
       "du": {
         " ": {
           "monde": {
@@ -47882,752 +47715,6 @@
           },
           "tynrils": {
             "__default": "Traum des Tynrils"
-          }
-        }
-      }
-    }
-  },
-  "expert": {
-    " ": {
-      "alchimiste": {
-        "__default": "Alchemisten-Experte"
-      },
-      "bûcheron": {
-        "__default": "Holzfäller-Experte"
-      },
-      "chasseur": {
-        "__default": "Jäger-Experte"
-      },
-      "mineur": {
-        "__default": "Bergmann-Experte"
-      },
-      "paysan": {
-        "__default": "Bauer-Experte"
-      },
-      "pêcheur": {
-        "__default": "Fischer-Experte"
-      },
-      "bijoutier": {
-        "__default": "Juwelier-Experte"
-      },
-      "bricoleur": {
-        "__default": "Bastler-Experte"
-      },
-      "cordonnier": {
-        "__default": "Schuhmacher-Experte"
-      },
-      "façonneur": {
-        "__default": "Werkstoffschmied-Experte"
-      },
-      "forgeron": {
-        "__default": "Schmied-Experte"
-      },
-      "sculpteur": {
-        "__default": "Schnitzer-Experte"
-      },
-      "tailleur": {
-        "__default": "Schneider-Experte"
-      },
-      "cordomage": {
-        "__default": "Schuhmagier-Experte"
-      },
-      "costumage": {
-        "__default": "Kleidsamagier-Experte"
-      },
-      "façomage": {
-        "__default": "Bastelmagier-Experte"
-      },
-      "forgemage": {
-        "__default": "Schmiedmagier-Experte"
-      },
-      "joaillomage": {
-        "__default": "Schmuckmagier-Experte"
-      },
-      "sculptemage": {
-        "__default": "Schnitzmagier-Experte"
-      },
-      "en": {
-        " ": {
-          "chronomagie": {
-            "__default": "Chronomagie-Experte"
-          }
-        }
-      }
-    }
-  },
-  "récolteur": {
-    " ": {
-      "en": {
-        " ": {
-          "chef": {
-            "__default": "Obersammler"
-          }
-        }
-      },
-      "frigostien": {
-        "__default": "Frigostianischer Ernter"
-      }
-    }
-  },
-  "artisan": {
-    " ": {
-      "en": {
-        " ": {
-          "chef": {
-            "__default": "Oberhandwerker"
-          }
-        }
-      },
-      "pandawa": {
-        "__default": "Pandawa-Handwerker"
-      }
-    }
-  },
-  "forgemage": {
-    " ": {
-      "en": {
-        " ": {
-          "chef": {
-            "__default": "Oberschmiedmagier"
-          }
-        }
-      }
-    },
-    "__default": "Schmiedmagier"
-  },
-  "aventurier": {
-    " ": {
-      "cramoisi": {
-        "__default": "Knallroter Abenteurer"
-      },
-      "rutilant": {
-        "__default": "Glänzender Abenteurer"
-      },
-      "rayonnant": {
-        "__default": "Strahlender Abenteurer"
-      },
-      "brasillant": {
-        "__default": "Leuchtender Abenteurer"
-      },
-      "maudit": {
-        "__default": "Verfluchter Abenteurer"
-      },
-      "frénétique": {
-        "__default": "Frenetischer Abenteurer"
-      },
-      "batailleur": {
-        "__default": "Streitlustiger Abenteurer"
-      },
-      "sanguinaire": {
-        "__default": "Blutrünstiger Abenteurer"
-      },
-      "pris": {
-        " ": {
-          "sur": {
-            " ": {
-              "le": {
-                " ": {
-                  "fait": {
-                    "__default": "Auf frischer Tat ertappter Abenteurer"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "repéré": {
-        "__default": "Entdeckter Abenteurer"
-      },
-      "injurieux": {
-        "__default": "Ausfälliger Abenteurer"
-      },
-      "crétin": {
-        "__default": "Dummer Abenteurer"
-      },
-      "illettré": {
-        "__default": "Ungelehrter Abenteurer"
-      },
-      "provocateur": {
-        "__default": "Provozierender Abenteurer"
-      },
-      "impatient": {
-        "__default": "Ungeduldiger Abenteurer"
-      },
-      "débrouillard": {
-        "__default": "Gewiefter Abenteurer"
-      },
-      "crâ": {
-        "__default": "Crâ-Abenteurer"
-      },
-      "sram": {
-        "__default": "Sram-Abenteurer"
-      },
-      "pandawa": {
-        "__default": "Pandawa-Abenteurer"
-      },
-      "osamodas": {
-        "__default": "Osamodas-Abenteurer"
-      },
-      "ecaflip": {
-        "__default": "Ecaflip-Abenteurer"
-      },
-      "iop": {
-        "__default": "Iop-Abenteurer"
-      },
-      "sadida": {
-        "__default": "Sadida-Abenteurer"
-      },
-      "sacrieur": {
-        "__default": "Sacrieur-Abenteurer"
-      }
-    }
-  },
-  "heros": {
-    " ": {
-      "cramoisi": {
-        "__default": "Knallroter Held"
-      }
-    }
-  },
-  "héros": {
-    " ": {
-      "rutilant": {
-        "__default": "Funkelnder Held"
-      },
-      "rayonnant": {
-        "__default": "Strahlender Held"
-      },
-      "brasillant": {
-        "__default": "Glühender Held"
-      },
-      "des": {
-        " ": {
-          "douze": {
-            "__default": "Helden der Zwölf"
-          }
-        }
-      }
-    }
-  },
-  "neutre": {
-    "__default": "Neutral",
-    " ": {
-      "(": {
-        "%": {
-          ")": {
-            "__default": "Neutral (%)"
-          }
-        },
-        "fixe": {
-          ")": {
-            "__default": "Neutral (Festwert)"
-          }
-        }
-      }
-    }
-  },
-  "bontarien": {
-    "__default": "Bonta",
-    " ": {
-      "suspicieux": {
-        "__default": "Verdächtiger Bonta"
-      },
-      "intrépide": {
-        "__default": "Furchtloser Bonta"
-      },
-      "énervé": {
-        "__default": "Erboster Bonta"
-      },
-      "méfiant": {
-        "__default": "Misstrauischer Bonta"
-      },
-      "en": {
-        " ": {
-          "détresse": {
-            "__default": "Bonta-Bürger in Not"
-          }
-        }
-      }
-    }
-  },
-  "brâkmarien": {
-    "__default": "Brâk",
-    " ": {
-      "moribond": {
-        "__default": "Sterbender Brâk"
-      }
-    }
-  },
-  "foire": {
-    " ": {
-      "du": {
-        " ": {
-          "trool": {
-            "__default": "Jahrmarkt des Trools",
-            " ": {
-              "-": {
-                " ": {
-                  "roue": {
-                    " ": {
-                      "du": {
-                        " ": {
-                          "bouftou": {
-                            " ": {
-                              "-": {
-                                " ": {
-                                  "marqueur": {
-                                    " ": {
-                                      "cagnotte": {
-                                        " ": {
-                                          "1": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 1"
-                                          },
-                                          "2": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 2"
-                                          },
-                                          "3": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 3"
-                                          },
-                                          "4": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 4"
-                                          },
-                                          "5": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 5"
-                                          },
-                                          "6": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 6"
-                                          },
-                                          "7": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 7"
-                                          },
-                                          "8": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 8"
-                                          },
-                                          "9": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 9"
-                                          },
-                                          "10": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 10"
-                                          },
-                                          "11": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 11"
-                                          },
-                                          "12": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 12"
-                                          },
-                                          "13": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 13"
-                                          },
-                                          "14": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 14"
-                                          },
-                                          "15": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 15"
-                                          },
-                                          "16": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 16"
-                                          },
-                                          "17": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 17"
-                                          },
-                                          "18": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 18"
-                                          },
-                                          "19": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 19"
-                                          },
-                                          "20": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 20"
-                                          },
-                                          "21": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 21"
-                                          },
-                                          "22": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 22"
-                                          },
-                                          "23": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 23"
-                                          },
-                                          "37": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 37"
-                                          },
-                                          "38": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 38"
-                                          },
-                                          "39": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 39"
-                                          },
-                                          "40": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 40"
-                                          },
-                                          "41": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 41"
-                                          },
-                                          "42": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 42"
-                                          },
-                                          "43": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 43"
-                                          },
-                                          "44": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 44"
-                                          },
-                                          "45": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 45"
-                                          },
-                                          "46": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 46"
-                                          },
-                                          "47": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 47"
-                                          },
-                                          "48": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 48"
-                                          },
-                                          "49": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 49"
-                                          },
-                                          "50": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 50"
-                                          },
-                                          "51": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 51"
-                                          },
-                                          "52": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 52"
-                                          },
-                                          "53": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 53"
-                                          },
-                                          "54": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 54"
-                                          },
-                                          "55": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 55"
-                                          },
-                                          "56": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 56"
-                                          },
-                                          "57": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 57"
-                                          },
-                                          "58": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 58"
-                                          },
-                                          "59": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 59"
-                                          },
-                                          "60": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 60"
-                                          },
-                                          "61": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 61"
-                                          },
-                                          "62": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 62"
-                                          },
-                                          "63": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 63"
-                                          },
-                                          "64": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 64"
-                                          },
-                                          "65": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 65"
-                                          },
-                                          "66": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 66"
-                                          },
-                                          "67": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 67"
-                                          },
-                                          "68": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkassenmarker 68"
-                                          }
-                                        }
-                                      },
-                                      "jackpot": {
-                                        " ": {
-                                          "1": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 1"
-                                          },
-                                          "2": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 2"
-                                          },
-                                          "3": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 3"
-                                          },
-                                          "4": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 4"
-                                          },
-                                          "5": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 5"
-                                          },
-                                          "6": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 6"
-                                          },
-                                          "7": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 7"
-                                          },
-                                          "8": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 8"
-                                          },
-                                          "9": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 9"
-                                          },
-                                          "10": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 10"
-                                          },
-                                          "11": {
-                                            "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpotmarker 11"
-                                          }
-                                        }
-                                      }
-                                    }
-                                  },
-                                  "gagnant": {
-                                    " ": {
-                                      "normal": {
-                                        "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Spielkasse GEWONNEN"
-                                      },
-                                      "jackpot": {
-                                        "__default": "Jahrmarkt des Trools – Fresssack-Glücksrad – Jackpot GEWONNEN"
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "question": {
-            "__default": "Häufig gestellter Jahrmarkt"
-          }
-        }
-      }
-    }
-  },
-  "îlots": {
-    " ": {
-      "de": {
-        " ": {
-          "la": {
-            " ": {
-              "mer": {
-                " ": {
-                  "d": {
-                    "'": {
-                      "asse": {
-                        "__default": "Inselchen im Assel-Meer"
-                      }
-                    }
-                  },
-                  "kantil": {
-                    "__default": "Inselchen im Meer Khmal"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "zone": {
-    " ": {
-      "1": {
-        "-": {
-          "a": {
-            "__default": "Bereich 1-A"
-          },
-          "b": {
-            "__default": "Bereich 1-B"
-          },
-          "c": {
-            "__default": "Bereich 1-C"
-          },
-          "d": {
-            "__default": "Bereich 1-D"
-          }
-        }
-      },
-      "2": {
-        "-": {
-          "a": {
-            "__default": "Bereich 2-A"
-          },
-          "b": {
-            "__default": "Bereich 2-B"
-          },
-          "c": {
-            "__default": "Bereich 2-C"
-          },
-          "d": {
-            "__default": "Bereich 2-D"
-          }
-        }
-      },
-      "3": {
-        "-": {
-          "a": {
-            "__default": "Bereich 3-A"
-          },
-          "b": {
-            "__default": "Bereich 3-B"
-          },
-          "c": {
-            "__default": "Bereich 3-C"
-          },
-          "d": {
-            "__default": "Bereich 3-D"
-          }
-        }
-      },
-      "4": {
-        "-": {
-          "a": {
-            "__default": "Bereich 4-A"
-          },
-          "b": {
-            "__default": "Bereich 4-B"
-          },
-          "c": {
-            "__default": "Bereich 4-C"
-          },
-          "d": {
-            "__default": "Bereich 4-D"
-          }
-        }
-      },
-      "5": {
-        "-": {
-          "a": {
-            "__default": "Bereich 5-A"
-          },
-          "b": {
-            "__default": "Bereich 5-B"
-          },
-          "c": {
-            "__default": "Bereich 5-C"
-          },
-          "d": {
-            "__default": "Bereich 5-D"
-          }
-        }
-      },
-      "6": {
-        "-": {
-          "a": {
-            "__default": "Bereich 6-A"
-          },
-          "b": {
-            "__default": "Bereich 6-B"
-          },
-          "c": {
-            "__default": "Bereich 6-C"
-          },
-          "d": {
-            "__default": "Bereich 6-D"
-          }
-        }
-      },
-      "privée": {
-        "__default": "Privater Bereich"
-      },
-      "de": {
-        " ": {
-          "départ": {
-            "__default": "Anfangszone"
-          },
-          "protection": {
-            " ": {
-              "glyphe": {
-                "__default": "Schutzgebiet-Glyphe"
-              }
-            },
-            "__default": "Schutzgebiet"
-          }
-        }
-      }
-    }
-  },
-  "profondeurs": {
-    " ": {
-      "de": {
-        " ": {
-          "sufokia": {
-            "__default": "Tiefen von Sufokia"
-          }
-        }
-      },
-      "d": {
-        "'": {
-          "astrub": {
-            "__default": "Die Tiefen von Astrub"
-          }
-        }
-      },
-      "marines": {
-        "__default": "Tiefsee"
-      }
-    }
-  },
-  "mode": {
-    " ": {
-      "tactique": {
-        "__default": "Taktikmodus"
-      },
-      "d": {
-        "'": {
-          "emploi": {
-            " ": {
-              "de": {
-                " ": {
-                  "la": {
-                    " ": {
-                      "pelle": {
-                        " ": {
-                          "hectrochoc": {
-                            "__default": "Gebrauchsanweisung für die Elektroschockschaufel"
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              "des": {
-                " ": {
-                  "pierres": {
-                    " ": {
-                      "sacrées": {
-                        " ": {
-                          "d": {
-                            "'": {
-                              "araknas": {
-                                "__default": "Anleitung für die Heiligen Steine von Arachnas"
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
           }
         }
       }
@@ -50634,6 +49721,13 @@
       },
       "désincarné": {
         "__default": "Körperloses Feuer"
+      },
+      "l": {
+        "'": {
+          "artifice": {
+            "__default": "Feuerwerkskörper"
+          }
+        }
       }
     },
     "__default": "Feuer"
@@ -50918,6 +50012,9 @@
         }
       }
     }
+  },
+  "alignement": {
+    "__default": "Gesinnung"
   },
   "pourcentage": {
     " ": {
@@ -53424,6 +52521,16 @@
             "__default": "Unsicherheitsabstand"
           }
         }
+      },
+      "de": {
+        " ": {
+          "sécurité": {
+            "__default": "Sicherheitsabstand"
+          }
+        }
+      },
+      "respectueuse": {
+        "__default": "Respektvolle Distanz"
       }
     }
   },
@@ -63153,6 +62260,9 @@
       },
       "brûlant": {
         "__default": "Brennendes Trommeln"
+      },
+      "guignon": {
+        "__default": "Pechtrommel"
       }
     }
   },
@@ -84245,6 +83355,9 @@
           },
           "outils": {
             "__default": "Werkzeugtasche"
+          },
+          "pupuces": {
+            "__default": "Ein Sack voller FroFlöhe"
           }
         }
       },
@@ -85609,7 +84722,8 @@
       "sang": {
         "__default": "Erstes Blut"
       }
-    }
+    },
+    "__default": "Als Erstes"
   },
   "transformation": {
     " ": {
@@ -91623,6 +90737,407 @@
   },
   "guigne": {
     "__default": "Pech"
+  },
+  "iop": {
+    " ": {
+      "attitude": {
+        "__default": "Iop-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Iop – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Iop – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "en": {
+        " ": {
+          "cape": {
+            " ": {
+              "brâkmarienne": {
+                "__default": "Iop mit Brâk-Umhang"
+              }
+            }
+          }
+        }
+      },
+      "menaçante": {
+        "__default": "Bedrohliche Iop"
+      },
+      "désinvolte": {
+        "__default": "Laxer Iop"
+      },
+      "iopesque": {
+        "__default": "Iopesker Iop"
+      },
+      "simplet": {
+        "__default": "Einfältiger Iop"
+      },
+      "possédée": {
+        "__default": "Besessene Iop"
+      },
+      "geignante": {
+        "__default": "Nörgelnder Iop"
+      },
+      "expérimentée": {
+        "__default": "Erfahrener Iop"
+      },
+      "fiévreux": {
+        "__default": "Hektischer Iop"
+      },
+      "fortuné": {
+        "__default": "Steinreicher Iop"
+      },
+      "et": {
+        " ": {
+          "hop": {
+            "__default": "Iop und Hopp"
+          }
+        }
+      }
+    }
+  },
+  "xélor": {
+    " ": {
+      "attitude": {
+        "__default": "Xélor-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Xélor – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Xélor – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "louche": {
+        "__default": "Dubioser Xélor"
+      },
+      "suspect": {
+        "__default": "Verdächtiger Xélor"
+      },
+      "interlope": {
+        "__default": "Zwielichtiger Xélor"
+      },
+      "menaçante": {
+        "__default": "Bedrohliche Xélor"
+      },
+      "dofusophile": {
+        "__default": "Dofusophiler Xélor"
+      }
+    }
+  },
+  "sadida": {
+    " ": {
+      "attitude": {
+        "__default": "Sadida-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Sadida – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Sadida – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "en": {
+        " ": {
+          "cape": {
+            " ": {
+              "bontarienne": {
+                "__default": "Sadida mit Bonta-Umhang"
+              }
+            }
+          }
+        }
+      },
+      "monomaniaque": {
+        "__default": "Monomanischer Sadida"
+      },
+      "corrompu": {
+        "__default": "Verdorbener Sadida"
+      }
+    }
+  },
+  "féca": {
+    " ": {
+      "attitude": {
+        "__default": "Féca-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Féca – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Féca – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "menaçant": {
+        "__default": "Bedrohlicher Féca"
+      }
+    }
+  },
+  "eniripsa": {
+    " ": {
+      "attitude": {
+        "__default": "Eniripsa-Emote"
+      },
+      "angoissée": {
+        "__default": "Angsterfüllte Eniripsa"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Eniripsa – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Eniripsa – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "brâkmar": {
+            "__default": "Brâkmar-Eniripsa"
+          }
+        }
+      },
+      "hyperactive": {
+        "__default": "Hyperaktiver Eniripsa"
+      },
+      "rassurée": {
+        "__default": "Beruhigte Eniripsa"
+      }
+    }
+  },
+  "enutrof": {
+    " ": {
+      "attitude": {
+        "__default": "Enutrof-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Enutrof – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Enutrof – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "calculateur": {
+        "__default": "Berechnender Enutrof"
+      },
+      "avide": {
+        "__default": "Gieriger Enutrof"
+      },
+      "avare": {
+        "__default": "Geiziger Enutrof"
+      },
+      "prospecteur": {
+        "__default": "Schürfender Enutrof"
+      }
+    }
+  },
+  "sacrieur": {
+    " ": {
+      "attitude": {
+        "__default": "Sacrieur-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Sacrieur – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Sacrieur – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "au": {
+        " ": {
+          "foulard": {
+            " ": {
+              "rouge": {
+                "__default": "Sacrieur mit dem roten Schal"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "sram": {
+    " ": {
+      "attitude": {
+        "__default": "Sram-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Sram – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Sram – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "moche": {
+        "__default": "Häßlicher Sram"
+      },
+      "naïf": {
+        "__default": "Einfältiger Sram"
+      },
+      "assassiné": {
+        "__default": "Ermordeter Sram"
+      },
+      "d": {
+        "'": {
+          "égoutant": {
+            "__default": "Eine Sram Kanaille"
+          }
+        }
+      }
+    }
+  },
+  "osamodas": {
+    " ": {
+      "attitude": {
+        "__default": "Osamodas-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Osamodas – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Osamodas – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ecaflip": {
+    " ": {
+      "attitude": {
+        "__default": "Ecaflip-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Ecaflip – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Ecaflip – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "agressive": {
+        "__default": "Aggressiver Ecaflip"
+      },
+      "querelleur": {
+        "__default": "Streitlustiger Ecaflip"
+      },
+      "belliqueuse": {
+        "__default": "Streitlustiger Ecaflip"
+      },
+      "malchanceuse": {
+        "__default": "Vom Pech verfolgte Ecaflip"
+      },
+      "sourit": {
+        " ": {
+          "aux": {
+            " ": {
+              "audacieux": {
+                "__default": "Ecaflip lächelt dem Mutigen zu"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "crâ": {
+    " ": {
+      "attitude": {
+        "__default": "Crâ-Emote"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Crâ – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Crâ – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "menaçant": {
+        "__default": "Bedrohlicher Crâ"
+      },
+      "mitrailleur": {
+        "__default": "Schießwütiger Crâ"
+      },
+      "possédée": {
+        "__default": "Besessene Crâ"
+      },
+      "calculateur": {
+        "__default": "Berechnender Crâ"
+      }
+    }
   },
   "bonta": {
     " ": {
@@ -102608,6 +102123,9 @@
       },
       "brûlée": {
         "__default": "Hitzkopf"
+      },
+      "dure": {
+        "__default": "Harter Kopf"
       }
     }
   },
@@ -111991,6 +111509,36 @@
   "touflage": {
     "__default": "Vegetacamouflage"
   },
+  "pandawa": {
+    " ": {
+      "attitude": {
+        "__default": "Pandawa-Look"
+      },
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Pandawa – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Pandawa – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "éméché": {
+        "__default": "Besäuselter Pandawa"
+      },
+      "déboussolé": {
+        "__default": "Fassungsloser Pandawa"
+      },
+      "mélancolique": {
+        "__default": "Melancholischer Pandawa"
+      }
+    }
+  },
   "corno": {
     " ": {
       "fulgures": {
@@ -114271,6 +113819,9 @@
       },
       "soin": {
         "__default": "Anti-Heilung"
+      },
+      "kopiage": {
+        "__default": "Kopierschutz"
       }
     }
   },
@@ -117084,6 +116635,9 @@
           },
           "patafleuf": {
             "__default": "Mäusespeckparfüm"
+          },
+          "mutinerie": {
+            "__default": "Ein Hauch von Meuterei"
           }
         }
       },
@@ -118234,6 +117788,9 @@
             }
           }
         }
+      },
+      "propres": {
+        "__default": "Weiße Weste"
       }
     }
   },
@@ -119973,7 +119530,7 @@
     "__default": "Wüterich"
   },
   "survivant": {
-    "__default": "Überlebender",
+    "__default": "Überleben",
     " ": {
       "majeur": {
         "__default": "Großer Überlebender"
@@ -122564,7 +122121,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Spiegel"
   },
   "short": {
     " ": {
@@ -135189,7 +134747,8 @@
       "souffle": {
         "__default": "Letzter Atemzug"
       }
-    }
+    },
+    "__default": "Als Letztes"
   },
   "reste": {
     " ": {
@@ -137433,6 +136992,13 @@
             "__default": "Zeitverzögerung"
           }
         }
+      },
+      "qui": {
+        " ": {
+          "court": {
+            "__default": "Die Zeit rennt"
+          }
+        }
       }
     }
   },
@@ -137846,6 +137412,9 @@
           },
           "levant": {
             "__default": "Hauch des Ostwinds"
+          },
+          "printemps": {
+            "__default": "Hauch des Frühlings"
           }
         }
       },
@@ -143623,6 +143192,24 @@
             "__default": "Dreilagiger Lotus"
           }
         }
+      },
+      "pour": {
+        " ": {
+          "un": {
+            "__default": "Lotus für einen – Lotus für alle"
+          }
+        }
+      },
+      "et": {
+        " ": {
+          "bouche": {
+            " ": {
+              "cousue": {
+                "__default": "Lotus zu und durch"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -144539,6 +144126,17 @@
       },
       "lieues": {
         "__default": "Tausend Meilen"
+      },
+      "pétales": {
+        " ": {
+          "de": {
+            " ": {
+              "cerisier": {
+                "__default": "Tausend Kirschblüten"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -145206,6 +144804,9 @@
                 "__default": "Die ewige Unruhe!"
               }
             }
+          },
+          "nimpatience": {
+            "__default": "Nicht so nimungeduldig"
           }
         }
       }
@@ -151338,6 +150939,17 @@
   "bulbécrome": {
     "__default": "Zwiebling"
   },
+  "héros": {
+    " ": {
+      "des": {
+        " ": {
+          "douze": {
+            "__default": "Helden der Zwölf"
+          }
+        }
+      }
+    }
+  },
   "papillouclier": {
     "__default": "Schmetterlingsschild"
   },
@@ -155085,6 +154697,87 @@
       }
     }
   },
+  "steamer": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Steamer – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Steamer – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "hystérique": {
+        "__default": "Hysterischer Steamer"
+      },
+      "catatonique": {
+        "__default": "Katatonischer Steamer"
+      },
+      "suicidaire": {
+        "__default": "Selbstmörderischer Steamer"
+      },
+      "ahurie": {
+        "__default": "Verblüffter Steamer"
+      }
+    }
+  },
+  "eliotrope": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Eliotrop – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Eliotrop – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "menaçant": {
+        "__default": "Bedrohlicher Eliotrop"
+      },
+      "agressive": {
+        "__default": "Aggressiver Eliotrop"
+      },
+      "hostile": {
+        "__default": "Feindlicher Eliotrop"
+      },
+      "somnolent": {
+        "__default": "Schläfriger Eliotrop"
+      }
+    }
+  },
+  "huppermage": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Übermagier – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Übermagier – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "menaçante": {
+        "__default": "Bedrohliche Übermagierin"
+      }
+    }
+  },
   "booftrool": {
     " ": {
       "de": {
@@ -155129,6 +154822,162 @@
             " ": {
               "lary": {
                 "__default": "Lary-Meister-Schulterplatten"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "roublard": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Halsabschneider – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Halsabschneider – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "akiri": {
+        "__default": "Halsabschneider Harry Kira"
+      },
+      "ticho": {
+        "__default": "Halsabschneider Arti Schocke"
+      },
+      "kebuz": {
+        "__default": "Halsabschneider Arke Buse"
+      },
+      "riko": {
+        "__default": "Halsabschneider Ausm"
+      },
+      "lequin": {
+        "__default": "Halsabschneider Sizz"
+      },
+      "chypel": {
+        "__default": "Halsabschneider Maista"
+      },
+      "ébouillanté": {
+        "__default": "Abgebrühter Halsabschneider"
+      },
+      "du": {
+        " ": {
+          "clan": {
+            " ": {
+              "smisse": {
+                "__default": "Halsabschneider des Clans Smiss"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "zobal": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Maskeradoren – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Maskerador – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "hibaba": {
+        " ": {
+          "et": {
+            " ": {
+              "les": {
+                " ": {
+                  "40": {
+                    " ": {
+                      "roublards": {
+                        "__default": "Blabliblabla und die 40 Halsabschneider"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ouginak": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Ouginak – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Ouginak – Männliches Gesicht"
+              }
+            }
+          }
+        }
+      },
+      "déchaîné": {
+        "__default": "Tollwütiger Ouginak"
+      },
+      "évolué": {
+        "__default": "Hochentwickelter Ouginak"
+      },
+      "craintif": {
+        "__default": "Ängstlicher Ouginak"
+      },
+      "de": {
+        " ": {
+          "srambad": {
+            "__default": "Ouginak aus Srambad"
+          }
+        }
+      },
+      "désorienté": {
+        "__default": "Desorientierter Ouginak"
+      },
+      "allergique": {
+        "__default": "Allergischer Ouginak"
+      },
+      "cuit": {
+        " ": {
+          "à": {
+            " ": {
+              "point": {
+                "__default": "Medium gebratener Ouginak"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "forgelance": {
+    " ": {
+      "-": {
+        " ": {
+          "visage": {
+            " ": {
+              "féminin": {
+                "__default": "Speerschmied – Weibliches Gesicht"
+              },
+              "masculin": {
+                "__default": "Speerschmied – Männliches Gesicht"
               }
             }
           }
@@ -155423,6 +155272,9 @@
         "__default": "Bauer von Bonta"
       }
     }
+  },
+  "forgemage": {
+    "__default": "Schmiedmagier"
   },
   "sculptemage": {
     "__default": "Schnitzmagier"
@@ -163147,6 +162999,16 @@
             "__default": "Todbringender Tod"
           }
         }
+      },
+      "à": {
+        " ": {
+          "gages": {
+            "__default": "Auftragskiller"
+          },
+          "vue": {
+            "__default": "Sichtkiller"
+          }
+        }
       }
     }
   },
@@ -165217,6 +165079,82 @@
   "bagoo": {
     "__default": "Maus"
   },
+  "aventurier": {
+    " ": {
+      "maudit": {
+        "__default": "Verfluchter Abenteurer"
+      },
+      "frénétique": {
+        "__default": "Frenetischer Abenteurer"
+      },
+      "batailleur": {
+        "__default": "Streitlustiger Abenteurer"
+      },
+      "sanguinaire": {
+        "__default": "Blutrünstiger Abenteurer"
+      },
+      "pris": {
+        " ": {
+          "sur": {
+            " ": {
+              "le": {
+                " ": {
+                  "fait": {
+                    "__default": "Auf frischer Tat ertappter Abenteurer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "repéré": {
+        "__default": "Entdeckter Abenteurer"
+      },
+      "injurieux": {
+        "__default": "Ausfälliger Abenteurer"
+      },
+      "crétin": {
+        "__default": "Dummer Abenteurer"
+      },
+      "illettré": {
+        "__default": "Ungelehrter Abenteurer"
+      },
+      "provocateur": {
+        "__default": "Provozierender Abenteurer"
+      },
+      "impatient": {
+        "__default": "Ungeduldiger Abenteurer"
+      },
+      "débrouillard": {
+        "__default": "Gewiefter Abenteurer"
+      },
+      "crâ": {
+        "__default": "Crâ-Abenteurer"
+      },
+      "sram": {
+        "__default": "Sram-Abenteurer"
+      },
+      "pandawa": {
+        "__default": "Pandawa-Abenteurer"
+      },
+      "osamodas": {
+        "__default": "Osamodas-Abenteurer"
+      },
+      "ecaflip": {
+        "__default": "Ecaflip-Abenteurer"
+      },
+      "iop": {
+        "__default": "Iop-Abenteurer"
+      },
+      "sadida": {
+        "__default": "Sadida-Abenteurer"
+      },
+      "sacrieur": {
+        "__default": "Sacrieur-Abenteurer"
+      }
+    }
+  },
   "comtoise": {
     "__default": "Grafenstanduhr"
   },
@@ -165354,6 +165292,13 @@
     " ": {
       "fellet": {
         "__default": "Irres Licht"
+      },
+      "de": {
+        " ": {
+          "choco": {
+            "__default": "Schokowahn"
+          }
+        }
       }
     }
   },
@@ -169914,6 +169859,9 @@
             }
           }
         }
+      },
+      "grozu": {
+        "__default": "Tsume-Grozu"
       }
     }
   },
@@ -178935,6 +178883,13 @@
       }
     }
   },
+  "récolteur": {
+    " ": {
+      "frigostien": {
+        "__default": "Frigostianischer Ernter"
+      }
+    }
+  },
   "émile": {
     " ": {
       "kah": {
@@ -179156,6 +179111,17 @@
   },
   "fraouctor": {
     "__default": "Fruktor"
+  },
+  "expert": {
+    " ": {
+      "en": {
+        " ": {
+          "chronomagie": {
+            "__default": "Chronomagie-Experte"
+          }
+        }
+      }
+    }
   },
   "proie": {
     " ": {
@@ -179981,6 +179947,13 @@
   },
   "bobardawa": {
     "__default": "Flunkerdawa"
+  },
+  "artisan": {
+    " ": {
+      "pandawa": {
+        "__default": "Pandawa-Handwerker"
+      }
+    }
   },
   "montagnarde": {
     " ": {
@@ -181922,6 +181895,9 @@
           },
           "bambol": {
             "__default": "Bambusverdruss"
+          },
+          "boule": {
+            "__default": "Genug ist genug"
           }
         }
       },
@@ -182444,6 +182420,13 @@
         " ": {
           "baume": {
             "__default": "Balsam für Kidiboms"
+          },
+          "boum": {
+            " ": {
+              "?": {
+                "__default": "Wer hat Bumm gesagt?"
+              }
+            }
           }
         }
       },
@@ -183008,9 +182991,15 @@
             "__default": "Giftiger Gegenschlag"
           }
         }
+      },
+      "vent": {
+        " ": {
+          "contraire": {
+            "__default": "Gegen Gegenwind"
+          }
+        }
       }
-    },
-    "__default": "Konter"
+    }
   },
   "affrontement": {
     " ": {
@@ -183128,7 +183117,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Hierarchie"
   },
   "arrivée": {
     " ": {
@@ -185577,6 +185567,25 @@
                         }
                       }
                     }
+                  },
+                  "elle": {
+                    " ": {
+                      "a": {
+                        " ": {
+                          "ma": {
+                            " ": {
+                              "goule": {
+                                " ": {
+                                  "?": {
+                                    "__default": "So, und Ghul ist's."
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
                   }
                 }
               }
@@ -185774,6 +185783,37 @@
             " ": {
               "armutins": {
                 "__default": "Wenn sich die Rüstebellen rüsten"
+              }
+            }
+          }
+        }
+      },
+      "kwapa": {
+        "__default": "Kwappa-Meuterei"
+      },
+      "du": {
+        " ": {
+          "sarkapwane": {
+            "__default": "Blaskwaprohne-Meuterei"
+          },
+          "betto": {
+            "__default": "Betto-Meuterei"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "la": {
+            " ": {
+              "kokom": {
+                "__default": "Kwurken-Meuterei"
+              }
+            }
+          },
+          "l": {
+            "'": {
+              "akakwa": {
+                "__default": "Akakwa-Meuterei"
               }
             }
           }
@@ -186245,6 +186285,13 @@
                 "__default": "Aus dem Schatten heraus"
               }
             }
+          },
+          "sa": {
+            " ": {
+              "coquille": {
+                "__default": "Die Schale verlassen"
+              }
+            }
           }
         }
       }
@@ -186631,6 +186678,24 @@
             }
           }
         }
+      },
+      "son": {
+        " ": {
+          "monstre": {
+            "__default": "Jedem sein Monster"
+          },
+          "tour": {
+            " ": {
+              "de": {
+                " ": {
+                  "magie": {
+                    "__default": "Ein Zaubertrick nach dem anderen"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -186699,7 +186764,36 @@
       "pas": {
         " ": {
           "pousser": {
-            "__default": "Nicht schubsen!"
+            "__default": "Nicht schubsen!",
+            " ": {
+              "les": {
+                " ": {
+                  "cochons": {
+                    " ": {
+                      "dans": {
+                        " ": {
+                          "la": {
+                            " ": {
+                              "confiture": {
+                                " ": {
+                                  "d": {
+                                    "'": {
+                                      "orties": {
+                                        "__default": "Lasst die Perlen im Dorf und die Säue in der Kirche"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -187512,6 +187606,25 @@
             }
           }
         }
+      },
+      "l": {
+        "'": {
+          "esprit": {
+            " ": {
+              "qui": {
+                " ": {
+                  "croyait": {
+                    " ": {
+                      "prendre": {
+                        "__default": "Der Spieler ist willig, aber der Geist ist stark"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -187535,6 +187648,17 @@
       },
       "intérieur": {
         "__default": "Innerer Kampf"
+      },
+      "à": {
+        " ": {
+          "l": {
+            "'": {
+              "aveuglette": {
+                "__default": "Blinder Kampf"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -189202,6 +189326,9 @@
       }
     }
   },
+  "persécution": {
+    "__default": "Verfolgung"
+  },
   "reconstitution": {
     "__default": "Wiederherstellung",
     " ": {
@@ -190537,6 +190664,9 @@
             }
           }
         }
+      },
+      "larvaire": {
+        "__default": "Larviges Erlahmen"
       }
     }
   },
@@ -195156,6 +195286,13 @@
       },
       "djaulien": {
         "__default": "Duell des Djaulianers"
+      },
+      "et": {
+        " ": {
+          "pique": {
+            "__default": "Episches Pik-Duell"
+          }
+        }
       }
     },
     "__default": "Duell"
@@ -196648,6 +196785,13 @@
     " ": {
       "célium": {
         "__default": "Mü Zählium"
+      },
+      "des": {
+        " ": {
+          "bombombres": {
+            "__default": "Freund der Kwurkenbomben"
+          }
+        }
       }
     }
   },
@@ -197429,6 +197573,32 @@
   },
   "immunisation": {
     "__default": "Immunisieren"
+  },
+  "destruction": {
+    " ": {
+      "de": {
+        " ": {
+          "la": {
+            " ": {
+              "montagne": {
+                "__default": "Bergzertrümmerung"
+              }
+            }
+          }
+        }
+      },
+      "du": {
+        " ": {
+          "monde": {
+            "__default": "Zerstörung der Welt"
+          }
+        }
+      },
+      "aveugle": {
+        "__default": "Blinde Zerstörung"
+      }
+    },
+    "__default": "Zerstörung"
   },
   "paume": {
     " ": {
@@ -198767,6 +198937,17 @@
       },
       "marécageux": {
         "__default": "Verbündete des Sumpfes"
+      },
+      "passés": {
+        " ": {
+          "au": {
+            " ": {
+              "futur": {
+                "__default": "Ehemalige zukünftige Verbündete"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -198808,6 +198989,13 @@
         " ": {
           "pointe": {
             "__default": "Sturmspitze"
+          },
+          "la": {
+            " ": {
+              "mort": {
+                "__default": "Stunde des Todes"
+              }
+            }
           }
         }
       }
@@ -199378,6 +199566,13 @@
     " ": {
       "vivant": {
         "__default": "Lebendiges Spektakel"
+      },
+      "de": {
+        " ": {
+          "marionnettes": {
+            "__default": "Tanz der Marionetten"
+          }
+        }
       }
     }
   },
@@ -199568,6 +199763,9 @@
           },
           "sang": {
             "__default": "Blutbad"
+          },
+          "foule": {
+            "__default": "Bad in der Menge"
           }
         }
       },
@@ -200073,6 +200271,13 @@
       },
       "abordage": {
         "__default": "Enterdreck"
+      },
+      "gosse": {
+        " ": {
+          "!": {
+            "__default": "Rotzbengel!"
+          }
+        }
       }
     }
   },
@@ -201200,7 +201405,16 @@
     }
   },
   "sortie": {
-    "__default": "Ausgang"
+    "__default": "Ausgang",
+    " ": {
+      "de": {
+        " ": {
+          "ring": {
+            "__default": "Raus aus dem Ring"
+          }
+        }
+      }
+    }
   },
   "strapiège": {
     " ": {
@@ -201693,7 +201907,7 @@
     }
   },
   "contamination": {
-    "__default": "Kontaminierung",
+    "__default": "Verseuchung",
     " ": {
       "zombie": {
         "__default": "Zombifizierende Kontaminierung"
@@ -201887,6 +202101,9 @@
       },
       "cochon": {
         "__default": "Schweinesprung"
+      },
+      "pirate": {
+        "__default": "Piratenspringen"
       }
     }
   },
@@ -203335,6 +203552,9 @@
           }
         },
         "__default": "Gefährliche Öffnung"
+      },
+      "facile": {
+        "__default": "Schnellverschluss"
       }
     }
   },
@@ -203688,6 +203908,9 @@
     " ": {
       "prioritaire": {
         "__default": "Prioritäres Ziel"
+      },
+      "facile": {
+        "__default": "Leichtes Ziel"
       }
     }
   },
@@ -205545,6 +205768,9 @@
       },
       "cauchemardesque": {
         "__default": "Alptraumhafte Verfolgung"
+      },
+      "royale": {
+        "__default": "Königliche Verfolgung"
       }
     }
   },
@@ -206072,7 +206298,7 @@
     "__default": "Kotenrüstung"
   },
   "partage": {
-    "__default": "Teilung",
+    "__default": "Teilen",
     " ": {
       "épineux": {
         "__default": "Stachelige Teilung"
@@ -209036,7 +209262,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Die Zeit läuft"
   },
   "talonnade": {
     "__default": "Hackentrick"
@@ -209313,6 +209540,9 @@
             }
           }
         }
+      },
+      "forestière": {
+        "__default": "Bewaldete Wachsamkeit"
       }
     }
   },
@@ -212982,7 +213212,20 @@
     "__default": "Komätmi"
   },
   "kwaboom": {
-    "__default": "Kwabumm"
+    "__default": "Kwabumm",
+    " ": {
+      "2": {
+        " ": {
+          "en": {
+            " ": {
+              "1": {
+                "__default": "2-in-1-Kwabumm"
+              }
+            }
+          }
+        }
+      }
+    }
   },
   "lanternes": {
     " ": {
@@ -213753,6 +213996,9 @@
             }
           }
         }
+      },
+      "vengeresse": {
+        "__default": "Rachsüchtiger Mond"
       }
     }
   },
@@ -214306,7 +214552,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Domakuroptimierung"
   },
   "domakurobligeance": {
     " ": {
@@ -214341,7 +214588,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Domakurobsession"
   },
   "psaume": {
     " ": {
@@ -215770,6 +216018,13 @@
   },
   "fatalité": {
     "__default": "Schicksal"
+  },
+  "extermination": {
+    " ": {
+      "iopesque": {
+        "__default": "Iopische Auslöschung"
+      }
+    }
   },
   "egob": {
     " ": {
@@ -222289,6 +222544,9 @@
             }
           }
         }
+      },
+      "pludent": {
+        "__default": "Alchvorsichtemist"
       }
     }
   },
@@ -224564,6 +224822,527 @@
     " ": {
       "céleste": {
         "__default": "Himmlischer Überhauch"
+      }
+    }
+  },
+  "économe": {
+    "__default": "Wirtschaftlichkeit"
+  },
+  "versatile": {
+    "__default": "Vielseitigkeit"
+  },
+  "intouchable": {
+    "__default": "Unberührbarkeit"
+  },
+  "ordonné": {
+    "__default": "Der Reihe nach!"
+  },
+  "élitiste": {
+    "__default": "Elitär"
+  },
+  "imprévisible": {
+    "__default": "Unberechenbar"
+  },
+  "hardi": {
+    "__default": "Gewagt"
+  },
+  "collant": {
+    "__default": "Anhängsel"
+  },
+  "blitzkrieg": {
+    "__default": "Blitzangriff"
+  },
+  "misanthrope": {
+    "__default": "Misanthrop"
+  },
+  "econome": {
+    "__default": "Wirtschaftlichkeit"
+  },
+  "circulez": {
+    " ": {
+      "!": {
+        "__default": "Geht weiter!"
+      }
+    }
+  },
+  "mystique": {
+    "__default": "Mystiker"
+  },
+  "quatuor": {
+    "__default": "Quartett"
+  },
+  "bombombragogo": {
+    "__default": "Kwurkenbombardierung"
+  },
+  "ultra": {
+    " ": {
+      "instinct": {
+        "__default": "Ultra-Instinkt"
+      }
+    }
+  },
+  "rinku": {
+    " ": {
+      "meurtrier": {
+        "__default": "Mörderischer Rinku"
+      }
+    }
+  },
+  "m": {
+    " ": {
+      "et": {
+        " ": {
+          "mme": {
+            " ": {
+              "samovar": {
+                " ": {
+                  "ont": {
+                    " ": {
+                      "un": {
+                        " ": {
+                          "fils": {
+                            ".": {
+                              ".": {
+                                ".": {
+                                  "__default": "Madame Pottine hat einen Sohn ..."
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "images": {
+    " ": {
+      "du": {
+        " ": {
+          "monde": {
+            " ": {
+              "flottant": {
+                "__default": "Bilder der fließenden Welt"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "courber": {
+    " ": {
+      "l": {
+        "'": {
+          "épine": {
+            "__default": "Mit eigenen Waffen schlagen"
+          }
+        }
+      }
+    }
+  },
+  "madurasse": {
+    " ": {
+      "masque": {
+        "__default": "Madura-Maske"
+      }
+    }
+  },
+  "kaokuriche": {
+    "__default": "Kaokureich"
+  },
+  "onigovrille": {
+    "__default": "Onigotrudeln"
+  },
+  "lantervalle": {
+    "__default": "Laterntervall"
+  },
+  "saïffe": {
+    " ": {
+      "zaune": {
+        "__default": "Sehf Sohn"
+      }
+    }
+  },
+  "dorigamise": {
+    " ": {
+      "à": {
+        " ": {
+          "mort": {
+            "__default": "Dorigaminimierung"
+          }
+        }
+      }
+    }
+  },
+  "dorigamiséricorde": {
+    "__default": "Dorigamilde"
+  },
+  "raser": {
+    " ": {
+      "les": {
+        " ": {
+          "murs": {
+            "__default": "Mauern einreißen"
+          }
+        }
+      }
+    }
+  },
+  "conquérant": {
+    "__default": "Eroberer"
+  },
+  "doume": {
+    "__default": "Ein Abwasch"
+  },
+  "lâche": {
+    " ": {
+      "mes": {
+        " ": {
+          "côtes": {
+            "__default": "Lass mich los"
+          }
+        }
+      }
+    }
+  },
+  "empêtrement": {
+    " ": {
+      "d": {
+        "'": {
+          "esprit": {
+            " ": {
+              "entêtant": {
+                "__default": "Schwere Verhedderung des Geistes"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "dorée": {
+    ",": {
+      " ": {
+        "mi": {
+          " ": {
+            "fa": {
+              " ": {
+                "sol": {
+                  "__default": "Unreifes Gold"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "désillusion": {
+    "__default": "Desillusion"
+  },
+  "bécotam": {
+    "__default": "Gokuss"
+  },
+  "dirige": {
+    " ": {
+      "mais": {
+        " ": {
+          "mal": {
+            " ": {
+              "rédige": {
+                "__default": "Teamwork ist nicht für jeden was"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tombés": {
+    " ": {
+      "sous": {
+        " ": {
+          "le": {
+            " ": {
+              "charme": {
+                "__default": "Dem Charme erlegen"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "collé": {
+    "-": {
+      "serré": {
+        "__default": "Ganz nah beisammen"
+      }
+    }
+  },
+  "touche": {
+    " ": {
+      "pas": {
+        " ": {
+          "à": {
+            " ": {
+              "mon": {
+                " ": {
+                  "blop": {
+                    "__default": "Hände weg von meinem Blob"
+                  }
+                }
+              },
+              "mes": {
+                " ": {
+                  "blops": {
+                    "__default": "Hände weg von meinen Blobs"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "mené": {
+    " ": {
+      "à": {
+        " ": {
+          "la": {
+            " ": {
+              "cawotte": {
+                "__default": "Herumkarottiert"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tonneaux": {
+    " ": {
+      "truands": {
+        "__default": "Donnernde Tonnen"
+      }
+    }
+  },
+  "échapper": {
+    " ": {
+      "au": {
+        " ": {
+          "fisk": {
+            "__default": "Wer hat Angst vor Unruhtruh"
+          }
+        }
+      }
+    }
+  },
+  "parcimonie": {
+    " ": {
+      "royale": {
+        "__default": "Königliche Sparsamkeit"
+      }
+    }
+  },
+  "truchement": {
+    "__default": "Sprachmittlung"
+  },
+  "enchaînemou": {
+    "__default": "Weiche Eichen-Verkettung"
+  },
+  "privilège": {
+    " ": {
+      "royal": {
+        "__default": "Königliches Privileg"
+      }
+    }
+  },
+  "raviver": {
+    " ": {
+      "la": {
+        " ": {
+          "flamme": {
+            "__default": "Die Flamme erhalten"
+          }
+        }
+      }
+    }
+  },
+  "pizwa": {
+    " ": {
+      "quatre": {
+        " ": {
+          "couleurs": {
+            "__default": "Vier-Farben-Pizwa"
+          }
+        }
+      }
+    }
+  },
+  "diagonale": {
+    " ": {
+      "du": {
+        " ": {
+          "vide": {
+            "__default": "Wo sich Fuchs und Hase gute Nacht sagen"
+          }
+        }
+      }
+    }
+  },
+  "hellémentaire": {
+    "__default": "Höllementarwissen"
+  },
+  "autonomie": {
+    " ": {
+      "givrée": {
+        "__default": "Frostige Selbstständigkeit"
+      }
+    }
+  },
+  "émancipation": {
+    " ": {
+      "maternelle": {
+        "__default": "Emanzipierung von Mutters Armen"
+      }
+    }
+  },
+  "baston": {
+    " ": {
+      "équitable": {
+        "__default": "Gerechte Keilerei"
+      }
+    }
+  },
+  "relation": {
+    " ": {
+      "toxique": {
+        "__default": "Toxische Beziehung"
+      }
+    }
+  },
+  "complaisance": {
+    " ": {
+      "gloursonne": {
+        "__default": "Barbärige Gefälligkeit"
+      }
+    }
+  },
+  "jeux": {
+    " ": {
+      "d": {
+        "'": {
+          "ombres": {
+            "__default": "Schattenspiele"
+          }
+        }
+      }
+    }
+  },
+  "antioxydant": {
+    "__default": "Antioxidant"
+  },
+  "brikolère": {
+    "__default": "Erboste Bastelei"
+  },
+  "voyez": {
+    ",": {
+      " ": {
+        "il": {
+          " ": {
+            "y": {
+              " ": {
+                "a": {
+                  " ": {
+                    "du": {
+                      " ": {
+                        "monde": {
+                          "__default": "Seht, hier ist was los"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "pingrerie": {
+    "__default": "Knauserei"
+  },
+  "chaises": {
+    " ": {
+      "musicales": {
+        "__default": "Reise nach Jerusalem"
+      }
+    }
+  },
+  "lunatique": {
+    "__default": "Launisch"
+  },
+  "abjecte": {
+    " ": {
+      "opulence": {
+        "__default": "Abstoßender Überfluss"
+      }
+    }
+  },
+  "arsenal": {
+    " ": {
+      "total": {
+        "__default": "Vollständiges Arsenal"
+      }
+    }
+  },
+  "régence": {
+    " ": {
+      "d": {
+        "'": {
+          "encre": {
+            "__default": "Regentschaft der Tinte"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "papier": {
+            "__default": "Regentschaft des Papiers"
+          }
+        }
+      }
+    }
+  },
+  "sauvegarde": {
+    " ": {
+      "des": {
+        " ": {
+          "krokilles": {
+            "__default": "Schockerschalenschutz"
+          }
+        }
+      }
+    }
+  },
+  "charier": {
+    " ": {
+      "la": {
+        " ": {
+          "chocolaterie": {
+            "__default": "Chariun die Schokoladenfabrik"
+          }
+        }
       }
     }
   }
