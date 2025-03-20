@@ -22,7 +22,7 @@ export const translateLine = async (line: string,  language: Language) => {
       while (currentMap !== undefined) {
         currentMap = currentMap[currentToken?.toLowerCase()];
         if (currentMap?.["__default"] !== undefined) {
-          bestMatch = currentMap?.["__default"];
+          bestMatch = `\n<span class="notranslate" translate="no">${currentMap?.["__default"]}</span>\n`;
           bestMatchPosition = endPointer;
         }
         endPointer += 1;
