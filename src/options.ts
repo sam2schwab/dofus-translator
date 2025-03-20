@@ -1,3 +1,5 @@
+import './styles/styles.css';
+
 document.addEventListener("DOMContentLoaded", () => {
     const languageSelect = document.getElementById("language") as HTMLSelectElement;
     const saveButton = document.getElementById("save") as HTMLButtonElement;

@@ -11,5 +11,5 @@
     "scripts": ["background.js"],
     "service_worker": "background.js"
   },
-  "options_page": "options.html"
+  "options_page": "src/options.html"
 }

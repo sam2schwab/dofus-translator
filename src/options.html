@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Extension Options</title>
-    <script defer src="options.js"></script>
+    <script type="module" src="./options.ts"></script>
 </head>
 <body class="bg-gray-900 text-white min-h-screen flex justify-center items-center">
     <div class="w-96 bg-gray-800 p-6 rounded-lg shadow-lg">
-        <h1 class="text-xl font-bold mb-4">Options</h1>
+        <h1 class="text-xl font-bold mb-4">Dofus Translator Options</h1>
         <label class="block mb-4">
-            <span class="text-gray-300">Language:</span>
-            <select id="language" class="w-full p-2 rounded bg-gray-700 text-white">
+            <span class="text-gray-300 mb-1 inline-block">Translation Language:</span>
+            <select id="language" class="w-full p-2 rounded bg-gray-700 text-white border-r-8 border-gray-700">
                 <option value="en">English</option>
                 <option value="pt">Português</option>
                 <option value="es">Español</option>
                 <option value="de">Deutsch</option>
             </select>
         </label>
-        <button id="save" class="w-full bg-blue-600 hover:bg-blue-500 text-white p-2 rounded">Save</button>
+        <button id="save" class="w-full bg-blue-600 hover:bg-blue-500 text-white p-2 rounded font-bold">Save</button>
     </div>
 </body>
 </html>
