@@ -11,6 +11,9 @@ export const overrides = {
   PO: {
     en: "Range",
   },
+  PV: {
+    en: "HP",
+  },
   DDG: {
     en: "Ice Dofus",
   },
