@@ -14,6 +14,21 @@ export const overrides = {
   DDG: {
     en: "Ice Dofus",
   },
+  Émeraude: {
+    en: "Emerald",
+  },
+  Pourpre: {
+    en: "Crimson",
+  },
+  Ocre: {
+    en: "Ochre",
+  },
+  Ivoire: {
+    en: "Ivory",
+  },
+  Ébène: {
+    en: "Ebony",
+  },
   TDM: {
     en: "Around the world",
   },
@@ -22,9 +37,6 @@ export const overrides = {
   },
   Pano: {
     en: "set",
-  },
-  Pourpre: {
-    en: "Crimson",
   },
   Grobe: {
     en: "Nolifis",

@@ -44800,7 +44800,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Ochre"
   },
   "mortelle": {
     " ": {
@@ -62971,7 +62972,7 @@
     }
   },
   "émeraude": {
-    "__default": "Emeralda",
+    "__default": "Emerald",
     " ": {
       "enchantée": {
         "__default": "Enchanted Emerald"
@@ -221831,6 +221832,9 @@
   },
   "ddg": {
     "__default": "Ice Dofus"
+  },
+  "ébène": {
+    "__default": "Ebony"
   },
   "tdm": {
     "__default": "Around the world"
