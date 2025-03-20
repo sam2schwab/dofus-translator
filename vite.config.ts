@@ -7,6 +7,7 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       input: {
+        content: "src/content.ts", // Content script
         background: "src/background.ts", // Background script
         translatePageText: "src/translatePageText.ts", // Translate script
         options: "src/options.html", // Options page

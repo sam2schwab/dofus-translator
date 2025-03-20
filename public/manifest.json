@@ -11,5 +11,13 @@
     "scripts": ["background.js"],
     "service_worker": "background.js"
   },
-  "options_page": "src/options.html"
+  "options_page": "src/options.html",
+  "host_permissions": ["*://www.dofuspourlesnoobs.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.dofuspourlesnoobs.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
 }
