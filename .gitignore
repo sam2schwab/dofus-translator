@@ -27,5 +27,5 @@ dist-ssr
 cache
 
 #Chrome web store artefacts
-dist.crx
+dist.zip
 dist.pem
