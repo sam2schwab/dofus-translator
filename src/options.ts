@@ -1,5 +1,3 @@
-import "./styles/tailwind.css";
-
 document.addEventListener("DOMContentLoaded", () => {
     const languageSelect = document.getElementById("language") as HTMLSelectElement;
     const saveButton = document.getElementById("save") as HTMLButtonElement;
