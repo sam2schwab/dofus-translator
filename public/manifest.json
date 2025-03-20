@@ -3,12 +3,13 @@
   "name": "Dofus Translator",
   "version": "1.0",
   "description": "Translates Dofus-specific keywords on the page using official translations.",
-  "permissions": ["scripting", "activeTab"],
+  "permissions": ["scripting", "activeTab", "storage"],
   "action": {
     "default_icon": "icons/icon128.png"
   },
   "background": {
     "scripts": ["background.js"],
     "service_worker": "background.js"
-  }
+  },
+  "options_page": "options.html"
 }

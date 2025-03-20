@@ -4,8 +4,6 @@ chrome.runtime.onInstalled.addListener(() => {
   });
 });
 
-
-
 chrome.action.onClicked.addListener(async (tab) => {
   // Retrieve the action badge to check if the extension is 'ON' or 'OFF'
   const prevState = await chrome.action.getBadgeText({ tabId: tab.id });
@@ -18,12 +16,22 @@ chrome.action.onClicked.addListener(async (tab) => {
     text: nextState,
   });
 
-  if (nextState === 'OFF') {
+  if (nextState === "OFF") {
     chrome.tabs.reload(tab.id!);
   } else {
-    chrome.scripting.executeScript({
-      target: {tabId: tab.id!},
-      files: ['translatePageText.js']
-    })
+    chrome.storage.sync.get(["language"], (data) => {
+      chrome.scripting.executeScript({
+        target: { tabId: tab.id! },
+        func: (language: string) => {
+          (window as any).myExtensionConfig = { language };
+        },
+        args: [data.language || "en"],
+      });
+
+      chrome.scripting.executeScript({
+        target: { tabId: tab.id! },
+        files: ["translatePageText.js"],
+      });
+    });
   }
 });
