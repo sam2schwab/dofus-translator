@@ -189305,9 +189305,6 @@
   "koudanlulk": {
     "__default": "Hitiniurlars"
   },
-  "altération": {
-    "__default": "Deterioration"
-  },
   "déchirement": {
     " ": {
       "intestinal": {
@@ -221822,6 +221819,12 @@
         }
       }
     }
+  },
+  "pa": {
+    "__default": "AP"
+  },
+  "pm": {
+    "__default": "MP"
   },
   "po": {
     "__default": "Range"

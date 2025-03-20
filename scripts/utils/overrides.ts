@@ -2,6 +2,12 @@ export const overrides = {
   Piou: {
     en: "Piwi",
   },
+  PA: {
+    en: "AP",
+  },
+  PM: {
+    en: "MP",
+  },
   PO: {
     en: "Range",
   },
@@ -34,4 +40,4 @@ export const overrides = {
   }
 };
 
-export const blacklist = new Set(["frappe", "contre"]);
+export const blacklist = new Set(["frappe", "contre", "altération"]);
