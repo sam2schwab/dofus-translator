@@ -9,7 +9,7 @@
     "dev": "vite build --watch",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "zip": "powershell Compress-Archive -Force dist dist.zip"
+    "zip": "powershell Compress-Archive -Force dist/* dist.zip"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.0.14",

@@ -21,6 +21,9 @@
     "service_worker": "background.js"
   },
   "options_page": "src/options.html",
+  "options_ui": {
+    "page": "src/options.html"
+  },
   "host_permissions": ["*://www.dofuspourlesnoobs.com/*"],
   "content_scripts": [
     {

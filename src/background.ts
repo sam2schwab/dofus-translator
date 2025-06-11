@@ -19,13 +19,13 @@ chrome.action.onClicked.addListener(async (tab) => {
   if (nextState === "OFF") {
     chrome.tabs.reload(tab.id!);
   } else {
-    chrome.storage.sync.get(["language"], (data) => {
+    chrome.storage.local.get(["language"], (data) => {
       chrome.scripting.executeScript({
         target: { tabId: tab.id! },
         func: (language: string) => {
           (window as any).myExtensionConfig = { language };
         },
-        args: [data.language || "en"],
+        args: [data?.language || "en"],
       });
 
       chrome.scripting.executeScript({

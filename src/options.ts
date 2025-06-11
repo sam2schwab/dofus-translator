@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!languageSelect || !saveButton) return; // Ensure elements exist
 
     // Load saved settings
-    chrome.storage.sync.get(["language"], (data) => {
+    chrome.storage.local.get(["language"], (data) => {
         if (data.language) {
             languageSelect.value = data.language;
         }
@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Save settings
     saveButton.addEventListener("click", () => {
         const language = languageSelect.value;
-        chrome.storage.sync.set({ language }, () => {
+        chrome.storage.local.set({ language }, () => {
             alert("Settings saved!");
         });
     });
