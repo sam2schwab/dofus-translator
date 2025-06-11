@@ -52,6 +52,9 @@ export const overrides = {
   },
   Kanniboul: {
     en: "Kanniball"
+  },
+  "Vol de vie": {
+    en: "lifesteal"
   }
 };
 

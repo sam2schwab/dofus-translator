@@ -2430,7 +2430,7 @@
                   "maître": {
                     " ": {
                       "corbac": {
-                        "__default": "Meister Rabs Bibliothek"
+                        "__default": "Meister Rabs Lesesaal"
                       }
                     }
                   }
@@ -20271,12 +20271,12 @@
     " ": {
       "l": {
         "'": {
-          "eponge": {
+          "éponge": {
             " ": {
               "(": {
                 "duo": {
                   ")": {
-                    "__default": "Spongemob (Duo)"
+                    "__default": "Spongemob Schwammtopf (Duo)"
                   }
                 },
                 "misanthrope": {
@@ -20286,23 +20286,17 @@
                 },
                 "versatile": {
                   ")": {
-                    "__default": "Spongemob (Vielseitigkeit)"
+                    "__default": "Spongemob Schwammtopf (Vielseitigkeit)"
                   }
-                }
-              }
-            }
-          },
-          "éponge": {
-            "__default": "Spongemob Schwammtopf",
-            " ": {
-              "(": {
+                },
                 "spécial": {
                   ")": {
                     "__default": "Spongemob Schwammtopf (Spezial)"
                   }
                 }
               }
-            }
+            },
+            "__default": "Spongemob Schwammtopf"
           }
         }
       }
@@ -20504,41 +20498,45 @@
   },
   "chafer": {
     " ": {
+      "r": {
+        "ō": {
+          "nin": {
+            " ": {
+              "(": {
+                "duo": {
+                  ")": {
+                    "__default": "Ronin-Chafer (Duo)"
+                  }
+                },
+                "nomade": {
+                  ")": {
+                    "__default": "Ronin-Chafer (Nomade)"
+                  }
+                },
+                "premier": {
+                  ")": {
+                    "__default": "Ronin-Chafer (Als Erstes)"
+                  }
+                },
+                "spécial": {
+                  ")": {
+                    "__default": "Ronin-Chafer (Spezial)"
+                  }
+                }
+              }
+            },
+            "__default": "Ronin-Chafer"
+          }
+        }
+      },
       "ronin": {
         " ": {
           "(": {
-            "duo": {
-              ")": {
-                "__default": "Ronin-Chafer (Duo)"
-              }
-            },
-            "nomade": {
-              ")": {
-                "__default": "Ronin-Chafer (Nomade)"
-              }
-            },
-            "premier": {
-              ")": {
-                "__default": "Ronin-Chafer (Als Erstes)"
-              }
-            },
             "compagnon": {
               ")": {
                 "__default": "Ronin-Chafer (Begleiter)"
               }
-            },
-            "spécial": {
-              ")": {
-                "__default": "Ronin-Chafer (Spezial)"
-              }
             }
-          }
-        }
-      },
-      "r": {
-        "ō": {
-          "nin": {
-            "__default": "Ronin-Chafer"
           }
         }
       },
@@ -32652,6 +32650,31 @@
                 "__default": "Diplom „Ur-Raufbold“"
               }
             }
+          },
+          "rempart": {
+            " ": {
+              "d": {
+                "'": {
+                  "amakna": {
+                    "__default": "Diplom „Amaknas Bollwerk“"
+                  }
+                }
+              }
+            }
+          },
+          "producer": {
+            " ": {
+              "wakfu": {
+                " ": {
+                  "s5": {
+                    "__default": "Diplom „Producer Wakfu S5“"
+                  }
+                }
+              }
+            }
+          },
+          "dégivreur": {
+            "__default": "Diplom „Entfroster“"
           }
         }
       },
@@ -33037,6 +33060,9 @@
             "__default": "Hauptquartier der Ritter der Gerechtigkeit"
           }
         }
+      },
+      "abyssale": {
+        "__default": "Tiefseebasis"
       }
     },
     "__default": "Grundwert"
@@ -35321,8 +35347,12 @@
           },
           "rat": {
             " ": {
-              "masseur": {
-                "__default": "Auge der Ratte Bibi"
+              "du": {
+                " ": {
+                  "gang": {
+                    "__default": "Banden-Rattenauge"
+                  }
+                }
               }
             }
           },
@@ -37188,7 +37218,7 @@
         },
         "spécial": {
           ")": {
-            "__default": "Manzaug (Spezial)"
+            "__default": "Maunzaug (Spezial)"
           }
         }
       }
@@ -37409,6 +37439,11 @@
         "duo": {
           ")": {
             "__default": "Zantinea (Duo)"
+          }
+        },
+        "compagnon": {
+          ")": {
+            "__default": "Zantinea (Begleiter)"
           }
         },
         "spécial": {
@@ -43030,6 +43065,13 @@
       },
       "influençable": {
         "__default": "Beeinflussbarer Yokai"
+      },
+      "de": {
+        " ": {
+          "kaminoke": {
+            "__default": "Kaminoke-Yokai"
+          }
+        }
       }
     }
   },
@@ -46175,17 +46217,6 @@
       }
     }
   },
-  "dantinea": {
-    " ": {
-      "(": {
-        "compagnon": {
-          ")": {
-            "__default": "Dantinea (Begleiter)"
-          }
-        }
-      }
-    }
-  },
   "chevaliers": {
     " ": {
       "tourmentés": {
@@ -48305,6 +48336,19 @@
       },
       "insolente": {
         "__default": "Unverschämtes Glück"
+      }
+    },
+    "-": {
+      "bastet": {
+        " ": {
+          "[": {
+            "orukam": {
+              "]": {
+                "__default": "One-Herb [Hell Mina]"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -51599,6 +51643,13 @@
           },
           "gladiatrool": {
             "__default": "Gladiatrool-Schild"
+          },
+          "démon": {
+            " ": {
+              "i": {
+                "__default": "Schild von Dämon I"
+              }
+            }
           }
         }
       },
@@ -52086,9 +52137,6 @@
       "justice": {
         "__default": "Gerechtigkeitsschild"
       },
-      "précieux": {
-        "__default": "Edelsteinschild"
-      },
       "à": {
         " ": {
           "hélice": {
@@ -52358,6 +52406,24 @@
                 " ": {
                   "harebourg": {
                     "__default": "Graf Primzahls vereister Schild"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "karnaval": {
+        "__default": "Karneval-Schild"
+      },
+      "diaprée": {
+        " ": {
+          "du": {
+            " ": {
+              "démon": {
+                " ": {
+                  "i": {
+                    "__default": "Schillernder Schild von Dämon I"
                   }
                 }
               }
@@ -53914,6 +53980,13 @@
           "tofu": {
             "__default": "Tofu-Amulett"
           },
+          "scarabosse": {
+            " ": {
+              "doré": {
+                "__default": "Amulett des Goldenen Scarabiests"
+              }
+            }
+          },
           "piou": {
             " ": {
               "rouge": {
@@ -53926,10 +53999,10 @@
                 "__default": "Amulett des violetten Piepmatzes"
               },
               "jaune": {
-                "__default": "Amulett des grünen Piepmatzes"
+                "__default": "Amulett des gelben Piepmatzes"
               },
               "vert": {
-                "__default": "Amulett des gelben Piepmatzes"
+                "__default": "Amulett des grünen Piepmatzes"
               },
               "rose": {
                 "__default": "Amulett des rosafarbenen Piepmatzes"
@@ -54395,13 +54468,6 @@
       },
       "aerdala": {
         "__default": "Aerdala-Amulett"
-      },
-      "scarabosse": {
-        " ": {
-          "doré": {
-            "__default": "Amulett des goldenen Scarabiestes"
-          }
-        }
       },
       "paysanne": {
         "__default": "Bauernamulett"
@@ -55476,10 +55542,10 @@
                 "__default": "Ring des violetten Piepmatzes"
               },
               "jaune": {
-                "__default": "Ring des grünen Piepmatzes"
+                "__default": "Ring des gelben Piepmatzes"
               },
               "vert": {
-                "__default": "Ring des gelben Piepmatzes"
+                "__default": "Ring des grünen Piepmatzes"
               },
               "rose": {
                 "__default": "Ring des rosafarbenen Piepmatzes"
@@ -58752,10 +58818,10 @@
                 "__default": "Gürtel des violetten Piepmatzes"
               },
               "jaune": {
-                "__default": "Gürtel des grünen Piepmatzes"
+                "__default": "Gürtel des gelben Piepmatzes"
               },
               "vert": {
-                "__default": "Gürtel des gelben Piepmatzes"
+                "__default": "Gürtel des grünen Piepmatzes"
               },
               "rose": {
                 "__default": "Gürtel des rosafarbenen Piepmatzes"
@@ -60885,7 +60951,7 @@
                       "de": {
                         " ": {
                           "visage": {
-                            "__default": "Trank zur Gesichtsumwandlung"
+                            "__default": "Probetrank zur Gesichtsumwandlung"
                           }
                         }
                       }
@@ -61805,10 +61871,10 @@
                 "__default": "Sandalen des violetten Piepmatzes"
               },
               "jaune": {
-                "__default": "Sandalen des grünen Piepmatzes"
+                "__default": "Sandalen des gelben Piepmatzes"
               },
               "vert": {
-                "__default": "Sandalen des gelben Piepmatzes"
+                "__default": "Sandalen des grünen Piepmatzes"
               },
               "rose": {
                 "__default": "Sandalen des rosafarbenen Piepmatzes"
@@ -67175,7 +67241,7 @@
                       "chafer": {
                         " ": {
                           "ronin": {
-                            "__default": "Besonderer Seelenstein des Ronin-Chafers"
+                            "__default": "Besonderer Seelenstein von Ronin-Chafer"
                           }
                         }
                       },
@@ -67378,14 +67444,14 @@
                       "shogun": {
                         " ": {
                           "tofugawa": {
-                            "__default": "Besonderer Seelenstein von Ush Galesh"
+                            "__default": "Besonderer Seelenstein von Shogun Tofugawa"
                           }
                         }
                       },
                       "tengu": {
                         " ": {
                           "givrefoux": {
-                            "__default": "Besonderer Seelenstein von Ush Galesh"
+                            "__default": "Besonderer Seelenstein von Tengu Eisfux"
                           }
                         }
                       },
@@ -67544,14 +67610,14 @@
                       "blop": {
                         " ": {
                           "royal": {
-                            "__default": "Besonderer Seelenstein des Königlichen Kokos Blobs"
+                            "__default": "Besonderer Seelenstein vom Königlichen Blob"
                           }
                         }
                       },
                       "gelée": {
                         " ": {
                           "royale": {
-                            "__default": "Besonderer Seelenstein des Königlichen Zitronengelees"
+                            "__default": "Besonderer Seelenstein vom Königlichen Gelee"
                           }
                         }
                       },
@@ -68477,8 +68543,12 @@
                   }
                 }
               },
-              "pine": {
-                "__default": "Ratte Dieschen - Schwanz"
+              "du": {
+                " ": {
+                  "gang": {
+                    "__default": "Banden-Rattenschwanz"
+                  }
+                }
               }
             }
           },
@@ -70491,10 +70561,10 @@
                 "__default": "Violetter Piepmatz-Hut"
               },
               "jaune": {
-                "__default": "Hut des grünen Piepmatzes"
+                "__default": "Hut des gelben Piepmatzes"
               },
               "vert": {
-                "__default": "Hut des gelben Piepmatzes"
+                "__default": "Hut des grünen Piepmatzes"
               },
               "rose": {
                 "__default": "Hut des rosafarbenen Piepmatzes"
@@ -70732,6 +70802,9 @@
             }
           }
         }
+      },
+      "pararayon": {
+        "__default": "Strahlenschirm-Hut"
       },
       "incandescent": {
         "__default": "Glühender Zylinder"
@@ -71214,7 +71287,7 @@
                 "__default": "Umhang des blauen Piepmatzes"
               },
               "jaune": {
-                "__default": "Umhang des grünen Piepmatzes"
+                "__default": "Umhang des gelben Piepmatzes"
               },
               "violet": {
                 "__default": "Umhang des violetten Piepmatzes"
@@ -71223,7 +71296,7 @@
                 "__default": "Umhang des rosafarbenen Piepmatzes"
               },
               "vert": {
-                "__default": "Umhang des gelben Piepmatzes"
+                "__default": "Umhang des grünen Piepmatzes"
               }
             }
           },
@@ -71557,6 +71630,24 @@
                     "__default": "Umhang des Großen Wikkan-Weisen"
                   }
                 }
+              }
+            }
+          },
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Umhang des Himmelsritters"
+                  }
+                }
+              }
+            }
+          },
+          "démon": {
+            " ": {
+              "i": {
+                "__default": "Umhang von Dämon I"
               }
             }
           }
@@ -72724,6 +72815,21 @@
       },
       "ophidienne": {
         "__default": "Schlangenumhang"
+      },
+      "diaprée": {
+        " ": {
+          "du": {
+            " ": {
+              "démon": {
+                " ": {
+                  "i": {
+                    "__default": "Schillernder Umhang von Dämon I"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -78016,6 +78122,17 @@
           "harpirate": {
             "__default": "Phantomharpirats Wurfspeer"
           },
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Wurfspeer des Himmelsritters"
+                  }
+                }
+              }
+            }
+          },
           "lac": {
             "__default": "Wurfspeer des Sees"
           }
@@ -79291,6 +79408,13 @@
       },
       "centenaire": {
         "__default": "Hundertjährige Kette"
+      },
+      "à": {
+        " ": {
+          "pans": {
+            "__default": "Verkettung"
+          }
+        }
       }
     }
   },
@@ -83075,7 +83199,8 @@
           "bois": {
             "__default": "Hölzernes Pandawushu-Artefakt"
           }
-        }
+        },
+        "__default": "Pandawushu-Artefakt"
       },
       "de": {
         " ": {
@@ -89268,7 +89393,8 @@
               "méphitique": {
                 "__default": "Übelriechender Fischsud"
               }
-            }
+            },
+            "__default": "Fischsud"
           },
           "vieux": {
             " ": {
@@ -93048,6 +93174,13 @@
       },
       "garde": {
         "__default": "Mächtige Wache"
+      },
+      "panoplie": {
+        " ": {
+          "fulgurante": {
+            "__default": "Mächtiges Rasantes Set"
+          }
+        }
       }
     }
   },
@@ -93218,6 +93351,17 @@
           },
           "trappeur": {
             "__default": "Fallensteller-Kopfbedeckung"
+          },
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Kopfbedeckung des Himmelsritters"
+                  }
+                }
+              }
+            }
           }
         }
       },
@@ -93633,6 +93777,9 @@
       },
       "aiguisée": {
         "__default": "Geschärfte Haube"
+      },
+      "dauge": {
+        "__default": "Dotsch-Kopfbedeckung"
       }
     }
   },
@@ -105319,6 +105466,13 @@
           },
           "confiseur": {
             "__default": "Schal des Zuckerbäckers"
+          },
+          "démon": {
+            " ": {
+              "i": {
+                "__default": "Schal von Dämon I"
+              }
+            }
           }
         }
       },
@@ -105330,6 +105484,21 @@
                 " ": {
                   "cadeaux": {
                     "__default": "Schal des Geschenkverpackers"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "diaprée": {
+        " ": {
+          "du": {
+            " ": {
+              "démon": {
+                " ": {
+                  "i": {
+                    "__default": "Schillernder Schal von Dämon I"
                   }
                 }
               }
@@ -105394,6 +105563,9 @@
             }
           }
         }
+      },
+      "feu": {
+        "__default": "Ausgangssperre"
       }
     }
   },
@@ -108423,6 +108595,13 @@
                 "__default": "Hörner des Schwarzen Drachen"
               }
             }
+          },
+          "démon": {
+            " ": {
+              "i": {
+                "__default": "Hörner von Dämon I"
+              }
+            }
           }
         }
       },
@@ -108454,6 +108633,21 @@
             "'": {
               "hécate": {
                 "__default": "Tückisches Horn der Hécate"
+              }
+            }
+          }
+        }
+      },
+      "diaprées": {
+        " ": {
+          "du": {
+            " ": {
+              "démon": {
+                " ": {
+                  "i": {
+                    "__default": "Schillernde Hörner von Dämon I"
+                  }
+                }
               }
             }
           }
@@ -110748,6 +110942,9 @@
           },
           "furye": {
             "__default": "Furyes Seele"
+          },
+          "crocoburio": {
+            "__default": "Crocoburio-Seele"
           }
         }
       },
@@ -111153,14 +111350,14 @@
               "blop": {
                 " ": {
                   "royal": {
-                    "__default": "Zornige Seele des Königlichen Kokos Blobs"
+                    "__default": "Zornige Seele des Königlichen Blobs"
                   }
                 }
               },
               "gelée": {
                 " ": {
                   "royale": {
-                    "__default": "Zornige Seele des Königlichen Zitronengelees"
+                    "__default": "Zornige Seele des Königlichen Gelees"
                   }
                 }
               },
@@ -112868,6 +113065,13 @@
               },
               "royalmouth": {
                 "__default": "Geistreiche Gemme des Königlichen Fressmuts"
+              },
+              "mansot": {
+                " ": {
+                  "royal": {
+                    "__default": "Geistreiche Gemme des King Ping"
+                  }
+                }
               }
             }
           }
@@ -116260,6 +116464,9 @@
       },
       "repas": {
         "__default": "Picknickkorb"
+      },
+      "pararayon": {
+        "__default": "Strahlenschirm-Korb"
       }
     }
   },
@@ -128526,7 +128733,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Relikt"
   },
   "khronobourg": {
     "__default": "Chronobacher"
@@ -129218,14 +129426,10 @@
   },
   "pilule": {
     " ": {
-      "de": {
+      "du": {
         " ": {
-          "rat": {
-            " ": {
-              "pine": {
-                "__default": "Pille der Ratte Dieschen"
-              }
-            }
+          "gang": {
+            "__default": "Banden-Pille"
           }
         }
       }
@@ -134686,6 +134890,9 @@
       },
       "ophidien": {
         "__default": "Schlangenkostüm"
+      },
+      "obvijevan": {
+        "__default": "Lebending-Kostüm"
       }
     }
   },
@@ -134917,6 +135124,9 @@
         "__default": "Siegreiche Gilde"
       }
     }
+  },
+  "bouclistik": {
+    "__default": "Schildistik"
   },
   "roncier": {
     "__default": "Stachelschild"
@@ -135839,6 +136049,17 @@
                 "__default": "Schutzschild des Hirschgottes"
               }
             }
+          },
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Ägide des Himmelsritters"
+                  }
+                }
+              }
+            }
           }
         }
       },
@@ -136740,6 +136961,9 @@
           "blindur": {
             "__default": "Hartpanzer-Rüstung"
           },
+          "savara": {
+            "__default": "Savara-Rüstung"
+          },
           "sel": {
             " ": {
               "du": {
@@ -136757,6 +136981,20 @@
         " ": {
           "gladiatrool": {
             "__default": "Gladiatrool-Rüstung"
+          },
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Rüstung des Himmelsritters"
+                  }
+                }
+              }
+            }
+          },
+          "champion": {
+            "__default": "Rüstung des Champions"
           }
         }
       },
@@ -138259,6 +138497,49 @@
       "confettis": {
         "__default": "Konfetti-Aura"
       },
+      "de": {
+        " ": {
+          "l": {
+            "'": {
+              "eliacube": {
+                "__default": "Eliakubus-Aura"
+              }
+            }
+          },
+          "la": {
+            " ": {
+              "ninja": {
+                "__default": "Ninja-Aura"
+              }
+            }
+          }
+        }
+      },
+      "temporelle": {
+        "__default": "Temporäre Aura"
+      },
+      "du": {
+        " ": {
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Aura des Himmelsritters"
+                  }
+                }
+              }
+            }
+          },
+          "destrier": {
+            " ": {
+              "purulent": {
+                "__default": "Aura des eitrigen Schlachtrosses"
+              }
+            }
+          }
+        }
+      },
       "bombe": {
         "__default": "Bombastische Aura",
         " ": {
@@ -138272,28 +138553,6 @@
       },
       "démoniaque": {
         "__default": "Dämonen-Aura"
-      },
-      "du": {
-        " ": {
-          "destrier": {
-            " ": {
-              "purulent": {
-                "__default": "Aura des eitrigen Schlachtrosses"
-              }
-            }
-          }
-        }
-      },
-      "de": {
-        " ": {
-          "la": {
-            " ": {
-              "ninja": {
-                "__default": "Ninja-Aura"
-              }
-            }
-          }
-        }
       },
       "des": {
         " ": {
@@ -140811,6 +141070,13 @@
               "assassin": {
                 "__default": "Schulterplatten des Assassinen"
               },
+              "ombre": {
+                " ": {
+                  "maudite": {
+                    "__default": "Schulterplatten des Verfluchten Schattens"
+                  }
+                }
+              },
               "eliacube": {
                 "__default": "Eliakubus-Schulterplatten"
               }
@@ -140885,7 +141151,8 @@
               "ignée": {
                 "__default": "Stattliche feurige Schulterplatten"
               }
-            }
+            },
+            "__default": "Stattliche Schulterplatten"
           },
           "résident": {
             " ": {
@@ -140897,6 +141164,9 @@
                 }
               }
             }
+          },
+          "savara": {
+            "__default": "Savara-Schulterplatten"
           }
         }
       },
@@ -141051,6 +141321,20 @@
           },
           "shogun": {
             "__default": "Schulterplatten des Shoguns"
+          },
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Schulterplatten des Himmelsritters"
+                  }
+                }
+              }
+            }
+          },
+          "champion": {
+            "__default": "Schulterplatten des Champions"
           }
         }
       },
@@ -141162,6 +141446,9 @@
       },
       "ostéomanciennes": {
         "__default": "Umhang der Knochenbeschwörerinnen"
+      },
+      "obvijevan": {
+        "__default": "Lebending-Schulterplatten"
       }
     }
   },
@@ -144354,6 +144641,9 @@
       },
       "kamilou": {
         "__default": "Kimono Kamiwolf"
+      },
+      "pararayon": {
+        "__default": "Strahlenschirm-Kimono"
       }
     }
   },
@@ -146178,7 +146468,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Stolz"
   },
   "ratagnan": {
     "__default": "Rattagnan"
@@ -146496,7 +146787,11 @@
                 }
               }
             }
-          },
+          }
+        }
+      },
+      "du": {
+        " ": {
           "xélorium": {
             "__default": "Xélorium-Ankertinte",
             " ": {
@@ -151179,6 +151474,17 @@
               }
             }
           },
+          "chevalier": {
+            " ": {
+              "du": {
+                " ": {
+                  "ciel": {
+                    "__default": "Set des Himmelsritters"
+                  }
+                }
+              }
+            }
+          },
           "bouftou": {
             "__default": "Fresssack-Set",
             " ": {
@@ -151292,6 +151598,13 @@
           "tofu": {
             "__default": "Tofu-Set"
           },
+          "scarabosse": {
+            " ": {
+              "doré": {
+                "__default": "Ausrüstungsset des Goldenen Scarabiests"
+              }
+            }
+          },
           "minotoror": {
             "__default": "Minotoror-Set"
           },
@@ -151336,10 +151649,10 @@
                 "__default": "Rosa Piepmatz-Set"
               },
               "jaune": {
-                "__default": "Grünes Piepmatz-Set"
+                "__default": "Ausrüstungsset des gelben Piepmatzes"
               },
               "vert": {
-                "__default": "Gelbes Piepmatz-Set"
+                "__default": "Ausrüstungsset des grünen Piepmatzes"
               }
             }
           },
@@ -151729,9 +152042,6 @@
               "curieux": {
                 "__default": "Set des neugierigen Frigostianers"
               },
-              "sceptique": {
-                "__default": "Ausrüstungsset des skeptischen Frigostianers"
-              },
               "douteux": {
                 "__default": "Ausrüstungsset des zweifelhaften Frigostianers"
               },
@@ -151745,6 +152055,12 @@
           },
           "grolandais": {
             "__default": "Black Roggs Ausrüstungsset"
+          },
+          "bonimenteur": {
+            "__default": "Ausrüstungsset des Marktschreiers"
+          },
+          "poolay": {
+            "__default": "Heenchen-Set"
           }
         }
       },
@@ -152019,7 +152335,11 @@
             "__default": "Danathor-Set"
           },
           "léthaline": {
-            "__default": "Lethalina-Set"
+            " ": {
+              "sigisbul": {
+                "__default": "Ausrüstungsset von Lethalina Sigisbull"
+              }
+            }
           },
           "nevark": {
             "__default": "Newark-Set"
@@ -152032,7 +152352,11 @@
             }
           },
           "padgref": {
-            "__default": "Set des Knöchernen Marks"
+            " ": {
+              "demoël": {
+                "__default": "Ausrüstungsset vom Knöchernen Mark von Kainsdaff Ürmisch"
+              }
+            }
           },
           "klime": {
             "__default": "Set von R.Klimm"
@@ -152108,7 +152432,11 @@
             "__default": "Kongoku-Set"
           },
           "ush": {
-            "__default": "Ush-Set"
+            " ": {
+              "galesh": {
+                "__default": "Ausrüstungsset von Ush Galesh"
+              }
+            }
           },
           "meno": {
             "__default": "Meno-Set"
@@ -152172,7 +152500,11 @@
             }
           },
           "barbéryl": {
-            "__default": "Barberyl-Set"
+            " ": {
+              "clochecuivre": {
+                "__default": "Ausrüstungsset von Barberyl Glockenleder"
+              }
+            }
           },
           "khan": {
             " ": {
@@ -152355,6 +152687,13 @@
                     " ": {
                       "aérien": {
                         "__default": "Prunkset des Geflügelten Ritters"
+                      },
+                      "du": {
+                        " ": {
+                          "ciel": {
+                            "__default": "Prunkset des Himmelsritters"
+                          }
+                        }
                       }
                     }
                   },
@@ -152680,6 +153019,13 @@
                         }
                       }
                     }
+                  },
+                  "démon": {
+                    " ": {
+                      "i": {
+                        "__default": "Prunkset von Dämon I"
+                      }
+                    }
                   }
                 }
               },
@@ -152932,8 +153278,8 @@
                   "pandalida": {
                     "__default": "Pandalida-Prunkset"
                   },
-                  "bellabone": {
-                    "__default": "Bellabone-Prunkset"
+                  "belladone": {
+                    "__default": "Belladonna-Prunkset"
                   },
                   "nox": {
                     "__default": "Nox-Prunkset"
@@ -153095,6 +153441,9 @@
                   },
                   "givre": {
                     "__default": "Raureif-Prunkset"
+                  },
+                  "savara": {
+                    "__default": "Savara-Prunkset"
                   }
                 }
               },
@@ -153796,6 +154145,24 @@
               },
               "ophidienne": {
                 "__default": "Schlangen-Prunkset"
+              },
+              "diaprée": {
+                " ": {
+                  "du": {
+                    " ": {
+                      "démon": {
+                        " ": {
+                          "i": {
+                            "__default": "Schillerndes Prunkset von Dämon I"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "pararayon": {
+                "__default": "Strahlenschirm-Prunkset"
               }
             }
           },
@@ -153821,7 +154188,11 @@
             "__default": "Allister-Set"
           },
           "ogivol": {
-            "__default": "Ogivol-Set"
+            " ": {
+              "scalarcin": {
+                "__default": "Ausrüstungsset von Ogivol Scalarcin"
+              }
+            }
           },
           "henual": {
             "__default": "Henual-Set"
@@ -153894,13 +154265,6 @@
       },
       "dindo": {
         "__default": "Truter-Set"
-      },
-      "scarabosse": {
-        " ": {
-          "doré": {
-            "__default": "Goldenes Scarabiest-Set"
-          }
-        }
       },
       "en": {
         " ": {
@@ -154125,6 +154489,16 @@
           },
           "spiritueurs": {
             "__default": "Geistreichen-Set"
+          },
+          "pins": {
+            " ": {
+              "perdus": {
+                "__default": "Set der verlorenen Kiefern"
+              }
+            }
+          },
+          "herboricoles": {
+            "__default": "Kräuterbastler-Set"
           }
         }
       },
@@ -154394,6 +154768,9 @@
       "noyée": {
         "__default": "Set des Ertrunkenen"
       },
+      "superstitieuse": {
+        "__default": "Abergläubisches Ausrüstungsset"
+      },
       "abrégée": {
         "__default": "Gekürztes Ausrüstungsset"
       },
@@ -154407,6 +154784,21 @@
             }
           }
         }
+      },
+      "fulgurante": {
+        "__default": "Rasantes Set"
+      },
+      "autochtone": {
+        "__default": "Einheimisches Set"
+      },
+      "ouginakale": {
+        "__default": "Ouginak-Set"
+      },
+      "bitoufale": {
+        "__default": "Bitouf-Set"
+      },
+      "yéyé": {
+        "__default": "Yéyé-Set"
       }
     }
   },
@@ -155102,9 +155494,6 @@
       },
       "démoniaque": {
         "__default": "Dämonenportal"
-      },
-      "flexible": {
-        "__default": "Flexibles Portal"
       }
     },
     "__default": "Portal"
@@ -155126,6 +155515,73 @@
   },
   "chtigromouth": {
     "__default": "Tiguamut"
+  },
+  "karnavailes": {
+    "__default": "Karneval-Flügel"
+  },
+  "eliacube": {
+    "__default": "Eliakubus"
+  },
+  "poan": {
+    "__default": "Pafu"
+  },
+  "flâme": {
+    "__default": "Seelenflamme"
+  },
+  "pégalope": {
+    "__default": "Pegalopp"
+  },
+  "coulante": {
+    " ": {
+      "sufokienne": {
+        "__default": "Sufokia-Dünnpfiff"
+      }
+    }
+  },
+  "tribu": {
+    " ": {
+      "tofoune": {
+        "__default": "Tofoone-Sippe"
+      }
+    }
+  },
+  "kharnoclier": {
+    "__default": "Kharnoschild"
+  },
+  "bouclinyée": {
+    "__default": "Arachschild"
+  },
+  "tictokoiffe": {
+    "__default": "Tiktokopfbedeckung"
+  },
+  "éklâme": {
+    " ": {
+      "inférieure": {
+        "__default": "Niedere Glanzseele"
+      },
+      "ordinaire": {
+        "__default": "Gewöhnliche Glanzseele"
+      },
+      "supérieure": {
+        "__default": "Überragende Glanzseele"
+      },
+      "majestueuse": {
+        "__default": "Erhabene Glanzseele"
+      },
+      "suprême": {
+        "__default": "Höchste Glanzseele"
+      }
+    }
+  },
+  "bébérubim": {
+    "__default": "Kerubaby"
+  },
+  "compensation": {
+    " ": {
+      "exceptionnelle": {
+        "__default": "Außergewöhnliche Belohnung"
+      }
+    }
   },
   "bûcheron": {
     "__default": "Holzfäller",
@@ -155207,7 +155663,7 @@
             }
           },
           "agressif": {
-            "__default": "Schattenbergmann"
+            "__default": "Aggressiver Schattenbergmann"
           }
         }
       },
@@ -157120,7 +157576,12 @@
     }
   },
   "serpiplume": {
-    "__default": "Federboah"
+    "__default": "Federboah",
+    " ": {
+      "pandalien": {
+        "__default": "Pandalianische Federboah"
+      }
+    }
   },
   "déminoboule": {
     "__default": "Minoknasto"
@@ -164888,6 +165349,16 @@
                 "__default": "Bonta Kommandomitglied"
               }
             }
+          },
+          "la": {
+            " ": {
+              "maoufia": {
+                "__default": "Mitglied der Maufia"
+              },
+              "waoufia": {
+                "__default": "Mitglied der Waufia"
+              }
+            }
           }
         }
       },
@@ -165939,6 +166410,9 @@
         " ": {
           "nékinéko": {
             "__default": "Anhänger Nekinekos"
+          },
+          "harebourg": {
+            "__default": "Graf Primzahls Anhänger"
           }
         }
       }
@@ -173186,7 +173660,7 @@
   "morrie": {
     " ": {
       "gane": {
-        "__default": "Morry Gähn"
+        "__default": "Morrie Gen"
       }
     }
   },
@@ -176332,6 +176806,9 @@
             }
           }
         }
+      },
+      "gobeline": {
+        "__default": "Goblin-Angestellte"
       }
     }
   },
@@ -181352,6 +181829,134 @@
       }
     }
   },
+  "nightmare": {
+    "-": {
+      "luffy": {
+        " ": {
+          "[": {
+            "orukam": {
+              "]": {
+                "__default": "Clarky [Hell Mina]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "sacrizoma": {
+    " ": {
+      "[": {
+        "hell": {
+          " ": {
+            "mina": {
+              "]": {
+                "__default": "Shark-Mina [Hell Mina]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "adadedza": {
+    " ": {
+      "[": {
+        "hell": {
+          " ": {
+            "mina": {
+              "]": {
+                "__default": "Caldienat [Draconiros]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "yevsektsia": {
+    " ": {
+      "[": {
+        "hell": {
+          " ": {
+            "mina": {
+              "]": {
+                "__default": "Napapijri-Paris [Hell Mina]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vohnbarkel": {
+    " ": {
+      "[": {
+        "hell": {
+          " ": {
+            "mina": {
+              "]": {
+                "__default": "Pecco [Imagiro]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "hossain": {
+    "-": {
+      "asce": {
+        " ": {
+          "[": {
+            "hell": {
+              " ": {
+                "mina": {
+                  "]": {
+                    "__default": "Oiseau-Ivoire [Hell Mina]"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "gege": {
+    "-": {
+      "la": {
+        "-": {
+          "raclette": {
+            " ": {
+              "[": {
+                "orukam": {
+                  "]": {
+                    "__default": "One-Herb [Hell Mina]"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "humanite": {
+    " ": {
+      "[": {
+        "hell": {
+          " ": {
+            "mina": {
+              "]": {
+                "__default": "Dolce-Paris [Hell Mina]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "livine": {
     " ": {
       "staune": {
@@ -181616,6 +182221,13 @@
     " ": {
       "pouque": {
         "__default": "Renzi Garrensche"
+      }
+    }
+  },
+  "gilles": {
+    " ": {
+      "hett": {
+        "__default": "Jill Hett"
       }
     }
   },
@@ -188880,6 +189492,13 @@
   "amphithéâtre": {
     "__default": "Amphitheater"
   },
+  "fouilles": {
+    " ": {
+      "sufokiennes": {
+        "__default": "Sufokianische Ausgrabungen"
+      }
+    }
+  },
   "souterrain": {
     " ": {
       "d": {
@@ -189041,6 +189660,9 @@
   },
   "abranoplie": {
     "__default": "Astaknyset"
+  },
+  "panododo": {
+    "__default": "Dodo-Set"
   },
   "béco": {
     " ": {
@@ -197612,9 +198234,6 @@
       "aqueuse": {
         "__default": "Wässrige Handfläche"
       },
-      "curative": {
-        "__default": "Heilende Hand"
-      },
       "du": {
         " ": {
           "levant": {
@@ -201285,7 +201904,8 @@
           }
         }
       }
-    }
+    },
+    "__default": "Phiolie"
   },
   "débordement": {
     " ": {
@@ -201939,14 +202559,6 @@
     " ": {
       "dimensionnel": {
         "__default": "Dimensionales Durcheinander"
-      }
-    }
-  },
-  "transcendance": {
-    "__default": "Transzendenz",
-    " ": {
-      "spirituelle": {
-        "__default": "Spirituelle Transzendenz"
       }
     }
   },
@@ -202998,6 +203610,14 @@
         }
       }
     }
+  },
+  "transcendance": {
+    " ": {
+      "spirituelle": {
+        "__default": "Spirituelle Transzendenz"
+      }
+    },
+    "__default": "Transzendenz"
   },
   "tabassage": {
     "__default": "Verprügeln"
@@ -205883,7 +206503,8 @@
       "vampyrique": {
         "__default": "Vampir-Widerstand"
       }
-    }
+    },
+    "__default": "Widerstandsfähigkeit"
   },
   "vampyrisme": {
     "__default": "Vampirismus"
@@ -212066,6 +212687,9 @@
   },
   "camouflet": {
     "__default": "Schmach"
+  },
+  "sillage": {
+    "__default": "Nachbeben"
   },
   "raillerie": {
     "__default": "Gespött"
@@ -219823,34 +220447,14 @@
               "1": {
                 ":": {
                   ":": {
-                    "<": {
-                      "color": {
-                        "=": {
-                          "#": {
-                            "ebc304": {
-                              ">": {
-                                "pelle": {
-                                  " ": {
-                                    "de": {
-                                      " ": {
-                                        "fortune": {
-                                          "<": {
-                                            "/": {
-                                              "color": {
-                                                ">": {
-                                                  "}": {
-                                                    "}": {
-                                                      "__default": "{{spell,28584,1::<color=#ebc304>Glücksschaufel</color>}}"
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
+                    "pelle": {
+                      " ": {
+                        "de": {
+                          " ": {
+                            "fortune": {
+                              "}": {
+                                "}": {
+                                  "__default": "{{spell,28584,1::Glücksschaufel}}"
                                 }
                               }
                             }
@@ -221572,6 +222176,9 @@
   "infamine": {
     "__default": "Unhunger"
   },
+  "cirrus": {
+    "__default": "Federwolke"
+  },
   "cumulo": {
     "__default": "Kumulo"
   },
@@ -222169,9 +222776,6 @@
   "fracarquois": {
     "__default": "Ansteckender Pfeil"
   },
-  "phallange": {
-    "__default": "Phalanx"
-  },
   "porkestre": {
     "__default": "Wuzzester"
   },
@@ -222179,17 +222783,6 @@
     "-": {
       "tique": {
         "__default": "Schweinezecke"
-      }
-    }
-  },
-  "chaïne": {
-    " ": {
-      "à": {
-        " ": {
-          "pans": {
-            "__default": "Verkettung"
-          }
-        }
       }
     }
   },
@@ -222309,9 +222902,6 @@
   },
   "ambidextrie": {
     "__default": "Beidhändigkeit"
-  },
-  "sanzapui": {
-    "__default": "Lehnenlos"
   },
   "gloriole": {
     "__default": "Geltungsdrang"
@@ -224819,6 +225409,33 @@
     " ": {
       "céleste": {
         "__default": "Himmlischer Überhauch"
+      }
+    }
+  },
+  "pincettes": {
+    "__default": "Pinzette"
+  },
+  "belote": {
+    " ": {
+      "de": {
+        " ": {
+          "valet": {
+            "__default": "Buben-Belote"
+          },
+          "dame": {
+            "__default": "Damen-Belote"
+          },
+          "roi": {
+            "__default": "König-Belote"
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "as": {
+            "__default": "Ass-Belote"
+          }
+        }
       }
     }
   },
