@@ -31,5 +31,10 @@
       "js": ["content.js"],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "dofus-translate@isthos.com"
+    }
+  }
 }
