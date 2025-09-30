@@ -1449,6 +1449,13 @@
             "__default": "Realm of the Gods"
           }
         }
+      },
+      "de": {
+        " ": {
+          "draconiros": {
+            "__default": "Draconiros's Domain"
+          }
+        }
       }
     }
   },
@@ -2968,6 +2975,9 @@
                 "__default": "Hickory Tree"
               }
             }
+          },
+          "ifanss": {
+            "__default": "Pukka Bow"
           }
         }
       },
@@ -5165,6 +5175,36 @@
           }
         }
       },
+      "en": {
+        " ": {
+          "rêve": {
+            " ": {
+              "encore": {
+                "__default": "Recurring Dream"
+              }
+            }
+          },
+          "ai": {
+            " ": {
+              "fait": {
+                " ": {
+                  "un": {
+                    " ": {
+                      "pin": {
+                        "'": {
+                          "s": {
+                            "__default": "Nail 'Em Down"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
       "aurais": {
         " ": {
           "voulu": {
@@ -5202,29 +5242,6 @@
                       " ": {
                         "reste": {
                           "__default": "Here to Stay"
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "ai": {
-            " ": {
-              "fait": {
-                " ": {
-                  "un": {
-                    " ": {
-                      "pin": {
-                        "'": {
-                          "s": {
-                            "__default": "Nail 'Em Down"
-                          }
                         }
                       }
                     }
@@ -11376,6 +11393,9 @@
           }
         }
       },
+      "duvailes": {
+        "__default": "Dominairmees"
+      },
       "paztek": {
         " ": {
           ":": {
@@ -13558,9 +13578,6 @@
               }
             }
           },
-          "gobus": {
-            "__default": "Gobshell Wood"
-          },
           "chauffage": {
             "__default": "Firewood"
           },
@@ -13627,9 +13644,6 @@
       },
       "ancestral": {
         "__default": "Ancestral Wood"
-      },
-      "envoûté": {
-        "__default": "Bewitched Wood"
       },
       "élastique": {
         "__default": "Flexible Wood"
@@ -16171,6 +16185,13 @@
       "blanclier": {
         "__default": "Blanckler"
       },
+      "potage": {
+        " ": {
+          "interdit": {
+            "__default": "Forbidden Stew"
+          }
+        }
+      },
       "ouassingue": {
         "__default": "Ouassingue",
         " ": {
@@ -18068,6 +18089,15 @@
               }
             }
           },
+          "bouftou": {
+            ".": {
+              ".": {
+                ".": {
+                  "__default": "One Little Gobball..."
+                }
+              }
+            }
+          },
           "oubli": {
             "__default": "A Small Oversight"
           }
@@ -18366,6 +18396,13 @@
         " ": {
           "hétéroclite": {
             "__default": "Motley Clan"
+          }
+        }
+      },
+      "sommeil": {
+        " ": {
+          "troublé": {
+            "__default": "Disturbed Sleep"
           }
         }
       },
@@ -20498,6 +20535,20 @@
                     "__default": "Captain Ebrous's Chest"
                   }
                 }
+              },
+              "naissance": {
+                " ": {
+                  "gargandyesque": {
+                    "__default": "Gargandyuan Birthing Chest"
+                  }
+                }
+              },
+              "chasse": {
+                " ": {
+                  "gargandyesque": {
+                    "__default": "Gargandyuan Hunting Chest"
+                  }
+                }
               }
             }
           },
@@ -20873,6 +20924,13 @@
           },
           "xélorium": {
             "__default": "Xelorium Chest"
+          },
+          "repos": {
+            " ": {
+              "gargandyesque": {
+                "__default": "Gargandyuan Resting Chest"
+              }
+            }
           }
         }
       },
@@ -27079,6 +27137,9 @@
           },
           "barbéryl": {
             "__default": "Berylbell's Guard"
+          },
+          "prison": {
+            "__default": "Prison Guard"
           }
         }
       },
@@ -27815,14 +27876,6 @@
     " ": {
       "de": {
         " ": {
-          "dragon": {
-            " ": {
-              "cochon": {
-                "__default": "Dragon Pig Blood"
-              }
-            },
-            "__default": "Dragon Blood"
-          },
           "vampire": {
             "__default": "Vampire Blood"
           },
@@ -27911,6 +27964,9 @@
           },
           "harpo": {
             "__default": "Harpo Blood"
+          },
+          "dragon": {
+            "__default": "Dragon Blood"
           },
           "trooll": {
             "__default": "Trool's Blood"
@@ -28023,12 +28079,26 @@
       "coagulé": {
         "__default": "Coagulated Blood"
       },
+      "brûlant": {
+        "__default": "Burning Blood"
+      },
       "ardent": {
         " ": {
           "du": {
             " ": {
               "dévoreur": {
                 "__default": "The Devourer's Fiery Blood"
+              }
+            }
+          }
+        }
+      },
+      "vicié": {
+        " ": {
+          "du": {
+            " ": {
+              "toxoliath": {
+                "__default": "Tainted Toxoliath Blood"
               }
             }
           }
@@ -31035,6 +31105,21 @@
                     }
                   }
                 }
+              },
+              "bleu": {
+                " ": {
+                  "du": {
+                    " ": {
+                      "roi": {
+                        " ": {
+                          "nidas": {
+                            "__default": "King Nidas's Blue Nose Hair"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           },
@@ -31059,11 +31144,22 @@
           }
         }
       },
+      "du": {
+        " ": {
+          "wa": {
+            " ": {
+              "wabbit": {
+                "__default": "Wa Wabbit Hair"
+              }
+            }
+          },
+          "chienchien": {
+            "__default": "Hair of the Bow Wow"
+          }
+        }
+      },
       "d": {
         "'": {
-          "ouginak": {
-            "__default": "Ouginak Hair"
-          },
           "aisselle": {
             " ": {
               "de": {
@@ -31081,20 +31177,6 @@
           },
           "abrakne": {
             "__default": "Treechnee Hair"
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "wa": {
-            " ": {
-              "wabbit": {
-                "__default": "Wa Wabbit Hair"
-              }
-            }
-          },
-          "chienchien": {
-            "__default": "Hair of the Bow Wow"
           }
         }
       },
@@ -31628,6 +31710,13 @@
                 "__default": "Picky Pricky"
               }
             }
+          }
+        }
+      },
+      "ronfle": {
+        " ": {
+          "fort": {
+            "__default": "Snore Score"
           }
         }
       }
@@ -32528,6 +32617,9 @@
                 }
               }
             }
+          },
+          "feur": {
+            "__default": "Woteva Certificate"
           }
         }
       },
@@ -32661,6 +32753,9 @@
           },
           "empereur": {
             "__default": "Emperor Certificate"
+          },
+          "ankaffilié": {
+            "__default": "Ankaffiliate Certificate"
           }
         }
       },
@@ -32765,6 +32860,28 @@
           },
           "retardataire": {
             "__default": "Straggler Certificate"
+          },
+          "songeur": {
+            " ": {
+              "d": {
+                "'": {
+                  "antan": {
+                    "__default": "Yesteryear Dreamer Certificate"
+                  }
+                }
+              },
+              "de": {
+                " ": {
+                  "la": {
+                    " ": {
+                      "fontaine": {
+                        "__default": "Fountain Dreamer Certificate"
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       },
@@ -35092,9 +35209,6 @@
               }
             }
           },
-          "boufton": {
-            "__default": "Gobbly Eye"
-          },
           "craquelope": {
             "__default": "Cracklope Eye"
           },
@@ -35167,21 +35281,6 @@
           "krokille": {
             "__default": "Sauroshell Eye"
           },
-          "la": {
-            " ": {
-              "gardienne": {
-                " ": {
-                  "des": {
-                    " ": {
-                      "égouts": {
-                        "__default": "Sewer Keeper Eye"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
           "harrogant": {
             "__default": "Harrogant Eye"
           },
@@ -35203,9 +35302,6 @@
           },
           "harpo": {
             "__default": "Harpo Eye"
-          },
-          "mandrine": {
-            "__default": "Manderisha Eye"
           },
           "truchtine": {
             "__default": "Patrich Eye"
@@ -35329,9 +35425,6 @@
           "arakmuté": {
             "__default": "Arachmutated Eye"
           },
-          "ougah": {
-            "__default": "Ougaa Eye"
-          },
           "abrakne": {
             "__default": "Treechnee Eye"
           },
@@ -35343,11 +35436,19 @@
           }
         }
       },
+      "torve": {
+        " ": {
+          "de": {
+            " ": {
+              "fricochère": {
+                "__default": "Frighog Baleful Eye"
+              }
+            }
+          }
+        }
+      },
       "du": {
         " ": {
-          "meulou": {
-            "__default": "Moowolf Eye"
-          },
           "phozami": {
             " ": {
               "agressif": {
@@ -35376,17 +35477,6 @@
           },
           "corbac": {
             "__default": "Crobak's Eye"
-          }
-        }
-      },
-      "torve": {
-        " ": {
-          "de": {
-            " ": {
-              "fricochère": {
-                "__default": "Frighog Baleful Eye"
-              }
-            }
           }
         }
       },
@@ -36664,6 +36754,9 @@
         " ": {
           "jour": {
             "__default": "Extraordernarily"
+          },
+          "tonnerre": {
+            "__default": "Order of Thunder"
           }
         }
       },
@@ -39210,6 +39303,9 @@
       "feutrés": {
         "__default": "Silken Footsteps"
       },
+      "trouille": {
+        "__default": "Claw Patrol"
+      },
       "vu": {
         " ": {
           "pas": {
@@ -40887,6 +40983,9 @@
       },
       "de": {
         " ": {
+          "thanatena": {
+            "__default": "Thanatena's Judgement"
+          },
           "gros": {
             " ": {
               "med": {
@@ -40938,6 +41037,21 @@
           },
           "réminiscence": {
             "__default": "Eliocalypse: Reminiscence"
+          }
+        }
+      }
+    },
+    ".": {
+      ".": {
+        ".": {
+          " ": {
+            "une": {
+              " ": {
+                "rêvélation": {
+                  "__default": "Eliocalypse... A Dreamvelation"
+                }
+              }
+            }
           }
         }
       }
@@ -42625,7 +42739,6 @@
             "__default": "Mist Army"
           },
           "tiques": {
-            "__default": "Army of Ticks",
             " ": {
               "de": {
                 " ": {
@@ -43435,6 +43548,19 @@
           }
         }
       },
+      "petits": {
+        " ": {
+          "bouftous": {
+            ".": {
+              ".": {
+                ".": {
+                  "__default": "Two Little Gobballs..."
+                }
+              }
+            }
+          }
+        }
+      },
       "souffles": {
         ",": {
           " ": {
@@ -43501,6 +43627,9 @@
           },
           "air": {
             "__default": "Air Words"
+          },
+          "eniripsa": {
+            "__default": "Eniripsa's Words"
           }
         }
       },
@@ -43890,30 +44019,6 @@
           }
         }
       },
-      "du": {
-        " ": {
-          "maître": {
-            " ": {
-              "corbac": {
-                "__default": "Lord Crow's Heart"
-              }
-            }
-          },
-          "capitaine": {
-            " ": {
-              "ekarlatte": {
-                "__default": "Captain Scarlight's Heart"
-              }
-            }
-          },
-          "mantiscore": {
-            "__default": "Mantiscore Heart"
-          },
-          "croqueleur": {
-            "__default": "Crunchler Heart"
-          }
-        }
-      },
       "en": {
         " ": {
           "sursis": {
@@ -43930,6 +44035,23 @@
       },
       "gelé": {
         "__default": "Frozen Heart"
+      },
+      "du": {
+        " ": {
+          "capitaine": {
+            " ": {
+              "ekarlatte": {
+                "__default": "Captain Scarlight's Heart"
+              }
+            }
+          },
+          "mantiscore": {
+            "__default": "Mantiscore Heart"
+          },
+          "croqueleur": {
+            "__default": "Crunchler Heart"
+          }
+        }
       },
       "battant": {
         " ": {
@@ -44114,6 +44236,12 @@
             "__default": "Tynrils' Nightmare"
           }
         }
+      },
+      "monstrueux": {
+        "__default": "Monstrous Nightmare"
+      },
+      "gardé": {
+        "__default": "Guarded Nightmare"
       },
       "rocailleux": {
         "__default": "Rocky Nightmare"
@@ -46266,6 +46394,15 @@
           },
           "corruption": {
             "__default": "The Legend of Corruption"
+          },
+          "mériana": {
+            "__default": "Legend of Meriana"
+          },
+          "menalt": {
+            "__default": "Legend of Menalt"
+          },
+          "thanatena": {
+            "__default": "Legend of Thanatena"
           }
         }
       },
@@ -46291,6 +46428,9 @@
           },
           "destin": {
             "__default": "Legend of Destiny"
+          },
+          "miroir": {
+            "__default": "Legend of the Mirror"
           }
         }
       },
@@ -46316,6 +46456,22 @@
       },
       "d": {
         "'": {
+          "oto": {
+            " ": {
+              "mustam": {
+                "__default": "Legend of Oto Mustam"
+              }
+            }
+          },
+          "helséphine": {
+            "__default": "Legend of Helsephine"
+          },
+          "henual": {
+            "__default": "Legend of Henual"
+          },
+          "amayiro": {
+            "__default": "Legend of Amayiro"
+          },
           "automne": {
             "__default": "Legend of Autumn"
           }
@@ -46476,9 +46632,6 @@
           "gargandyas": {
             "__default": "Gargandyas's Tail"
           },
-          "scorbute": {
-            "__default": "Scurvion Tail"
-          },
           "boostache": {
             " ": {
               "prépubère": {
@@ -46504,13 +46657,6 @@
               }
             }
           },
-          "croc": {
-            " ": {
-              "gland": {
-                "__default": "Whitish Fang Tail"
-              }
-            }
-          },
           "sanglier": {
             " ": {
               "des": {
@@ -46522,46 +46668,15 @@
               }
             }
           },
-          "prespic": {
-            "__default": "Prespic Tail"
-          },
           "dragodinde": {
             " ": {
-              "rousse": {
-                " ": {
-                  "sauvage": {
-                    "__default": "Wild Ginger Dragoturkey Tail"
-                  }
-                }
-              },
               "sauvage": {
                 "__default": "Wild Dragoturkey Tail"
-              }
-            },
-            "__default": "Dragoturkey Tail"
-          },
-          "dragon": {
-            " ": {
-              "cochon": {
-                "__default": "Dragon Pig Tail"
-              }
-            }
-          },
-          "minotoror": {
-            "__default": "Minotoror Tail"
-          },
-          "koalak": {
-            " ": {
-              "sanguin": {
-                "__default": "Bloody Koalak Tail"
               }
             }
           },
           "fantomalamère": {
             "__default": "Karrybean Pirate Tail"
-          },
-          "marôdeur": {
-            "__default": "Stabba Tail"
           },
           "yomi": {
             " ": {
@@ -47054,300 +47169,104 @@
       }
     }
   },
-  "neutre": {
-    "__default": "Neutral",
+  "bribe": {
     " ": {
-      "(": {
-        "%": {
-          ")": {
-            "__default": "Neutral (%)"
-          }
-        },
-        "fixe": {
-          ")": {
-            "__default": "Neutral (fixed)"
-          }
-        }
-      }
-    }
-  },
-  "bontarien": {
-    "__default": "Bontarian",
-    " ": {
-      "suspicieux": {
-        "__default": "Suspicious Bontarian"
-      },
-      "intrépide": {
-        "__default": "Intrepid Bontarian"
-      },
-      "énervé": {
-        "__default": "Irritated Bontarian"
-      },
-      "méfiant": {
-        "__default": "Wary Bontarian"
-      },
-      "en": {
-        " ": {
-          "détresse": {
-            "__default": "Bontarian in Distress"
-          }
-        }
-      }
-    }
-  },
-  "brâkmarien": {
-    "__default": "Brakmarian",
-    " ": {
-      "moribond": {
-        "__default": "Moribund Brakmarian"
-      }
-    }
-  },
-  "foire": {
-    " ": {
-      "du": {
-        " ": {
-          "trool": {
-            "__default": "Trool Fair"
-          }
-        }
-      },
-      "en": {
-        " ": {
-          "question": {
-            "__default": "Fair-equently Asked Questions"
-          }
-        }
-      }
-    }
-  },
-  "îlots": {
-    " ": {
-      "de": {
-        " ": {
-          "la": {
+      "d": {
+        "'": {
+          "un": {
             " ": {
-              "mer": {
+              "rêve": {
+                "__default": "Dream Fragment",
                 " ": {
-                  "d": {
-                    "'": {
-                      "asse": {
-                        "__default": "Asse Sea Islands"
-                      }
-                    }
+                  "immortel": {
+                    "__default": "Immortal Dream Fragment"
                   },
-                  "kantil": {
-                    "__default": "Antinau Sea Islands"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "zone": {
-    " ": {
-      "1": {
-        "-": {
-          "a": {
-            "__default": "Area 1-A"
-          },
-          "b": {
-            "__default": "Area 1-B"
-          },
-          "c": {
-            "__default": "Area 1-C"
-          },
-          "d": {
-            "__default": "Area 1-D"
-          }
-        }
-      },
-      "2": {
-        "-": {
-          "a": {
-            "__default": "Area 2-A"
-          },
-          "b": {
-            "__default": "Area 2-B"
-          },
-          "c": {
-            "__default": "Area 2-C"
-          },
-          "d": {
-            "__default": "Area 2-D"
-          }
-        }
-      },
-      "3": {
-        "-": {
-          "a": {
-            "__default": "Area 3-A"
-          },
-          "b": {
-            "__default": "Area 3-B"
-          },
-          "c": {
-            "__default": "Area 3-C"
-          },
-          "d": {
-            "__default": "Area 3-D"
-          }
-        }
-      },
-      "4": {
-        "-": {
-          "a": {
-            "__default": "Area 4-A"
-          },
-          "b": {
-            "__default": "Area 4-B"
-          },
-          "c": {
-            "__default": "Area 4-C"
-          },
-          "d": {
-            "__default": "Area 4-D"
-          }
-        }
-      },
-      "5": {
-        "-": {
-          "a": {
-            "__default": "Area 5-A"
-          },
-          "b": {
-            "__default": "Area 5-B"
-          },
-          "c": {
-            "__default": "Area 5-C"
-          },
-          "d": {
-            "__default": "Area 5-D"
-          }
-        }
-      },
-      "6": {
-        "-": {
-          "a": {
-            "__default": "Area 6-A"
-          },
-          "b": {
-            "__default": "Area 6-B"
-          },
-          "c": {
-            "__default": "Area 6-C"
-          },
-          "d": {
-            "__default": "Area 6-D"
-          }
-        }
-      },
-      "privée": {
-        "__default": "Private Area"
-      },
-      "de": {
-        " ": {
-          "départ": {
-            "__default": "Starting area"
-          },
-          "protection": {
-            " ": {
-              "glyphe": {
-                "__default": "Protection Zone Glyph"
-              }
-            },
-            "__default": "Protection Zone"
-          }
-        }
-      }
-    }
-  },
-  "saharach": {
-    "__default": "Ohwymi",
-    ",": {
-      " ": {
-        "territoire": {
-          " ": {
-            "verdoyant": {
-              " ": {
-                "?": {
-                  "__default": "Ohwymi, a Luscious Countryside?"
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "profondeurs": {
-    " ": {
-      "de": {
-        " ": {
-          "sufokia": {
-            "__default": "Depths of Sufokia"
-          }
-        }
-      },
-      "d": {
-        "'": {
-          "astrub": {
-            "__default": "Depths of Astrub"
-          }
-        }
-      },
-      "marines": {
-        "__default": "Ocean Depths"
-      }
-    }
-  },
-  "mode": {
-    " ": {
-      "tactique": {
-        "__default": "Tactical Mode"
-      },
-      "d": {
-        "'": {
-          "emploi": {
-            " ": {
-              "de": {
-                " ": {
-                  "la": {
-                    " ": {
-                      "pelle": {
-                        " ": {
-                          "hectrochoc": {
-                            "__default": "Dontase Mebro Shovel Instruction Manual"
-                          }
-                        }
-                      }
-                    }
+                  "économe": {
+                    "__default": "Frugal Dream Fragment"
+                  },
+                  "parfait": {
+                    "__default": "Perfect Dream Fragment"
                   }
                 }
               },
-              "des": {
+              "paradoxe": {
+                "__default": "Paradox Fragment",
                 " ": {
-                  "pierres": {
-                    " ": {
-                      "sacrées": {
-                        " ": {
-                          "d": {
-                            "'": {
-                              "araknas": {
-                                "__default": "Araknas Sacred Stones User Guide"
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
+                  "immortel": {
+                    "__default": "Immortal Paradox Fragment"
+                  },
+                  "économe": {
+                    "__default": "Frugal Paradox Fragment"
+                  },
+                  "parfait": {
+                    "__default": "Perfect Paradox Fragment"
+                  }
+                }
+              },
+              "cauchemar": {
+                "__default": "Nightmare Fragment",
+                " ": {
+                  "immortel": {
+                    "__default": "Immortal Nightmare Fragment"
+                  },
+                  "économe": {
+                    "__default": "Frugal Nightmare Fragment"
+                  },
+                  "parfait": {
+                    "__default": "Perfect Nightmare Fragment"
                   }
                 }
               }
             }
+          },
+          "enutrof": {
+            "__default": "Enutrof Fragment"
+          },
+          "eniripsa": {
+            "__default": "Eniripsa Fragment"
+          },
+          "ecaflip": {
+            "__default": "Ecaflip Fragment"
+          },
+          "huppermage": {
+            "__default": "Huppermage Fragment"
+          },
+          "ouginak": {
+            "__default": "Ouginak Fragment"
+          },
+          "eliotrope": {
+            "__default": "Eliotrope Fragment"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "rêve": {
+            "__default": "Dream Fragment"
+          },
+          "zobal": {
+            "__default": "Masqueraider Fragment"
+          },
+          "steamer": {
+            "__default": "Foggernaut Fragment"
+          },
+          "crâ": {
+            "__default": "Cra Fragment"
+          },
+          "iop": {
+            "__default": "Iop Fragment"
+          },
+          "pandawa": {
+            "__default": "Pandawa Fragment"
+          },
+          "sadida": {
+            "__default": "Sadida Fragment"
+          },
+          "xélor": {
+            "__default": "Xelor Fragment"
+          },
+          "percepteur": {
+            "__default": "Perceptor Fragment"
           }
         }
       }
@@ -47355,6 +47274,12 @@
   },
   "rêve": {
     " ": {
+      "monstrueux": {
+        "__default": "Monstrous Dream"
+      },
+      "gardé": {
+        "__default": "Guarded Dream"
+      },
       "du": {
         " ": {
           "monde": {
@@ -47700,6 +47625,9 @@
                 "__default": "Hell Mina's Dream"
               }
             }
+          },
+          "aventure": {
+            "__default": "Adventurous Dream"
           }
         }
       },
@@ -48016,6 +47944,9 @@
                 "__default": "Berylbell Copperbeard's Dream"
               }
             }
+          },
+          "sédentarité": {
+            "__default": "Sedentary Dream"
           }
         }
       },
@@ -48043,6 +47974,1045 @@
           },
           "tynrils": {
             "__default": "Tynrils' Dream"
+          }
+        }
+      },
+      "illusoire": {
+        "__default": "Fanciful Dream"
+      }
+    }
+  },
+  "insomnie": {
+    "__default": "Insomnia"
+  },
+  "paradoxe": {
+    " ": {
+      "monstrueux": {
+        "__default": "Monstrous Paradox"
+      },
+      "gardé": {
+        "__default": "Guarded Paradox"
+      },
+      "du": {
+        " ": {
+          "tournesol": {
+            " ": {
+              "affamé": {
+                "__default": "Famished Sunflower's Paradox"
+              }
+            }
+          },
+          "bouftou": {
+            " ": {
+              "royal": {
+                "__default": "Royal Gobball's Paradox"
+              }
+            }
+          },
+          "scarabosse": {
+            " ": {
+              "doré": {
+                "__default": "Golden Scarabugly's Paradox"
+              }
+            }
+          },
+          "boostache": {
+            "__default": "Boostache's Paradox"
+          },
+          "chafer": {
+            " ": {
+              "r": {
+                "ō": {
+                  "nin": {
+                    "__default": "Ronin Chafer's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "coffre": {
+            " ": {
+              "des": {
+                " ": {
+                  "forgerons": {
+                    "__default": "Smiths' Chest's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "corailleur": {
+            " ": {
+              "magistral": {
+                "__default": "Great Coralator's Paradox"
+              }
+            }
+          },
+          "kwakwa": {
+            "__default": "Kwakwa's Paradox"
+          },
+          "kanniboul": {
+            " ": {
+              "ebil": {
+                "__default": "Kanniball Andchain's Paradox"
+              }
+            }
+          },
+          "wa": {
+            " ": {
+              "wabbit": {
+                "__default": "Wa Wabbit's Paradox"
+              },
+              "wobot": {
+                "__default": "Wa Wobot's Paradox"
+              }
+            }
+          },
+          "craqueleur": {
+            " ": {
+              "légendaire": {
+                "__default": "Legendary Crackler's Paradox"
+              }
+            }
+          },
+          "mantiscore": {
+            "__default": "Mantiscore's Paradox"
+          },
+          "chouque": {
+            "__default": "LeChouque's Paradox"
+          },
+          "dragon": {
+            " ": {
+              "cochon": {
+                "__default": "Dragon Pig's Paradox"
+              }
+            }
+          },
+          "meulou": {
+            "__default": "Moowolf's Paradox"
+          },
+          "rat": {
+            " ": {
+              "blanc": {
+                "__default": "White Rat's Paradox"
+              },
+              "noir": {
+                "__default": "Black Rat's Paradox"
+              }
+            }
+          },
+          "maître": {
+            " ": {
+              "corbac": {
+                "__default": "Lord Crow's Paradox"
+              },
+              "des": {
+                " ": {
+                  "pantins": {
+                    "__default": "Puppet Master's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "pounicheur": {
+            "__default": "Colousses's Paradox"
+          },
+          "minotoror": {
+            "__default": "Minotoror's Paradox"
+          },
+          "blop": {
+            " ": {
+              "multicolore": {
+                " ": {
+                  "royal": {
+                    "__default": "Royal Rainbow Blop's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "tofu": {
+            " ": {
+              "royal": {
+                "__default": "Royal Tofu's Paradox"
+              }
+            }
+          },
+          "royalmouth": {
+            "__default": "Royal Mastogob's Paradox"
+          },
+          "capitaine": {
+            " ": {
+              "ekarlatte": {
+                "__default": "Captain Scarlight's Paradox"
+              },
+              "meno": {
+                "__default": "Captain Meno's Paradox"
+              }
+            }
+          },
+          "chêne": {
+            " ": {
+              "mou": {
+                "__default": "Soft Oak's Paradox"
+              }
+            }
+          },
+          "phossile": {
+            "__default": "Drhossil's Paradox"
+          },
+          "kimbo": {
+            "__default": "Kimbo's Paradox"
+          },
+          "minotot": {
+            "__default": "Minotot's Paradox"
+          },
+          "mansot": {
+            " ": {
+              "royal": {
+                "__default": "Royal Pingwin's Paradox"
+              }
+            }
+          },
+          "père": {
+            " ": {
+              "ver": {
+                "__default": "Wurmlord's Paradox"
+              },
+              "fwetar": {
+                "__default": "Father Whupper's Paradox"
+              }
+            }
+          },
+          "toxoliath": {
+            "__default": "Toxoliath's Paradox"
+          },
+          "bworker": {
+            "__default": "Bworker's Paradox"
+          },
+          "professeur": {
+            " ": {
+              "xa": {
+                "__default": "Professor Xa's Paradox"
+              }
+            }
+          },
+          "glourséleste": {
+            "__default": "Celestial Bearbarian's Paradox"
+          },
+          "kolosso": {
+            "__default": "Kolosso's Paradox"
+          },
+          "chaloeil": {
+            "__default": "Catseye's Paradox"
+          },
+          "comte": {
+            " ": {
+              "harebourg": {
+                "__default": "Count Harebourg's Paradox"
+              },
+              "razof": {
+                "__default": "Count Razof's Paradox"
+              }
+            }
+          },
+          "roi": {
+            " ": {
+              "nidas": {
+                "__default": "King Nidas's Paradox"
+              },
+              "imagami": {
+                "__default": "King Imagami's Paradox"
+              }
+            }
+          },
+          "korriandre": {
+            "__default": "Korriander's Paradox"
+          },
+          "papa": {
+            " ": {
+              "nowel": {
+                "__default": "Father Kwismas's Paradox"
+              }
+            }
+          },
+          "koulosse": {
+            "__default": "Koolich's Paradox"
+          },
+          "mawabouaino": {
+            "__default": "Mawabouwaino's Paradox"
+          },
+          "croqueleur": {
+            "__default": "Crunchler's Paradox"
+          },
+          "kharnozor": {
+            "__default": "Kharnotaurus's Paradox"
+          },
+          "tanukouï": {
+            " ": {
+              "san": {
+                "__default": "Tanukouï San's Paradox"
+              }
+            }
+          },
+          "shogun": {
+            " ": {
+              "tofugawa": {
+                "__default": "Shogun Tofugawa's Paradox"
+              }
+            }
+          },
+          "directeur": {
+            " ": {
+              "grunob": {
+                "__default": "Director Grunob's Paradox"
+              }
+            }
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "mob": {
+            " ": {
+              "l": {
+                "'": {
+                  "éponge": {
+                    "__default": "Sponge Mob's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "kankreblath": {
+            "__default": "Kickroach's Paradox"
+          },
+          "batofu": {
+            "__default": "Batofu's Paradox"
+          },
+          "shin": {
+            " ": {
+              "larve": {
+                "__default": "Shin Larva's Paradox"
+              }
+            }
+          },
+          "la": {
+            " ": {
+              "bworkette": {
+                "__default": "Bworkette's Paradox"
+              },
+              "reine": {
+                " ": {
+                  "nyée": {
+                    "__default": "Rac Queen's Paradox"
+                  },
+                  "des": {
+                    " ": {
+                      "voleurs": {
+                        "__default": "Queen of Thieves's Paradox"
+                      }
+                    }
+                  },
+                  "amirukam": {
+                    "__default": "Queen Amirukam's Paradox"
+                  }
+                }
+              },
+              "haute": {
+                " ": {
+                  "truche": {
+                    "__default": "Cross Strich's Paradox"
+                  }
+                }
+              },
+              "larve": {
+                " ": {
+                  "de": {
+                    " ": {
+                      "koutoulou": {
+                        "__default": "Koutoulou Larva's Paradox"
+                      }
+                    }
+                  }
+                }
+              },
+              "prêtresse": {
+                " ": {
+                  "de": {
+                    " ": {
+                      "kao": {
+                        "__default": "Chokao Priestess's Paradox"
+                      }
+                    }
+                  }
+                }
+              },
+              "dame": {
+                " ": {
+                  "des": {
+                    " ": {
+                      "eaux": {
+                        "__default": "Lady of the Water's Paradox"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "gourlo": {
+            " ": {
+              "le": {
+                " ": {
+                  "terrible": {
+                    "__default": "Gourlo the Terrible's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "nelween": {
+            "__default": "Nelween's Paradox"
+          },
+          "l": {
+            "'": {
+              "abraknyde": {
+                " ": {
+                  "ancestral": {
+                    "__default": "Ancestral Treechnid's Paradox"
+                  }
+                }
+              },
+              "obsidiantre": {
+                "__default": "Obsidemon's Paradox"
+              },
+              "éternel": {
+                " ": {
+                  "conflit": {
+                    "__default": "Eternal Conflict's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "choudini": {
+            "__default": "Cauldini's Paradox"
+          },
+          "moon": {
+            "__default": "Moon's Paradox"
+          },
+          "silf": {
+            " ": {
+              "le": {
+                " ": {
+                  "rasboul": {
+                    " ": {
+                      "majeur": {
+                        "__default": "Silf the Greater Bherb's Paradox"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "skeunk": {
+            "__default": "Skeunk's Paradox"
+          },
+          "fraktale": {
+            "__default": "Fraktal's Paradox"
+          },
+          "crocabulia": {
+            "__default": "Crocabulia's Paradox"
+          },
+          "sphincter": {
+            " ": {
+              "cell": {
+                "__default": "Sphincter Cell's Paradox"
+              }
+            }
+          },
+          "kanigroula": {
+            "__default": "Kanigrula's Paradox"
+          },
+          "xlii": {
+            "__default": "XLII's Paradox"
+          },
+          "ben": {
+            " ": {
+              "le": {
+                " ": {
+                  "ripate": {
+                    "__default": "Buck Anear's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "grolloum": {
+            "__default": "Grohlum's Paradox"
+          },
+          "fuji": {
+            " ": {
+              "givrefoux": {
+                "__default": "Fuji Snowfoux's Paradox"
+              }
+            }
+          },
+          "tengu": {
+            " ": {
+              "givrefoux": {
+                "__default": "Tengu Snowfoux's Paradox"
+              }
+            }
+          },
+          "dazak": {
+            " ": {
+              "martegel": {
+                "__default": "Dazahk Freezammer's Paradox"
+              }
+            }
+          },
+          "solar": {
+            "__default": "Solar's Paradox"
+          },
+          "nileza": {
+            "__default": "Nileza's Paradox"
+          },
+          "dantinéa": {
+            "__default": "Dantinea's Paradox"
+          },
+          "merkator": {
+            "__default": "Merkator's Paradox"
+          },
+          "tal": {
+            " ": {
+              "kasha": {
+                "__default": "Tal Kasha's Paradox"
+              }
+            }
+          },
+          "bethel": {
+            " ": {
+              "akarna": {
+                "__default": "Bethel Akarna's Paradox"
+              }
+            }
+          },
+          "vortex": {
+            "__default": "Vortex's Paradox"
+          },
+          "sylargh": {
+            "__default": "Sylargh's Paradox"
+          },
+          "missiz": {
+            " ": {
+              "frizz": {
+                "__default": "Missiz Freezz's Paradox"
+              }
+            }
+          },
+          "klime": {
+            "__default": "Klime's Paradox"
+          },
+          "sapik": {
+            "__default": "Itzting's Paradox"
+          },
+          "malléfisk": {
+            "__default": "Brutatax's Paradox"
+          },
+          "kardorim": {
+            "__default": "Kardorim's Paradox"
+          },
+          "torkélonia": {
+            "__default": "Turtelonia's Paradox"
+          },
+          "draegnerys": {
+            "__default": "Draegnerys's Paradox"
+          },
+          "corruption": {
+            "__default": "Corruption's Paradox"
+          },
+          "guerre": {
+            "__default": "War's Paradox"
+          },
+          "servitude": {
+            "__default": "Servitude's Paradox"
+          },
+          "misère": {
+            "__default": "Misery's Paradox"
+          },
+          "founoroshi": {
+            "__default": "Founoroshi's Paradox"
+          },
+          "damadrya": {
+            "__default": "Damadrya's Paradox"
+          },
+          "shihan": {
+            "__default": "Shihan's Paradox"
+          },
+          "hanshi": {
+            "__default": "Hanshi's Paradox"
+          },
+          "koumiho": {
+            "__default": "Koumiho's Paradox"
+          },
+          "kabahal": {
+            "__default": "Kabaal's Paradox"
+          },
+          "rakoopeur": {
+            "__default": "Raccooper's Paradox"
+          },
+          "belladone": {
+            "__default": "Belladonna's Paradox"
+          },
+          "barbéryl": {
+            " ": {
+              "clochecuivre": {
+                "__default": "Berylbell Copperbeard's Paradox"
+              }
+            }
+          }
+        }
+      },
+      "des": {
+        " ": {
+          "blops": {
+            " ": {
+              "royaux": {
+                "__default": "Royal Blops' Paradox"
+              }
+            }
+          },
+          "gelées": {
+            " ": {
+              "royales": {
+                "__default": "Royal Jellies' Paradox"
+              }
+            }
+          },
+          "tynrils": {
+            "__default": "Tynrils' Paradox"
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "el": {
+            " ": {
+              "piko": {
+                "__default": "El Piko's Paradox"
+              }
+            }
+          },
+          "ougah": {
+            "__default": "Ougaa's Paradox"
+          },
+          "ombre": {
+            "__default": "Shadow's Paradox"
+          },
+          "ilyzaelle": {
+            "__default": "Ilyzaelle's Paradox"
+          },
+          "anerice": {
+            " ": {
+              "la": {
+                " ": {
+                  "shushess": {
+                    "__default": "Anerice the Shushess's Paradox"
+                  }
+                }
+              }
+            }
+          },
+          "halouine": {
+            "__default": "Al Howin's Paradox"
+          },
+          "entropix": {
+            "__default": "Entropix's Paradox"
+          },
+          "hell": {
+            " ": {
+              "mina": {
+                "__default": "Hell Mina's Paradox"
+              }
+            }
+          }
+        }
+      }
+    },
+    "__default": "Paradox"
+  },
+  "sommeil": {
+    " ": {
+      "paradoxal": {
+        "__default": "Paradoxical Sleep"
+      },
+      "d": {
+        "'": {
+          "agonie": {
+            "__default": "Agony Slumber"
+          }
+        }
+      },
+      "du": {
+        " ": {
+          "vénérable": {
+            "__default": "Venerable One's Sleep"
+          }
+        }
+      },
+      "réparateur": {
+        "__default": "Restful Sleep"
+      },
+      "paralysant": {
+        "__default": "Paralysing Sleep"
+      },
+      "écrasant": {
+        "__default": "Crushing Sleep"
+      }
+    }
+  },
+  "parasomnie": {
+    "__default": "Parasomnia"
+  },
+  "trois": {
+    " ": {
+      "petits": {
+        " ": {
+          "bouftous": {
+            ".": {
+              ".": {
+                ".": {
+                  "__default": "Three Little Gobballs..."
+                }
+              }
+            }
+          }
+        }
+      },
+      "coeurs": {
+        ",": {
+          " ": {
+            "un": {
+              " ": {
+                "roi": {
+                  "__default": "Three Hearts, One King"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-": {
+      "fleurs": {
+        "__default": "Three-Flower"
+      }
+    }
+  },
+  "cauchemarathon": {
+    "__default": "Nightmarathon"
+  },
+  "hypersomnie": {
+    "__default": "Hypersomnia"
+  },
+  "neutre": {
+    "__default": "Neutral",
+    " ": {
+      "(": {
+        "%": {
+          ")": {
+            "__default": "Neutral (%)"
+          }
+        },
+        "fixe": {
+          ")": {
+            "__default": "Neutral (fixed)"
+          }
+        }
+      }
+    }
+  },
+  "bontarien": {
+    "__default": "Bontarian",
+    " ": {
+      "suspicieux": {
+        "__default": "Suspicious Bontarian"
+      },
+      "intrépide": {
+        "__default": "Intrepid Bontarian"
+      },
+      "énervé": {
+        "__default": "Irritated Bontarian"
+      },
+      "méfiant": {
+        "__default": "Wary Bontarian"
+      },
+      "en": {
+        " ": {
+          "détresse": {
+            "__default": "Bontarian in Distress"
+          }
+        }
+      }
+    }
+  },
+  "brâkmarien": {
+    "__default": "Brakmarian",
+    " ": {
+      "moribond": {
+        "__default": "Moribund Brakmarian"
+      }
+    }
+  },
+  "foire": {
+    " ": {
+      "du": {
+        " ": {
+          "trool": {
+            "__default": "Trool Fair"
+          }
+        }
+      },
+      "en": {
+        " ": {
+          "question": {
+            "__default": "Fair-equently Asked Questions"
+          }
+        }
+      }
+    }
+  },
+  "îlots": {
+    " ": {
+      "de": {
+        " ": {
+          "la": {
+            " ": {
+              "mer": {
+                " ": {
+                  "d": {
+                    "'": {
+                      "asse": {
+                        "__default": "Asse Sea Islands"
+                      }
+                    }
+                  },
+                  "kantil": {
+                    "__default": "Antinau Sea Islands"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "zone": {
+    " ": {
+      "1": {
+        "-": {
+          "a": {
+            "__default": "Area 1-A"
+          },
+          "b": {
+            "__default": "Area 1-B"
+          },
+          "c": {
+            "__default": "Area 1-C"
+          },
+          "d": {
+            "__default": "Area 1-D"
+          }
+        }
+      },
+      "2": {
+        "-": {
+          "a": {
+            "__default": "Area 2-A"
+          },
+          "b": {
+            "__default": "Area 2-B"
+          },
+          "c": {
+            "__default": "Area 2-C"
+          },
+          "d": {
+            "__default": "Area 2-D"
+          }
+        }
+      },
+      "3": {
+        "-": {
+          "a": {
+            "__default": "Area 3-A"
+          },
+          "b": {
+            "__default": "Area 3-B"
+          },
+          "c": {
+            "__default": "Area 3-C"
+          },
+          "d": {
+            "__default": "Area 3-D"
+          }
+        }
+      },
+      "4": {
+        "-": {
+          "a": {
+            "__default": "Area 4-A"
+          },
+          "b": {
+            "__default": "Area 4-B"
+          },
+          "c": {
+            "__default": "Area 4-C"
+          },
+          "d": {
+            "__default": "Area 4-D"
+          }
+        }
+      },
+      "5": {
+        "-": {
+          "a": {
+            "__default": "Area 5-A"
+          },
+          "b": {
+            "__default": "Area 5-B"
+          },
+          "c": {
+            "__default": "Area 5-C"
+          },
+          "d": {
+            "__default": "Area 5-D"
+          }
+        }
+      },
+      "6": {
+        "-": {
+          "a": {
+            "__default": "Area 6-A"
+          },
+          "b": {
+            "__default": "Area 6-B"
+          },
+          "c": {
+            "__default": "Area 6-C"
+          },
+          "d": {
+            "__default": "Area 6-D"
+          }
+        }
+      },
+      "privée": {
+        "__default": "Private Area"
+      },
+      "de": {
+        " ": {
+          "départ": {
+            "__default": "Starting area"
+          },
+          "protection": {
+            " ": {
+              "glyphe": {
+                "__default": "Protection Zone Glyph"
+              }
+            },
+            "__default": "Protection Zone"
+          }
+        }
+      }
+    }
+  },
+  "saharach": {
+    "__default": "Ohwymi",
+    ",": {
+      " ": {
+        "territoire": {
+          " ": {
+            "verdoyant": {
+              " ": {
+                "?": {
+                  "__default": "Ohwymi, a Luscious Countryside?"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "profondeurs": {
+    " ": {
+      "de": {
+        " ": {
+          "sufokia": {
+            "__default": "Depths of Sufokia"
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "astrub": {
+            "__default": "Depths of Astrub"
+          }
+        }
+      },
+      "marines": {
+        "__default": "Ocean Depths"
+      }
+    }
+  },
+  "mode": {
+    " ": {
+      "tactique": {
+        "__default": "Tactical Mode"
+      },
+      "d": {
+        "'": {
+          "emploi": {
+            " ": {
+              "de": {
+                " ": {
+                  "la": {
+                    " ": {
+                      "pelle": {
+                        " ": {
+                          "hectrochoc": {
+                            "__default": "Dontase Mebro Shovel Instruction Manual"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "des": {
+                " ": {
+                  "pierres": {
+                    " ": {
+                      "sacrées": {
+                        " ": {
+                          "d": {
+                            "'": {
+                              "araknas": {
+                                "__default": "Araknas Sacred Stones User Guide"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -48414,21 +49384,6 @@
           },
           "déshonneur": {
             "__default": "Disgrace Points"
-          },
-          "mouvement": {
-            " ": {
-              "(": {
-                "pm": {
-                  ")": {
-                    " ": {
-                      "%": {
-                        "__default": "Movement Points (MP) %"
-                      }
-                    }
-                  }
-                }
-              }
-            }
           }
         }
       },
@@ -48439,28 +49394,18 @@
           },
           "honneur": {
             "__default": "Honour Points"
-          },
-          "action": {
-            " ": {
-              "(": {
-                "pa": {
-                  ")": {
-                    " ": {
-                      "%": {
-                        "__default": "Action Points (AP) %"
-                      }
-                    }
-                  }
-                }
-              }
-            }
           }
         }
       }
     }
   },
   "pa": {
-    "__default": "AP"
+    "__default": "AP",
+    " ": {
+      "%": {
+        "__default": "AP %"
+      }
+    }
   },
   "force": {
     "__default": "Strength",
@@ -48671,7 +49616,12 @@
     }
   },
   "pm": {
-    "__default": "MP"
+    "__default": "MP",
+    " ": {
+      "%": {
+        "__default": "MP %"
+      }
+    }
   },
   "invisibilité": {
     "__default": "Invisibility",
@@ -49544,10 +50494,20 @@
   "esquive": {
     " ": {
       "pa": {
-        "__default": "AP Parry"
+        "__default": "AP Parry",
+        " ": {
+          "%": {
+            "__default": "AP Parry %"
+          }
+        }
       },
       "pm": {
-        "__default": "MP Parry"
+        "__default": "MP Parry",
+        " ": {
+          "%": {
+            "__default": "MP Parry %"
+          }
+        }
       },
       "auto": {
         " ": {
@@ -50077,6 +51037,13 @@
         " ": {
           "purifiée": {
             "__default": "Purified Putrid Water"
+          },
+          "de": {
+            " ": {
+              "hordémon": {
+                "__default": "Putrid Altdemon Water"
+              }
+            }
           }
         },
         "__default": "Putrid Water"
@@ -50261,7 +51228,16 @@
     }
   },
   "alignement": {
-    "__default": "Alignment"
+    "__default": "Alignment",
+    " ": {
+      "des": {
+        " ": {
+          "planètes": {
+            "__default": "Planetary Alignment"
+          }
+        }
+      }
+    }
   },
   "pourcentage": {
     " ": {
@@ -50690,28 +51666,18 @@
   "retrait": {
     " ": {
       "pa": {
-        "__default": "AP Reduction"
+        "__default": "AP Reduction",
+        " ": {
+          "%": {
+            "__default": "AP Reduction %"
+          }
+        }
       },
       "pm": {
-        "__default": "MP Reduction"
-      },
-      "(": {
-        "pa": {
-          ")": {
-            " ": {
-              "%": {
-                "__default": "Reduction (AP) %"
-              }
-            }
-          }
-        },
-        "pm": {
-          ")": {
-            " ": {
-              "%": {
-                "__default": "Reduction (MP) %"
-              }
-            }
+        "__default": "MP Reduction",
+        " ": {
+          "%": {
+            "__default": "MP Reduction %"
           }
         }
       }
@@ -50726,6 +51692,9 @@
             "__default": "Pushback (fixed)"
           }
         }
+      },
+      "%": {
+        "__default": "Pushback %"
       },
       "d": {
         "'": {
@@ -50836,9 +51805,6 @@
   "bouclier": {
     "__default": "Shield",
     " ": {
-      "reptilien": {
-        "__default": "Reptilian Shield"
-      },
       "de": {
         " ": {
           "chafer": {
@@ -51013,6 +51979,13 @@
                 " ": {
                   "ii": {
                     "__default": "Demon II Shield"
+                  }
+                }
+              },
+              "fontaine": {
+                " ": {
+                  "onirique": {
+                    "__default": "Dream Fountain Shield"
                   }
                 }
               }
@@ -52652,6 +53625,12 @@
       "gargandyesque": {
         "__default": "Gargandyuan Shield"
       },
+      "miroir": {
+        "__default": "Mirror Shield"
+      },
+      "songevant": {
+        "__default": "Dreamalive Shield"
+      },
       "ouvrier": {
         "__default": "Labourer's Shield"
       },
@@ -52835,30 +53814,6 @@
       }
     },
     "__default": "Melee"
-  },
-  "equive": {
-    " ": {
-      "(": {
-        "pa": {
-          ")": {
-            " ": {
-              "%": {
-                "__default": "Parry (AP) %"
-              }
-            }
-          }
-        },
-        "pm": {
-          ")": {
-            " ": {
-              "%": {
-                "__default": "Parry (MP) %"
-              }
-            }
-          }
-        }
-      }
-    }
   },
   "inconnue": {
     "__default": "Unknown"
@@ -53223,9 +54178,6 @@
               }
             }
           },
-          "kaliptus": {
-            "__default": "Kaliptus Leaf"
-          },
           "blop": {
             " ": {
               "royal": {
@@ -53528,6 +54480,25 @@
             " ": {
               "ménologium": {
                 "__default": "Blessed Menologium Souvenir"
+              }
+            }
+          }
+        }
+      },
+      "poussiéreux": {
+        " ": {
+          "d": {
+            "'": {
+              "un": {
+                " ": {
+                  "livre": {
+                    " ": {
+                      "ruiné": {
+                        "__default": "Dusty Memory of a Ruined Book"
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -57988,6 +58959,9 @@
                 "__default": "Darkli Moon Hammer"
               }
             }
+          },
+          "xélor": {
+            "__default": "Xelor's Hammer"
           }
         }
       },
@@ -60079,6 +61053,9 @@
       },
       "rhoarim": {
         "__default": "Rhoarim Necklace"
+      },
+      "sacrieur": {
+        "__default": "Sacrier Necklace"
       }
     },
     "__default": "Necklace"
@@ -61789,16 +62766,6 @@
           "darit": {
             "__default": "Darit Hair"
           },
-          "croc": {
-            " ": {
-              "gland": {
-                "__default": "Whitish Fang Fur"
-              }
-            }
-          },
-          "moon": {
-            "__default": "Moon Hair"
-          },
           "boumbardier": {
             "__default": "Boombardier Hairs"
           },
@@ -62026,20 +62993,6 @@
           }
         }
       },
-      "du": {
-        " ": {
-          "meulou": {
-            "__default": "Boowolf Testicles"
-          },
-          "tanukouï": {
-            " ": {
-              "san": {
-                "__default": "Tanukouï San Testicles"
-              }
-            }
-          }
-        }
-      },
       "magiques": {
         " ": {
           "de": {
@@ -62053,6 +63006,17 @@
             " ": {
               "meulou": {
                 "__default": "Moowolf Magic Testicles"
+              }
+            }
+          }
+        }
+      },
+      "du": {
+        " ": {
+          "tanukouï": {
+            " ": {
+              "san": {
+                "__default": "Tanukouï San Testicles"
               }
             }
           }
@@ -62356,20 +63320,6 @@
               }
             }
           },
-          "dernier": {
-            " ": {
-              "poolay": {
-                "__default": "Last Cheeken Feather"
-              }
-            }
-          },
-          "maître": {
-            " ": {
-              "corbac": {
-                "__default": "Lord Crow Feather"
-              }
-            }
-          },
           "serpiplume": {
             "__default": "Quetsnakiatl Feather"
           },
@@ -62663,13 +63613,6 @@
       },
       "du": {
         " ": {
-          "dragon": {
-            " ": {
-              "cochon": {
-                "__default": "Dragon Pig Leather"
-              }
-            }
-          },
           "cochon": {
             " ": {
               "de": {
@@ -62680,12 +63623,6 @@
                 }
               }
             }
-          },
-          "boufcoul": {
-            "__default": "Gobkool Leather"
-          },
-          "minotot": {
-            "__default": "Minotot Leather"
           },
           "sanglacier": {
             "__default": "Woolly Piggoth Leather"
@@ -62818,20 +63755,10 @@
               }
             }
           },
-          "crocabulia": {
-            "__default": "Crocabulia Tooth"
-          },
           "shin": {
             " ": {
               "larve": {
                 "__default": "Shin Larva Tooth"
-              }
-            }
-          },
-          "rat": {
-            " ": {
-              "blanc": {
-                "__default": "White Rat Tooth"
               }
             }
           },
@@ -62990,49 +63917,6 @@
               }
             }
           },
-          "blop": {
-            " ": {
-              "coco": {
-                "__default": "Coco Blop Flower",
-                " ": {
-                  "royal": {
-                    "__default": "Royal Coco Blop Flower"
-                  }
-                }
-              },
-              "reinette": {
-                "__default": "Pippin Blop Flower",
-                " ": {
-                  "royal": {
-                    "__default": "Royal Pippin Blop Flower"
-                  }
-                }
-              },
-              "griotte": {
-                "__default": "Morello Cherry Blop Flower",
-                " ": {
-                  "royal": {
-                    "__default": "Royal Morello Cherry Blop Flower"
-                  }
-                }
-              },
-              "indigo": {
-                "__default": "Indigo Blop Flower",
-                " ": {
-                  "royal": {
-                    "__default": "Royal Indigo Blop Flower"
-                  }
-                }
-              },
-              "multicolore": {
-                " ": {
-                  "royal": {
-                    "__default": "Royal Rainbow Blop Flower"
-                  }
-                }
-              }
-            }
-          },
           "gloutovore": {
             "__default": "Greedovore Flower"
           },
@@ -63055,6 +63939,45 @@
           },
           "blopignon": {
             "__default": "Blopshroom Flower"
+          },
+          "blop": {
+            " ": {
+              "griotte": {
+                " ": {
+                  "royal": {
+                    "__default": "Royal Morello Cherry Blop Flower"
+                  }
+                }
+              },
+              "coco": {
+                " ": {
+                  "royal": {
+                    "__default": "Royal Coco Blop Flower"
+                  }
+                }
+              },
+              "indigo": {
+                " ": {
+                  "royal": {
+                    "__default": "Royal Indigo Blop Flower"
+                  }
+                }
+              },
+              "reinette": {
+                " ": {
+                  "royal": {
+                    "__default": "Royal Pippin Blop Flower"
+                  }
+                }
+              },
+              "multicolore": {
+                " ": {
+                  "royal": {
+                    "__default": "Royal Rainbow Blop Flower"
+                  }
+                }
+              }
+            }
           },
           "sutol": {
             "__default": "Sutol Flower"
@@ -63453,9 +64376,6 @@
                 "__default": "Dark Rose Petal"
               }
             }
-          },
-          "gloutoblop": {
-            "__default": "Greedoblop Petal"
           },
           "tournesol": {
             " ": {
@@ -64521,13 +65441,6 @@
           "lapineupe": {
             "__default": "Bunny Ears"
           },
-          "croc": {
-            " ": {
-              "gland": {
-                "__default": "Whitish Fang Ears"
-              }
-            }
-          },
           "wabbits": {
             "__default": "Wabbit Ears"
           },
@@ -64767,15 +65680,7 @@
             "__default": "Skeunk Skin"
           },
           "rat": {
-            "__default": "Rat Skin",
-            " ": {
-              "noir": {
-                "__default": "Black Rat Skin"
-              },
-              "blanc": {
-                "__default": "White Rat Skin"
-              }
-            }
+            "__default": "Rat Skin"
           },
           "ramane": {
             " ": {
@@ -64785,13 +65690,6 @@
                     "__default": "Grossewer Raeman Skin"
                   }
                 }
-              }
-            }
-          },
-          "sphincter": {
-            " ": {
-              "cell": {
-                "__default": "Sphincter Cell Skin"
               }
             }
           },
@@ -64919,13 +65817,6 @@
       },
       "du": {
         " ": {
-          "rasboul": {
-            " ": {
-              "majeur": {
-                "__default": "Greater Bherb Skin"
-              }
-            }
-          },
           "bworker": {
             "__default": "Bworker Hide"
           },
@@ -64933,17 +65824,6 @@
             " ": {
               "kongoku": {
                 "__default": "King Kongoku's Hide"
-              }
-            }
-          }
-        }
-      },
-      "lacérée": {
-        " ": {
-          "du": {
-            " ": {
-              "tynril": {
-                "__default": "Lacerated Tynril Skin"
               }
             }
           }
@@ -65080,9 +65960,6 @@
               }
             }
           },
-          "scorbute": {
-            "__default": "Scurvion Leg"
-          },
           "tofukaz": {
             "__default": "Tofukaz Foot"
           },
@@ -65099,9 +65976,6 @@
                 "__default": "Soryo Snowfoux Paw"
               }
             }
-          },
-          "gobosteur": {
-            "__default": "Buzta Foot"
           },
           "korriandre": {
             "__default": "Korriander Foot"
@@ -65430,17 +66304,6 @@
           },
           "barbétoal": {
             "__default": "Staruman Eyebrow"
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "rasboul": {
-            " ": {
-              "majeur": {
-                "__default": "Greater Bherb Eyebrows"
-              }
-            }
           }
         }
       },
@@ -66014,9 +66877,6 @@
               }
             }
           },
-          "scorbute": {
-            "__default": "Scurvion Pincer"
-          },
           "crustorail": {
             "__default": "Craboral Pincer"
           },
@@ -66131,21 +66991,6 @@
         " ": {
           "boufton": {
             "__default": "Gobbly Horn"
-          },
-          "chef": {
-            " ": {
-              "de": {
-                " ": {
-                  "guerre": {
-                    " ": {
-                      "bouftou": {
-                        "__default": "Gobball War Chief Horn"
-                      }
-                    }
-                  }
-                }
-              }
-            }
           },
           "brume": {
             "__default": "Foghorn"
@@ -66295,9 +67140,6 @@
           "boufcoul": {
             "__default": "Gobkool Horn"
           },
-          "minotot": {
-            "__default": "Minotot Horn"
-          },
           "grand": {
             " ": {
               "chef": {
@@ -66444,14 +67286,8 @@
               }
             }
           },
-          "minotoror": {
-            "__default": "Minotoror Wool"
-          },
           "boufcoul": {
             "__default": "Gobkool Wool"
-          },
-          "minotot": {
-            "__default": "Minotot Wool"
           },
           "royalmouth": {
             "__default": "Royal Mastogob Wool"
@@ -66567,40 +67403,6 @@
     },
     "__default": "Slobber"
   },
-  "groin": {
-    " ": {
-      "de": {
-        " ": {
-          "sanglier": {
-            "__default": "Boar Snout",
-            " ": {
-              "des": {
-                " ": {
-                  "plaines": {
-                    "__default": "Plain Boar Snout"
-                  }
-                }
-              }
-            }
-          },
-          "dragon": {
-            " ": {
-              "cochon": {
-                "__default": "Dragon Pig Snout"
-              }
-            }
-          },
-          "porkzebuth": {
-            "__default": "Pigzebub Snout"
-          },
-          "brutapir": {
-            "__default": "Brutapir Snout"
-          }
-        }
-      }
-    },
-    "__default": "Blah Blah Blah"
-  },
   "défense": {
     " ": {
       "du": {
@@ -66630,13 +67432,6 @@
           },
           "gliglicérin": {
             "__default": "Bliblycerin Tusk"
-          },
-          "dragon": {
-            " ": {
-              "cochon": {
-                "__default": "Dragon Pig Horn"
-              }
-            }
           },
           "phorreur": {
             "__default": "Drheller Tusk"
@@ -66765,48 +67560,6 @@
       }
     }
   },
-  "fruit": {
-    " ": {
-      "de": {
-        " ": {
-          "palme": {
-            "__default": "Palm Fruits"
-          },
-          "l": {
-            "'": {
-              "arbre": {
-                " ": {
-                  "goroku": {
-                    "__default": "Goroku Tree Fruit"
-                  }
-                }
-              }
-            }
-          },
-          "la": {
-            " ": {
-              "passion": {
-                "__default": "Fruit of Passion"
-              }
-            }
-          }
-        }
-      },
-      "rouge": {
-        "__default": "Red Fruit"
-      },
-      "pourri": {
-        "__default": "Rotten Fruit"
-      },
-      "du": {
-        " ": {
-          "sacrifice": {
-            "__default": "Sacrificial Fruit"
-          }
-        }
-      }
-    }
-  },
   "orge": {
     "__default": "Barley",
     " ": {
@@ -66867,13 +67620,6 @@
           },
           "mansocolat": {
             "__default": "Chocopingwin Stomach"
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "perkü": {
-            "__default": "Bomma Stomach"
           }
         }
       }
@@ -67186,13 +67932,6 @@
           },
           "blérice": {
             "__default": "Icy Brockhard Ear"
-          },
-          "sphincter": {
-            " ": {
-              "cell": {
-                "__default": "Sphincter Cell Ear"
-              }
-            }
           },
           "mécanofoux": {
             "__default": "Mecanofoux Ear"
@@ -68231,20 +68970,6 @@
           }
         }
       },
-      "précieuse": {
-        " ": {
-          "du": {
-            " ": {
-              "kimbo": {
-                "__default": "Kimbo's Precious Stone"
-              }
-            }
-          },
-          "zoth": {
-            "__default": "Precious Zoth Stone"
-          }
-        }
-      },
       "des": {
         " ": {
           "âmes": {
@@ -68313,6 +69038,13 @@
       },
       "médicinale": {
         "__default": "Medicinal Stone"
+      },
+      "précieuse": {
+        " ": {
+          "zoth": {
+            "__default": "Precious Zoth Stone"
+          }
+        }
       },
       "visqueuse": {
         "__default": "Slimy Stone"
@@ -68442,12 +69174,6 @@
                 }
               }
             }
-          },
-          "minotoror": {
-            "__default": "Minotoror Femur"
-          },
-          "minotot": {
-            "__default": "Minotot Femur"
           }
         }
       },
@@ -68470,144 +69196,6 @@
         }
       }
     }
-  },
-  "écorce": {
-    " ": {
-      "d": {
-        "'": {
-          "abraknyde": {
-            "__default": "Treechnid Bark",
-            " ": {
-              "ancestral": {
-                "__default": "Ancestral Treechnid Bark"
-              },
-              "vénérable": {
-                "__default": "Venerable Treechnid Bark"
-              }
-            }
-          },
-          "abrazif": {
-            "__default": "Treecherous Bark"
-          },
-          "abrakne": {
-            " ": {
-              "sombre": {
-                "__default": "Dark Treechnee Bark"
-              }
-            }
-          }
-        }
-      },
-      "de": {
-        " ": {
-          "liroye": {
-            " ": {
-              "merline": {
-                "__default": "Liroye Merline's Bark"
-              }
-            }
-          },
-          "floribonde": {
-            "__default": "Floramor Bark"
-          },
-          "brouture": {
-            "__default": "Rotaflor Bark"
-          },
-          "nerbe": {
-            "__default": "Gwass Bark"
-          },
-          "fécorce": {
-            "__default": "Barkritter Bark"
-          },
-          "chiendent": {
-            "__default": "Warguerite Bark"
-          },
-          "champaknyde": {
-            "__default": "Mushnid Bark"
-          },
-          "brouce": {
-            "__default": "Broucey Bark"
-          },
-          "l": {
-            "'": {
-              "arbre": {
-                " ": {
-                  "hakam": {
-                    "__default": "Tree Keeholo Bark"
-                  }
-                }
-              },
-              "abraknyde": {
-                "__default": "Treechnid Bark"
-              }
-            }
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "chêne": {
-            " ": {
-              "mou": {
-                "__default": "Soft Oak Bark"
-              }
-            }
-          },
-          "tynril": {
-            "__default": "Tynril Bark"
-          }
-        }
-      },
-      "sombre": {
-        " ": {
-          "pétrifiée": {
-            "__default": "Dark Treechnid Dark Bark"
-          },
-          "sculptée": {
-            "__default": "Carved Dark Bark"
-          }
-        }
-      },
-      "toxique": {
-        "__default": "Toxic Bark"
-      },
-      "centenaire": {
-        "__default": "Centenary Bark"
-      },
-      "enchantée": {
-        "__default": "Enchanted Bark"
-      },
-      "calcinée": {
-        "__default": "Charred Bark"
-      },
-      "noueuse": {
-        " ": {
-          "de": {
-            " ": {
-              "silvosse": {
-                "__default": "Silvosse's Gnarled Bark"
-              }
-            }
-          }
-        }
-      },
-      "putride": {
-        "__default": "Putrid Bark"
-      },
-      "détonante": {
-        "__default": "Explosive Bark"
-      },
-      "malsaine": {
-        "__default": "Nasty Bark"
-      },
-      "agressive": {
-        "__default": "Aggressive Bark"
-      },
-      "protectrice": {
-        "__default": "Protective Bark"
-      }
-    },
-    "__default": "Bark"
   },
   "racine": {
     " ": {
@@ -68729,86 +69317,6 @@
         "__default": "Pivoting Root"
       }
     }
-  },
-  "bourgeon": {
-    " ": {
-      "d": {
-        "'": {
-          "abraknyde": {
-            "__default": "Treechnid Bud",
-            " ": {
-              "ancestral": {
-                "__default": "Ancestral Treechnid Bud"
-              },
-              "sombre": {
-                " ": {
-                  "irascible": {
-                    "__default": "Short-Tempered Dark Treechnid Bud"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "de": {
-        " ": {
-          "pirolienne": {
-            "__default": "Pirolienne Bud"
-          },
-          "fourbasse": {
-            "__default": "Ambusher Bud"
-          },
-          "dathura": {
-            "__default": "Dathura Bud"
-          },
-          "l": {
-            "'": {
-              "arbre": {
-                " ": {
-                  "de": {
-                    " ": {
-                      "mort": {
-                        "__default": "Tree of Death Bud"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "chêne": {
-            " ": {
-              "mou": {
-                "__default": "Soft Oak Bud"
-              }
-            }
-          }
-        }
-      },
-      "explosif": {
-        " ": {
-          "de": {
-            " ": {
-              "damadrya": {
-                "__default": "Damadrya's Exploding Bud"
-              }
-            }
-          }
-        }
-      },
-      "parasite": {
-        "__default": "Parasitic Bud"
-      },
-      "assoupi": {
-        "__default": "Sleepy Bud"
-      }
-    },
-    "__default": "Bud"
   },
   "canine": {
     " ": {
@@ -69125,9 +69633,6 @@
             }
           }
         }
-      },
-      "ancestral": {
-        "__default": "Ancestral Amber"
       },
       "du": {
         " ": {
@@ -69513,241 +70018,6 @@
       },
       "isolant": {
         "__default": "Insulating Ore"
-      }
-    }
-  },
-  "crâne": {
-    " ": {
-      "du": {
-        " ": {
-          "dragon": {
-            " ": {
-              "cochon": {
-                "__default": "Dragon Pig Skull"
-              }
-            }
-          },
-          "culte": {
-            " ": {
-              "bestial": {
-                "__default": "Bestial Cult Skull"
-              }
-            }
-          }
-        }
-      },
-      "de": {
-        " ": {
-          "pirate": {
-            "__default": "Pirate Skull"
-          },
-          "chafer": {
-            "__default": "Chafer Skull"
-          },
-          "chef": {
-            " ": {
-              "crocodaille": {
-                "__default": "Crocodyl Chief Skull"
-              }
-            }
-          },
-          "féca": {
-            "__default": "Feca Skull"
-          },
-          "sram": {
-            "__default": "Sram Skull"
-          },
-          "xélor": {
-            "__default": "Xelor Skull"
-          },
-          "iop": {
-            "__default": "Iop Skull"
-          },
-          "crâ": {
-            "__default": "Cra Skull"
-          },
-          "sadida": {
-            "__default": "Sadida Skull"
-          },
-          "sacrieur": {
-            "__default": "Sacrier Skull"
-          },
-          "pandawa": {
-            "__default": "Pandawa Skull"
-          },
-          "yokaï": {
-            " ": {
-              "givrefoux": {
-                "__default": "Yokai Snowfoux Skull"
-              }
-            }
-          },
-          "roublard": {
-            "__default": "Rogue Skull"
-          },
-          "zobal": {
-            "__default": "Masqueraider Skull"
-          },
-          "steamer": {
-            "__default": "Foggernaut Skull"
-          },
-          "wabbit": {
-            " ": {
-              "squelette": {
-                "__default": "Skeleton Wabbit Skull"
-              }
-            }
-          },
-          "kardorim": {
-            "__default": "Kardorim's Skull"
-          },
-          "lucius": {
-            " ": {
-              "drago": {
-                "__default": "Lucius Drago's Skull"
-              }
-            }
-          },
-          "centoror": {
-            " ": {
-              "gelé": {
-                "__default": "Frozen Centoror Skull"
-              },
-              "volé": {
-                "__default": "Stolen Centoror Skull"
-              },
-              "mouillé": {
-                "__default": "Wet Centoror Skull"
-              }
-            }
-          },
-          "djaul": {
-            "__default": "Djaul's Skull"
-          },
-          "truche": {
-            "__default": "Strich Skull"
-          },
-          "la": {
-            " ": {
-              "flamme": {
-                " ": {
-                  "bleue": {
-                    "__default": "Blue Flame Skull"
-                  }
-                }
-              }
-            }
-          },
-          "kamikabz": {
-            "__default": "Kamikabz Skull"
-          }
-        }
-      },
-      "d": {
-        "'": {
-          "osamodas": {
-            "__default": "Osamodas Skull"
-          },
-          "enutrof": {
-            "__default": "Enutrof Skull"
-          },
-          "ecaflip": {
-            "__default": "Ecaflip Skull"
-          },
-          "eniripsa": {
-            "__default": "Eniripsa Skull"
-          },
-          "aventurier": {
-            "__default": "Adventurer Skull"
-          },
-          "eliotrope": {
-            "__default": "Eliotrope Skull"
-          },
-          "huppermage": {
-            "__default": "Huppermage Skull"
-          },
-          "ouginak": {
-            "__default": "Ouginak Skull"
-          }
-        }
-      },
-      "éthéré": {
-        "__default": "Ethereal Skull"
-      },
-      "enfoncé": {
-        "__default": "Staved-in Skull"
-      },
-      "maudit": {
-        "__default": "Evil Skull"
-      },
-      "magique": {
-        " ": {
-          "de": {
-            " ": {
-              "magouille": {
-                "__default": "Magic Skemage Skull"
-              },
-              "rate": {
-                " ": {
-                  "atinée": {
-                    "__default": "Shrynk Rat's Magic Skull"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "bavard": {
-        "__default": "Talky Skull"
-      },
-      "cancanier": {
-        "__default": "Gossipy Skull"
-      },
-      "loquace": {
-        "__default": "Loquacious Skull"
-      },
-      "jacasseur": {
-        "__default": "Chatty Skull"
-      },
-      "curieux": {
-        "__default": "Curious Skull"
-      },
-      "méfiant": {
-        "__default": "Wary Skull"
-      },
-      "servile": {
-        "__default": "Servile Skull"
-      },
-      "malfaisant": {
-        "__default": "Depraved Skull"
-      },
-      "bégayant": {
-        "__default": "Stuttering Skull"
-      },
-      "trouillard": {
-        "__default": "Scaredy Skull"
-      },
-      "triste": {
-        "__default": "Sad Skull"
-      },
-      "myope": {
-        "__default": "Near-sighted Skull"
-      },
-      "antipathique": {
-        "__default": "Disagreeable Skull"
-      },
-      "sanguinaire": {
-        "__default": "Bloodthirsty Skull"
-      },
-      "mélomane": {
-        "__default": "Music-loving Skull"
-      },
-      "délateur": {
-        "__default": "Snitch Skull"
-      },
-      "corne": {
-        "__default": "Horned Skull"
       }
     }
   },
@@ -70877,6 +71147,9 @@
       "pararayon": {
         "__default": "Raydi Hat"
       },
+      "songevant": {
+        "__default": "Dreamalive Hat"
+      },
       "incandescent": {
         "__default": "Incandescent Hat"
       }
@@ -71036,13 +71309,6 @@
           "choudini": {
             "__default": "Cauldini Fabric"
           },
-          "croc": {
-            " ": {
-              "gland": {
-                "__default": "Whitish Fang Fabric"
-              }
-            }
-          },
           "gliglidoudur": {
             "__default": "Bliblirect Fabric"
           },
@@ -71154,12 +71420,6 @@
       },
       "zoth": {
         "__default": "Zoth Fabric"
-      },
-      "corailleuse": {
-        "__default": "Coralator Fabric"
-      },
-      "givrée": {
-        "__default": "Frozen Fabric"
       },
       "mystérieuse": {
         "__default": "Mysterious Fabric"
@@ -71719,6 +71979,9 @@
             " ": {
               "i": {
                 "__default": "Demon I Cloak"
+              },
+              "iii": {
+                "__default": "Demon III Cloak"
               }
             }
           }
@@ -71905,6 +72168,13 @@
                 " ": {
                   "ii": {
                     "__default": "Demon II Cloak"
+                  }
+                }
+              },
+              "fontaine": {
+                " ": {
+                  "onirique": {
+                    "__default": "Dream Fountain Cloak"
                   }
                 }
               }
@@ -72910,6 +73180,9 @@
                 " ": {
                   "i": {
                     "__default": "Many-Hued Demon I Cloak"
+                  },
+                  "iii": {
+                    "__default": "Many-Hued Demon III Cloak"
                   }
                 }
               }
@@ -72931,6 +73204,9 @@
             }
           }
         }
+      },
+      "songevante": {
+        "__default": "Dreamalive Cape"
       }
     },
     "-": {
@@ -73742,6 +74018,13 @@
                     "__default": "Purse of 20,000 Kamas"
                   }
                 }
+              }
+            }
+          },
+          "250": {
+            " ": {
+              "kolizétons": {
+                "__default": "Pouch of 250 Kolossokens"
               }
             }
           },
@@ -76125,21 +76408,6 @@
           }
         }
       },
-      "brisée": {
-        " ": {
-          "du": {
-            " ": {
-              "tofu": {
-                " ": {
-                  "royal": {
-                    "__default": "Broken Royal Tofu Crown"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
       "koninginnedag": {
         "__default": "Koninginnedag Crown"
       },
@@ -76672,6 +76940,234 @@
       }
     }
   },
+  "crâne": {
+    " ": {
+      "de": {
+        " ": {
+          "pirate": {
+            "__default": "Pirate Skull"
+          },
+          "chafer": {
+            "__default": "Chafer Skull"
+          },
+          "chef": {
+            " ": {
+              "crocodaille": {
+                "__default": "Crocodyl Chief Skull"
+              }
+            }
+          },
+          "féca": {
+            "__default": "Feca Skull"
+          },
+          "sram": {
+            "__default": "Sram Skull"
+          },
+          "xélor": {
+            "__default": "Xelor Skull"
+          },
+          "iop": {
+            "__default": "Iop Skull"
+          },
+          "crâ": {
+            "__default": "Cra Skull"
+          },
+          "sadida": {
+            "__default": "Sadida Skull"
+          },
+          "sacrieur": {
+            "__default": "Sacrier Skull"
+          },
+          "pandawa": {
+            "__default": "Pandawa Skull"
+          },
+          "yokaï": {
+            " ": {
+              "givrefoux": {
+                "__default": "Yokai Snowfoux Skull"
+              }
+            }
+          },
+          "roublard": {
+            "__default": "Rogue Skull"
+          },
+          "zobal": {
+            "__default": "Masqueraider Skull"
+          },
+          "steamer": {
+            "__default": "Foggernaut Skull"
+          },
+          "wabbit": {
+            " ": {
+              "squelette": {
+                "__default": "Skeleton Wabbit Skull"
+              }
+            }
+          },
+          "kardorim": {
+            "__default": "Kardorim's Skull"
+          },
+          "lucius": {
+            " ": {
+              "drago": {
+                "__default": "Lucius Drago's Skull"
+              }
+            }
+          },
+          "centoror": {
+            " ": {
+              "gelé": {
+                "__default": "Frozen Centoror Skull"
+              },
+              "volé": {
+                "__default": "Stolen Centoror Skull"
+              },
+              "mouillé": {
+                "__default": "Wet Centoror Skull"
+              }
+            }
+          },
+          "djaul": {
+            "__default": "Djaul's Skull"
+          },
+          "truche": {
+            "__default": "Strich Skull"
+          },
+          "la": {
+            " ": {
+              "flamme": {
+                " ": {
+                  "bleue": {
+                    "__default": "Blue Flame Skull"
+                  }
+                }
+              }
+            }
+          },
+          "kamikabz": {
+            "__default": "Kamikabz Skull"
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "osamodas": {
+            "__default": "Osamodas Skull"
+          },
+          "enutrof": {
+            "__default": "Enutrof Skull"
+          },
+          "ecaflip": {
+            "__default": "Ecaflip Skull"
+          },
+          "eniripsa": {
+            "__default": "Eniripsa Skull"
+          },
+          "aventurier": {
+            "__default": "Adventurer Skull"
+          },
+          "eliotrope": {
+            "__default": "Eliotrope Skull"
+          },
+          "huppermage": {
+            "__default": "Huppermage Skull"
+          },
+          "ouginak": {
+            "__default": "Ouginak Skull"
+          }
+        }
+      },
+      "éthéré": {
+        "__default": "Ethereal Skull"
+      },
+      "enfoncé": {
+        "__default": "Staved-in Skull"
+      },
+      "maudit": {
+        "__default": "Evil Skull"
+      },
+      "magique": {
+        " ": {
+          "de": {
+            " ": {
+              "magouille": {
+                "__default": "Magic Skemage Skull"
+              },
+              "rate": {
+                " ": {
+                  "atinée": {
+                    "__default": "Shrynk Rat's Magic Skull"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "du": {
+        " ": {
+          "culte": {
+            " ": {
+              "bestial": {
+                "__default": "Bestial Cult Skull"
+              }
+            }
+          }
+        }
+      },
+      "bavard": {
+        "__default": "Talky Skull"
+      },
+      "cancanier": {
+        "__default": "Gossipy Skull"
+      },
+      "loquace": {
+        "__default": "Loquacious Skull"
+      },
+      "jacasseur": {
+        "__default": "Chatty Skull"
+      },
+      "curieux": {
+        "__default": "Curious Skull"
+      },
+      "méfiant": {
+        "__default": "Wary Skull"
+      },
+      "servile": {
+        "__default": "Servile Skull"
+      },
+      "malfaisant": {
+        "__default": "Depraved Skull"
+      },
+      "bégayant": {
+        "__default": "Stuttering Skull"
+      },
+      "trouillard": {
+        "__default": "Scaredy Skull"
+      },
+      "triste": {
+        "__default": "Sad Skull"
+      },
+      "myope": {
+        "__default": "Near-sighted Skull"
+      },
+      "antipathique": {
+        "__default": "Disagreeable Skull"
+      },
+      "sanguinaire": {
+        "__default": "Bloodthirsty Skull"
+      },
+      "mélomane": {
+        "__default": "Music-loving Skull"
+      },
+      "délateur": {
+        "__default": "Snitch Skull"
+      },
+      "corne": {
+        "__default": "Horned Skull"
+      }
+    }
+  },
   "carapace": {
     " ": {
       "verte": {
@@ -76686,30 +77182,19 @@
       "bleue": {
         "__default": "Blue Carapace"
       },
-      "de": {
+      "vide": {
         " ": {
-          "scarafeuille": {
+          "de": {
             " ": {
-              "blanc": {
-                "__default": "White Scaraleaf Carapace"
-              },
-              "bleu": {
-                "__default": "Blue Scaraleaf Carapace"
-              },
-              "rouge": {
-                "__default": "Red Scaraleaf Carapace"
-              },
-              "vert": {
-                "__default": "Green Scaraleaf Carapace"
-              },
-              "noir": {
-                "__default": "Black Scaraleaf Carapace"
+              "crabe": {
+                "__default": "Empty Crab Carapace"
               }
             }
-          },
-          "scorbute": {
-            "__default": "Scurvion Carapace"
-          },
+          }
+        }
+      },
+      "de": {
+        " ": {
           "scaratos": {
             "__default": "Scaratos Carapace"
           },
@@ -76745,52 +77230,6 @@
           },
           "tortue": {
             "__default": "Tortoise Shell"
-          }
-        }
-      },
-      "vide": {
-        " ": {
-          "de": {
-            " ": {
-              "crabe": {
-                "__default": "Empty Crab Carapace"
-              }
-            }
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "scarabosse": {
-            " ": {
-              "doré": {
-                "__default": "Golden Scarabugly Carapace"
-              }
-            }
-          },
-          "mantiscore": {
-            "__default": "Mantiscore Carapace"
-          },
-          "ninja": {
-            " ": {
-              "vert": {
-                "__default": "Green Ninja Shell"
-              }
-            }
-          },
-          "maître": {
-            " ": {
-              "torte": {
-                " ": {
-                  "hou": {
-                    "__default": "Master Tor Toise's Shell"
-                  }
-                }
-              }
-            }
-          },
-          "scarafeuille": {
-            "__default": "Scaraleaf's Carapace"
           }
         }
       },
@@ -76848,6 +77287,34 @@
           }
         },
         "__default": "Air Carapace"
+      },
+      "du": {
+        " ": {
+          "mantiscore": {
+            "__default": "Mantiscore Carapace"
+          },
+          "ninja": {
+            " ": {
+              "vert": {
+                "__default": "Green Ninja Shell"
+              }
+            }
+          },
+          "maître": {
+            " ": {
+              "torte": {
+                " ": {
+                  "hou": {
+                    "__default": "Master Tor Toise's Shell"
+                  }
+                }
+              }
+            }
+          },
+          "scarafeuille": {
+            "__default": "Scaraleaf's Carapace"
+          }
+        }
       },
       "d": {
         "'": {
@@ -77127,6 +77594,13 @@
           },
           "supervizoeuf": {
             "__default": "Bzzegg Supervisor's Helmet"
+          },
+          "démon": {
+            " ": {
+              "iii": {
+                "__default": "Demon III Helmet"
+              }
+            }
           }
         }
       },
@@ -77397,6 +77871,28 @@
       },
       "ophidien": {
         "__default": "Ophidian Helmet"
+      },
+      "à": {
+        " ": {
+          "test": {
+            "__default": "Test-a-Helm"
+          }
+        }
+      },
+      "diapré": {
+        " ": {
+          "du": {
+            " ": {
+              "démon": {
+                " ": {
+                  "iii": {
+                    "__default": "Many-Hued Demon III Helmet"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -78418,6 +78914,17 @@
         },
         "__default": "Slingshot"
       },
+      "éclair": {
+        " ": {
+          "de": {
+            " ": {
+              "menalt": {
+                "__default": "Menalt's Lightning Spear"
+              }
+            }
+          }
+        }
+      },
       "mansot": {
         "__default": "Pingwin-Launcher"
       },
@@ -79395,60 +79902,6 @@
       }
     }
   },
-  "antennes": {
-    " ": {
-      "de": {
-        " ": {
-          "scarafeuille": {
-            " ": {
-              "bleu": {
-                "__default": "Blue Scaraleaf Antennae"
-              },
-              "rouge": {
-                "__default": "Red Scaraleaf Antennae"
-              },
-              "vert": {
-                "__default": "Green Scaraleaf Antennae"
-              },
-              "blanc": {
-                "__default": "White Scaraleaf Antennae"
-              },
-              "noir": {
-                "__default": "Black Scaraleaf Antennae"
-              }
-            }
-          },
-          "vilinsekt": {
-            "__default": "Vilinsekt Antennae"
-          },
-          "kabombz": {
-            "__default": "Kabombz Antennae"
-          }
-        }
-      },
-      "du": {
-        " ": {
-          "scarabosse": {
-            " ": {
-              "doré": {
-                "__default": "Golden Scarabugly Antennae"
-              }
-            }
-          },
-          "cafard": {
-            " ": {
-              "fadet": {
-                "__default": "Roachelf's Antennae"
-              }
-            }
-          }
-        }
-      },
-      "foudroyantes": {
-        "__default": "Furious Feelers"
-      }
-    }
-  },
   "bocal": {
     "__default": "Glass Bowl",
     " ": {
@@ -79580,13 +80033,6 @@
             " ": {
               "fléau": {
                 "__default": "Robo Mace's Chain"
-              }
-            }
-          },
-          "l": {
-            "'": {
-              "ouginak": {
-                "__default": "Ouginak Chain"
               }
             }
           },
@@ -80585,11 +81031,11 @@
           "épatante": {
             "__default": "Wonderful Astral Rune"
           },
-          "merveilleuse": {
-            "__default": "Marvellous Astral Rune"
-          },
           "légendaire": {
             "__default": "Legendary Astral Rune"
+          },
+          "merveilleuse": {
+            "__default": "Marvellous Astral Rune"
           }
         }
       },
@@ -81475,6 +81921,9 @@
           "kama": {
             "__default": "Kama Fragment"
           },
+          "prysmaradite": {
+            "__default": "Prysmaradite Fragment"
+          },
           "subconscient": {
             " ": {
               "du": {
@@ -81491,9 +81940,6 @@
             }
           }
         }
-      },
-      "gelé": {
-        "__default": "Frozen Fragment"
       }
     }
   },
@@ -83261,6 +83707,74 @@
       }
     }
   },
+  "bourgeon": {
+    " ": {
+      "de": {
+        " ": {
+          "pirolienne": {
+            "__default": "Pirolienne Bud"
+          },
+          "fourbasse": {
+            "__default": "Ambusher Bud"
+          },
+          "dathura": {
+            "__default": "Dathura Bud"
+          },
+          "l": {
+            "'": {
+              "arbre": {
+                " ": {
+                  "de": {
+                    " ": {
+                      "mort": {
+                        "__default": "Tree of Death Bud"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "abraknyde": {
+            " ": {
+              "ancestral": {
+                "__default": "Ancestral Treechnid Bud"
+              },
+              "sombre": {
+                " ": {
+                  "irascible": {
+                    "__default": "Short-Tempered Dark Treechnid Bud"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "explosif": {
+        " ": {
+          "de": {
+            " ": {
+              "damadrya": {
+                "__default": "Damadrya's Exploding Bud"
+              }
+            }
+          }
+        }
+      },
+      "parasite": {
+        "__default": "Parasitic Bud"
+      },
+      "assoupi": {
+        "__default": "Sleepy Bud"
+      }
+    },
+    "__default": "Bud"
+  },
   "écaille": {
     " ": {
       "de": {
@@ -83314,9 +83828,6 @@
           },
           "torkélonia": {
             "__default": "Turtelonia's Scale"
-          },
-          "gargandyas": {
-            "__default": "Gargandyas's Ram"
           }
         }
       },
@@ -83670,6 +84181,9 @@
             }
           }
         }
+      },
+      "filante": {
+        "__default": "Shooting Star"
       }
     }
   },
@@ -83724,6 +84238,126 @@
         "__default": "Dark Wicker"
       }
     }
+  },
+  "écorce": {
+    " ": {
+      "de": {
+        " ": {
+          "liroye": {
+            " ": {
+              "merline": {
+                "__default": "Liroye Merline's Bark"
+              }
+            }
+          },
+          "floribonde": {
+            "__default": "Floramor Bark"
+          },
+          "brouture": {
+            "__default": "Rotaflor Bark"
+          },
+          "nerbe": {
+            "__default": "Gwass Bark"
+          },
+          "fécorce": {
+            "__default": "Barkritter Bark"
+          },
+          "chiendent": {
+            "__default": "Warguerite Bark"
+          },
+          "champaknyde": {
+            "__default": "Mushnid Bark"
+          },
+          "brouce": {
+            "__default": "Broucey Bark"
+          },
+          "l": {
+            "'": {
+              "arbre": {
+                " ": {
+                  "hakam": {
+                    "__default": "Tree Keeholo Bark"
+                  }
+                }
+              },
+              "abraknyde": {
+                "__default": "Treechnid Bark"
+              }
+            }
+          }
+        }
+      },
+      "sombre": {
+        " ": {
+          "pétrifiée": {
+            "__default": "Dark Treechnid Dark Bark"
+          },
+          "sculptée": {
+            "__default": "Carved Dark Bark"
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "abrazif": {
+            "__default": "Treecherous Bark"
+          },
+          "abraknyde": {
+            " ": {
+              "vénérable": {
+                "__default": "Venerable Treechnid Bark"
+              }
+            }
+          },
+          "abrakne": {
+            " ": {
+              "sombre": {
+                "__default": "Dark Treechnee Bark"
+              }
+            }
+          }
+        }
+      },
+      "toxique": {
+        "__default": "Toxic Bark"
+      },
+      "centenaire": {
+        "__default": "Centenary Bark"
+      },
+      "enchantée": {
+        "__default": "Enchanted Bark"
+      },
+      "calcinée": {
+        "__default": "Charred Bark"
+      },
+      "noueuse": {
+        " ": {
+          "de": {
+            " ": {
+              "silvosse": {
+                "__default": "Silvosse's Gnarled Bark"
+              }
+            }
+          }
+        }
+      },
+      "putride": {
+        "__default": "Putrid Bark"
+      },
+      "détonante": {
+        "__default": "Explosive Bark"
+      },
+      "malsaine": {
+        "__default": "Nasty Bark"
+      },
+      "agressive": {
+        "__default": "Aggressive Bark"
+      },
+      "protectrice": {
+        "__default": "Protective Bark"
+      }
+    },
+    "__default": "Bark"
   },
   "sac": {
     " ": {
@@ -87770,7 +88404,7 @@
           "ankres": {
             " ": {
               "dimensionnelles": {
-                "__default": "Box of Dimensional Inchors"
+                "__default": "Box of Dimensional Ankors"
               }
             }
           }
@@ -88659,13 +89293,6 @@
             " ": {
               "vinaigrette": {
                 "__default": "Boowolf Muzzle Vinaigrette"
-              }
-            }
-          },
-          "rat": {
-            " ": {
-              "luisant": {
-                "__default": "Gleaming Rat Snout"
               }
             }
           },
@@ -90450,7 +91077,16 @@
     }
   },
   "clairvoyance": {
-    "__default": "Perceptiveness"
+    "__default": "Perceptiveness",
+    " ": {
+      "de": {
+        " ": {
+          "mériana": {
+            "__default": "Meriana's Clairvoyance"
+          }
+        }
+      }
+    }
   },
   "decret": {
     " ": {
@@ -91781,13 +92417,6 @@
           }
         }
       },
-      "perle": {
-        " ": {
-          "dorée": {
-            "__default": "Small Golden Pearl"
-          }
-        }
-      },
       "larve": {
         " ": {
           "dorée": {
@@ -92053,19 +92682,15 @@
               }
             }
           },
+          "tortue": {
+            "__default": "Turtle Milk"
+          },
           "dragodinde": {
-            "__default": "Dragoturkey Milk",
             " ": {
               "dorée": {
                 "__default": "Golden Dragoturkey Milk"
               }
             }
-          },
-          "tortue": {
-            "__default": "Turtle Milk"
-          },
-          "porsalu": {
-            "__default": "Pignolia Milk"
           },
           "bambou": {
             "__default": "Bamboo Milk"
@@ -92075,13 +92700,13 @@
       "doré": {
         "__default": "Golden Milk"
       },
+      "nourricier": {
+        "__default": "Nourishing Milk"
+      },
       "maternel": {
         "__default": "Mother's Milk"
       }
     }
-  },
-  "dragolait": {
-    "__default": "Dragomilk"
   },
   "scalp": {
     " ": {
@@ -93306,9 +93931,6 @@
                     "__default": "Cave Gobball Brain"
                   }
                 }
-              },
-              "noir": {
-                "__default": "Black Gobball Brain"
               }
             }
           },
@@ -93324,9 +93946,6 @@
                 "__default": "Domesticated Pingwobble Brain"
               }
             }
-          },
-          "courtilieur": {
-            "__default": "Drilla Brain"
           },
           "fleuro": {
             "__default": "Pyrotechnic Brockhard Brain"
@@ -93750,6 +94369,13 @@
                         "__default": "Trool Fair Headgear"
                       }
                     }
+                  }
+                }
+              },
+              "fontaine": {
+                " ": {
+                  "onirique": {
+                    "__default": "Dream Fountain Headgear"
                   }
                 }
               }
@@ -94412,17 +95038,6 @@
   "vegacape": {
     "__default": "Vegicape"
   },
-  "pommeau": {
-    " ": {
-      "d": {
-        "'": {
-          "epée": {
-            "__default": "Sword Pommel"
-          }
-        }
-      }
-    }
-  },
   "kolérat": {
     " ": {
       "mort": {
@@ -94494,9 +95109,6 @@
       },
       "du": {
         " ": {
-          "minotoror": {
-            "__default": "Minotoror Hoof"
-          },
           "minotot": {
             "__default": "Minotot Hoof"
           }
@@ -94509,6 +95121,39 @@
         "__default": "Scabrous Hoof"
       }
     }
+  },
+  "groin": {
+    " ": {
+      "de": {
+        " ": {
+          "sanglier": {
+            " ": {
+              "des": {
+                " ": {
+                  "plaines": {
+                    "__default": "Plain Boar Snout"
+                  }
+                }
+              }
+            }
+          },
+          "dragon": {
+            " ": {
+              "cochon": {
+                "__default": "Dragon Pig Snout"
+              }
+            }
+          },
+          "porkzebuth": {
+            "__default": "Pigzebub Snout"
+          },
+          "brutapir": {
+            "__default": "Brutapir Snout"
+          }
+        }
+      }
+    },
+    "__default": "Blah Blah Blah"
   },
   "mégacape": {
     "__default": "Megacape"
@@ -94617,56 +95262,6 @@
             "__default": "Leather Drive Belt"
           }
         }
-      }
-    }
-  },
-  "pollen": {
-    " ": {
-      "de": {
-        " ": {
-          "blopignon": {
-            "__default": "Blopshroom Pollen"
-          },
-          "bulbiflore": {
-            "__default": "Bulbiflor Pollen"
-          }
-        }
-      },
-      "aéré": {
-        " ": {
-          "de": {
-            " ": {
-              "germildiou": {
-                "__default": "Aerated Germildew Pollen"
-              }
-            }
-          }
-        },
-        "__default": "Aerated Pollen"
-      },
-      "brûlé": {
-        " ": {
-          "de": {
-            " ": {
-              "germildiou": {
-                "__default": "Burnt Germildew Pollen"
-              }
-            }
-          }
-        },
-        "__default": "Burnt Pollen"
-      },
-      "mouillé": {
-        " ": {
-          "de": {
-            " ": {
-              "germildiou": {
-                "__default": "Wet Germildew Pollen"
-              }
-            }
-          }
-        },
-        "__default": "Wet Pollen"
       }
     }
   },
@@ -101912,13 +102507,38 @@
               }
             },
             "__default": "Water Dial"
+          },
+          "henual": {
+            "__default": "Henual's Dial"
           }
         }
       },
       "du": {
         " ": {
+          "démon": {
+            " ": {
+              "iii": {
+                "__default": "Demon III Dial"
+              }
+            }
+          },
           "lapino": {
             "__default": "Coney Dial"
+          }
+        }
+      },
+      "diapré": {
+        " ": {
+          "du": {
+            " ": {
+              "démon": {
+                " ": {
+                  "iii": {
+                    "__default": "Many-Hued Demon III Dial"
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -102224,6 +102844,53 @@
       },
       "tanuki": {
         "__default": "Tanuki Pottery"
+      }
+    }
+  },
+  "pollen": {
+    " ": {
+      "de": {
+        " ": {
+          "bulbiflore": {
+            "__default": "Bulbiflor Pollen"
+          }
+        }
+      },
+      "aéré": {
+        " ": {
+          "de": {
+            " ": {
+              "germildiou": {
+                "__default": "Aerated Germildew Pollen"
+              }
+            }
+          }
+        },
+        "__default": "Aerated Pollen"
+      },
+      "brûlé": {
+        " ": {
+          "de": {
+            " ": {
+              "germildiou": {
+                "__default": "Burnt Germildew Pollen"
+              }
+            }
+          }
+        },
+        "__default": "Burnt Pollen"
+      },
+      "mouillé": {
+        " ": {
+          "de": {
+            " ": {
+              "germildiou": {
+                "__default": "Wet Germildew Pollen"
+              }
+            }
+          }
+        },
+        "__default": "Wet Pollen"
       }
     }
   },
@@ -102631,15 +103298,22 @@
       "chocolaté": {
         "__default": "Chocolate Fur"
       },
-      "empoisonné": {
-        "__default": "Poisoned Fur"
-      },
       "de": {
         " ": {
+          "la": {
+            " ": {
+              "déchireuse": {
+                "__default": "The Ripper's Hair"
+              }
+            }
+          },
           "glace": {
             "__default": "Icy Pelt"
           }
         }
+      },
+      "empoisonné": {
+        "__default": "Poisoned Fur"
       },
       "hivernal": {
         "__default": "Winter Coat"
@@ -103157,6 +103831,9 @@
       },
       "aiguisé": {
         "__default": "Sharp Plastron"
+      },
+      "huppermage": {
+        "__default": "Huppermage Breastplate"
       },
       "du": {
         " ": {
@@ -105031,13 +105708,6 @@
                 "__default": "Koalak Mummy Ulna"
               }
             }
-          },
-          "rat": {
-            " ": {
-              "noir": {
-                "__default": "Black Rat Ulna"
-              }
-            }
           }
         }
       },
@@ -105184,31 +105854,6 @@
   },
   "amuloumulette": {
     "__default": "Boowolfulet"
-  },
-  "mojo": {
-    " ": {
-      "du": {
-        " ": {
-          "meulou": {
-            "__default": "Moowolf Mojo"
-          }
-        }
-      },
-      "de": {
-        " ": {
-          "mergranlou": {
-            "__default": "Boogranny Mojo"
-          }
-        }
-      },
-      "d": {
-        "'": {
-          "haku": {
-            "__default": "Haku's Mojo"
-          }
-        }
-      }
-    }
   },
   "craquanneau": {
     " ": {
@@ -105736,6 +106381,24 @@
       }
     }
   },
+  "mojo": {
+    " ": {
+      "de": {
+        " ": {
+          "mergranlou": {
+            "__default": "Boogranny Mojo"
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "haku": {
+            "__default": "Haku's Mojo"
+          }
+        }
+      }
+    }
+  },
   "koinkoin": {
     " ": {
       "de": {
@@ -106132,6 +106795,9 @@
     " ": {
       "pandawa": {
         "__default": "Pandawa Cub"
+      },
+      "ogrest": {
+        "__default": "Baby Ogrest"
       },
       "gargantûl": {
         "__default": "Baby Gargantula"
@@ -107184,13 +107850,6 @@
             "__default": "Barkritter Calyx"
           }
         }
-      },
-      "du": {
-        " ": {
-          "tynril": {
-            "__default": "Tynril Calyx"
-          }
-        }
       }
     }
   },
@@ -107326,27 +107985,6 @@
       }
     },
     "__default": "Padding"
-  },
-  "perruque": {
-    " ": {
-      "du": {
-        " ": {
-          "kimbo": {
-            "__default": "Kimbo Wig"
-          },
-          "poolay": {
-            "__default": "Cheeken Wig"
-          }
-        }
-      },
-      "de": {
-        " ": {
-          "iop": {
-            "__default": "Iop Wig"
-          }
-        }
-      }
-    }
   },
   "noeud": {
     " ": {
@@ -107583,6 +108221,24 @@
     " ": {
       "géant": {
         "__default": "Giant Snailmet"
+      }
+    }
+  },
+  "perruque": {
+    " ": {
+      "du": {
+        " ": {
+          "poolay": {
+            "__default": "Cheeken Wig"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "iop": {
+            "__default": "Iop Wig"
+          }
+        }
       }
     }
   },
@@ -110146,12 +110802,9 @@
           "la": {
             " ": {
               "tromperelle": {
-                "__default": "Trumperelle Trunk"
+                "__default": "Trumperelle Trumpet"
               }
             }
-          },
-          "minoskito": {
-            "__default": "Minoskito Proboscis"
           }
         }
       }
@@ -115212,15 +115865,6 @@
     " ": {
       "fron": {
         "__default": "Clark Petunia"
-      },
-      "mineure": {
-        "__default": "Minor Petunia"
-      },
-      "majeure": {
-        "__default": "Major Petunia"
-      },
-      "magistrale": {
-        "__default": "Great Petunia"
       }
     },
     "__default": "Petunia"
@@ -115238,9 +115882,6 @@
         " ": {
           "royalmouth": {
             "__default": "Royal Mastogob Wig"
-          },
-          "sapeur": {
-            "__default": "Asploda Wig"
           }
         }
       },
@@ -115526,6 +116167,9 @@
             "__default": "Icy Patch"
           }
         }
+      },
+      "isolante": {
+        "__default": "Insulation Panel"
       }
     }
   },
@@ -116448,28 +117092,6 @@
         " ": {
           "marôdeur": {
             "__default": "Stabba Fibula"
-          }
-        }
-      }
-    }
-  },
-  "radius": {
-    " ": {
-      "d": {
-        "'": {
-          "ouilleur": {
-            "__default": "Grabba Radius"
-          }
-        }
-      }
-    }
-  },
-  "delko": {
-    " ": {
-      "du": {
-        " ": {
-          "perkü": {
-            "__default": "Bomma Distributa"
           }
         }
       }
@@ -118327,6 +118949,9 @@
       },
       "placement": {
         "__default": "Super Placement"
+      },
+      "sinj": {
+        "__default": "Super Munkee"
       }
     }
   },
@@ -118861,6 +119486,9 @@
       },
       "maléchant": {
         "__default": "Mappetising Trap"
+      },
+      "farceur": {
+        "__default": "Mischievous Trap"
       }
     },
     "__default": "Trap"
@@ -119417,6 +120045,13 @@
       },
       "démoniaque": {
         "__default": "Demonic Arm"
+      },
+      "de": {
+        " ": {
+          "morphée": {
+            "__default": "Arms of Morpheus"
+          }
+        }
       }
     }
   },
@@ -120698,6 +121333,34 @@
       }
     }
   },
+  "antennes": {
+    " ": {
+      "du": {
+        " ": {
+          "cafard": {
+            " ": {
+              "fadet": {
+                "__default": "Roachelf's Antennae"
+              }
+            }
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "vilinsekt": {
+            "__default": "Vilinsekt Antennae"
+          },
+          "kabombz": {
+            "__default": "Kabombz Antennae"
+          }
+        }
+      },
+      "foudroyantes": {
+        "__default": "Furious Feelers"
+      }
+    }
+  },
   "râtelier": {
     " ": {
       "d": {
@@ -120825,6 +121488,9 @@
                     "__default": "Little Moushu Shield"
                   }
                 }
+              },
+              "discorde": {
+                "__default": "Shield O'Discord"
               }
             }
           },
@@ -124210,6 +124876,13 @@
       },
       "métallique": {
         "__default": "Metal Crop"
+      },
+      "d": {
+        "'": {
+          "osamodas": {
+            "__default": "Osamodas's Lash"
+          }
+        }
       }
     },
     "__default": "Crop"
@@ -125556,6 +126229,9 @@
         "'": {
           "aléha": {
             "__default": "Rysck's Dice"
+          },
+          "ecaflip": {
+            "__default": "Ecaflip's Dice"
           }
         }
       },
@@ -126080,9 +126756,6 @@
   },
   "ninjache": {
     "__default": "Ninjaxe"
-  },
-  "ailocape": {
-    "__default": "Dominairmees"
   },
   "ailoclier": {
     "__default": "Airmarmour"
@@ -126761,18 +127434,24 @@
       "oublié": {
         "__default": "Forgotten Reflection"
       },
-      "onirique": {
-        "__default": "Dream Reflection"
-      },
-      "infini": {
-        "__default": "Infinite Reflection"
-      },
       "d": {
         "'": {
+          "antan": {
+            "__default": "Yesteryear Reflection"
+          },
           "imagirorukam": {
             "__default": "Imagirorukam's Reflection"
           }
         }
+      },
+      "infini": {
+        "__default": "Infinite Reflection"
+      },
+      "onirique": {
+        "__default": "Dream Reflection"
+      },
+      "aveuglant": {
+        "__default": "Blinding Reflection"
       }
     },
     "__default": "Reflection"
@@ -127486,6 +128165,17 @@
               },
               "gein": {
                 "__default": "Unstable Gein Eidolon"
+              }
+            }
+          }
+        }
+      },
+      "résiduel": {
+        " ": {
+          "de": {
+            " ": {
+              "mirgrillon": {
+                "__default": "Residual Crooket Eidolon"
               }
             }
           }
@@ -128614,7 +129304,12 @@
       "de": {
         " ": {
           "protozorreur": {
-            "__default": "Protoz'orror Nucleus"
+            "__default": "Protoz'orror Nucleus",
+            " ": {
+              "boursoufflé": {
+                "__default": "Swollen Protoz'orror Nucleus"
+              }
+            }
           }
         }
       }
@@ -130377,19 +131072,6 @@
       }
     }
   },
-  "dynamo": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Dynamo"
-      },
-      "majeure": {
-        "__default": "Major Dynamo"
-      },
-      "magistrale": {
-        "__default": "Great Dynamo"
-      }
-    }
-  },
   "article": {
     " ": {
       "du": {
@@ -130642,19 +131324,6 @@
             }
           }
         }
-      }
-    }
-  },
-  "nyoro": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Nyoro"
-      },
-      "majeure": {
-        "__default": "Major Nyoro"
-      },
-      "magistrale": {
-        "__default": "Great Nyoro"
       }
     }
   },
@@ -131701,109 +132370,6 @@
       }
     }
   },
-  "butor": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Oaf"
-      },
-      "majeure": {
-        "__default": "Major Oaf"
-      },
-      "magistrale": {
-        "__default": "Great Oaf"
-      }
-    },
-    "__default": "Oaf"
-  },
-  "horize": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Horiz"
-      },
-      "majeure": {
-        "__default": "Major Horiz"
-      },
-      "magistrale": {
-        "__default": "Great Horiz"
-      }
-    },
-    "__default": "Horiz"
-  },
-  "bihilète": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Behelit"
-      },
-      "majeure": {
-        "__default": "Major Behelit"
-      },
-      "magistrale": {
-        "__default": "Great Behelit"
-      }
-    },
-    "__default": "Behelit"
-  },
-  "dagob": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Dagob"
-      },
-      "majeure": {
-        "__default": "Major Dagob"
-      },
-      "magistrale": {
-        "__default": "Great Dagob"
-      }
-    }
-  },
-  "sak": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Sak"
-      },
-      "majeure": {
-        "__default": "Major Sak"
-      },
-      "magistrale": {
-        "__default": "Great Sak"
-      }
-    }
-  },
-  "nékinéko": {
-    "__default": "Nekineko"
-  },
-  "pénitent": {
-    "__default": "Penitent"
-  },
-  "boble": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Boble"
-      },
-      "majeure": {
-        "__default": "Major Boble"
-      },
-      "magistrale": {
-        "__default": "Great Boble"
-      }
-    }
-  },
-  "leukide": {
-    "__default": "Dakid"
-  },
-  "zaihn": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Zaihn"
-      },
-      "majeure": {
-        "__default": "Major Zaihn"
-      },
-      "magistrale": {
-        "__default": "Great Zaihn"
-      }
-    }
-  },
   "globe": {
     " ": {
       "mystique": {
@@ -131867,116 +132433,6 @@
             }
           }
         }
-      }
-    }
-  },
-  "hulhu": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Hulhu"
-      },
-      "majeure": {
-        "__default": "Major Hulhu"
-      },
-      "magistrale": {
-        "__default": "Great Hulhu"
-      }
-    }
-  },
-  "yoche": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Yosh"
-      },
-      "majeure": {
-        "__default": "Major Yosh"
-      },
-      "magistrale": {
-        "__default": "Great Yosh"
-      }
-    },
-    "__default": "Yosh"
-  },
-  "kyoub": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Kyoub"
-      },
-      "majeure": {
-        "__default": "Major Kyoub"
-      },
-      "magistrale": {
-        "__default": "Great Kyoub"
-      }
-    }
-  },
-  "cafra": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Rocha"
-      },
-      "majeure": {
-        "__default": "Major Rocha"
-      },
-      "magistrale": {
-        "__default": "Great Rocha"
-      }
-    },
-    "__default": "Rocha"
-  },
-  "vaude": {
-    "__default": "Vood"
-  },
-  "teleb": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Teleb"
-      },
-      "majeure": {
-        "__default": "Major Teleb"
-      },
-      "magistrale": {
-        "__default": "Great Teleb"
-      }
-    }
-  },
-  "pého": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Payo"
-      },
-      "majeure": {
-        "__default": "Major Payo"
-      },
-      "magistrale": {
-        "__default": "Great Payo"
-      }
-    },
-    "__default": "Payo"
-  },
-  "domo": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Domo"
-      },
-      "majeure": {
-        "__default": "Major Domo"
-      },
-      "magistrale": {
-        "__default": "Great Domo"
-      }
-    }
-  },
-  "pikmi": {
-    " ": {
-      "mineure": {
-        "__default": "Minor Pikmi"
-      },
-      "majeure": {
-        "__default": "Major Pikmi"
-      },
-      "magistrale": {
-        "__default": "Great Pikmi"
       }
     }
   },
@@ -134881,6 +135337,9 @@
           },
           "brindilles": {
             "__default": "Pile of Twigs"
+          },
+          "limaille": {
+            "__default": "Pile of Filings"
           }
         }
       }
@@ -135303,6 +135762,9 @@
           },
           "corbacille": {
             "__default": "Crobacillus Costume"
+          },
+          "rêveur": {
+            "__default": "Dreamer Costume"
           }
         }
       },
@@ -135353,6 +135815,12 @@
       },
       "gargandyesque": {
         "__default": "Gargandyuan Costume"
+      },
+      "paradoxal": {
+        "__default": "Paradoxical Costume"
+      },
+      "cauchemardesque": {
+        "__default": "Nightmarish Costume"
       }
     }
   },
@@ -136541,6 +137009,9 @@
       },
       "calendaire": {
         "__default": "Calendar Aegis"
+      },
+      "féca": {
+        "__default": "Feca's Aegis"
       }
     },
     "__default": "Aegis"
@@ -137574,6 +138045,45 @@
   "krièk": {
     "__default": "Kriek"
   },
+  "fruit": {
+    " ": {
+      "rouge": {
+        "__default": "Red Fruit"
+      },
+      "pourri": {
+        "__default": "Rotten Fruit"
+      },
+      "de": {
+        " ": {
+          "l": {
+            "'": {
+              "arbre": {
+                " ": {
+                  "goroku": {
+                    "__default": "Goroku Tree Fruit"
+                  }
+                }
+              }
+            }
+          },
+          "la": {
+            " ": {
+              "passion": {
+                "__default": "Fruit of Passion"
+              }
+            }
+          }
+        }
+      },
+      "du": {
+        " ": {
+          "sacrifice": {
+            "__default": "Sacrificial Fruit"
+          }
+        }
+      }
+    }
+  },
   "kokolor": {
     "__default": "Snailtri"
   },
@@ -137647,16 +138157,31 @@
     }
   },
   "martoa": {
-    "__default": "Hameres"
+    "__default": "Hameres",
+    " ": {
+      "collant": {
+        "__default": "Sticky Hameres"
+      }
+    }
   },
   "sherpoa": {
     "__default": "Sherpere"
   },
   "douzdoa": {
-    "__default": "Twelve Fingeres"
+    "__default": "Twelve Fingeres",
+    " ": {
+      "collant": {
+        "__default": "Sticky Twelve Fingeres"
+      }
+    }
   },
   "pikdoa": {
-    "__default": "Spadere"
+    "__default": "Spadere",
+    " ": {
+      "collant": {
+        "__default": "Sticky Spadere"
+      }
+    }
   },
   "dessin": {
     " ": {
@@ -137964,6 +138489,13 @@
       },
       "fantômatique": {
         "__default": "Ghostly Bravery"
+      },
+      "d": {
+        "'": {
+          "iop": {
+            "__default": "Iop's Valour"
+          }
+        }
       }
     },
     "__default": "Valour"
@@ -140550,6 +141082,25 @@
           }
         }
       },
+      "2037": {
+        " ": {
+          "dernier": {
+            " ": {
+              "drop": {
+                " ": {
+                  "songes": {
+                    " ": {
+                      "infinis": {
+                        "__default": "Quest 2037 Last Drop Infinite Dreams"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
       "2086": {
         " ": {
           "objet": {
@@ -140567,6 +141118,25 @@
             " ": {
               "004": {
                 "__default": "Quest 2473 Item 004"
+              }
+            }
+          }
+        }
+      },
+      "2536": {
+        " ": {
+          "-": {
+            " ": {
+              "marqueur": {
+                " ": {
+                  "compteur": {
+                    " ": {
+                      "validation": {
+                        "__default": "Quest 2536 - Success Counter Marker"
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -141398,13 +141968,6 @@
       },
       "sacré": {
         "__default": "Sacred Well"
-      },
-      "des": {
-        " ": {
-          "songes": {
-            "__default": "Well of Dreams"
-          }
-        }
       }
     }
   },
@@ -142029,6 +142592,9 @@
             }
           }
         }
+      },
+      "songevantes": {
+        "__default": "Dreamalive Shoulder Pads"
       }
     }
   },
@@ -142057,6 +142623,9 @@
                 }
               }
             }
+          },
+          "forgelance": {
+            "__default": "Forgelance's Origin"
           }
         }
       }
@@ -142231,6 +142800,9 @@
       },
       "brumeuse": {
         "__default": "Misty Narkasseth"
+      },
+      "infinie": {
+        "__default": "Infinite Narkasseth"
       }
     }
   },
@@ -142319,46 +142891,93 @@
   },
   "surpryz": {
     " ": {
-      "brillante": {
-        "__default": "Shiny Surpryz"
+      "d": {
+        "'": {
+          "antan": {
+            "__default": "Surpryz of Yesteryear"
+          }
+        }
       },
-      "iridescente": {
-        "__default": "Iridescent Surpryz"
+      "brillante": {
+        " ": {
+          "d": {
+            "'": {
+              "antan": {
+                "__default": "Shiny Surpryz of Yesteryear"
+              }
+            }
+          }
+        }
       }
     }
   },
   "aprykou": {
-    "__default": "Pryndsight",
     " ": {
       "brillante": {
-        "__default": "Shiny Pryndsight"
+        " ": {
+          "d": {
+            "'": {
+              "antan": {
+                "__default": "Shiny Pryndsight of Yesteryear"
+              }
+            }
+          }
+        }
       },
-      "iridescente": {
-        "__default": "Iridescent Pryndsight"
+      "d": {
+        "'": {
+          "antan": {
+            "__default": "Pryndsight of Yesteryear"
+          }
+        }
       }
     }
   },
   "ratrapry": {
-    "__default": "Prycapture",
     " ": {
-      "brillante": {
-        "__default": "Shiny Prycapture"
+      "d": {
+        "'": {
+          "antan": {
+            "__default": "Prycapture of Yesteryear"
+          }
+        }
       },
-      "iridescente": {
-        "__default": "Iridescent Prycapture"
+      "brillante": {
+        " ": {
+          "d": {
+            "'": {
+              "antan": {
+                "__default": "Shiny Prycapture of Yesteryear"
+              }
+            }
+          }
+        }
       }
-    }
+    },
+    "__default": "Prycapture"
   },
   "prygen": {
-    "__default": "Prygenerate",
     " ": {
-      "brillante": {
-        "__default": "Shiny Prygenerate"
+      "d": {
+        "'": {
+          "antan": {
+            "__default": "Prygenerate of Yesteryear"
+          }
+        }
       },
-      "iridescente": {
-        "__default": "Iridescent Prygenerate"
+      "brillante": {
+        " ": {
+          "d": {
+            "'": {
+              "antan": {
+                "__default": "Shiny Prygenerate of Yesteryear"
+              }
+            }
+          }
+        }
       }
-    }
+    },
+    "__default": "Prygenerate"
   },
   "prycipithon": {
     "__default": "Prysipitate",
@@ -142378,13 +142997,24 @@
     "__default": "Prysical"
   },
   "telprys": {
-    "__default": "Pryank",
     " ": {
-      "brillante": {
-        "__default": "Shiny Pryank"
+      "d": {
+        "'": {
+          "antan": {
+            "__default": "Pryank of Yesteryear"
+          }
+        }
       },
-      "iridescente": {
-        "__default": "Iridescent Pryank"
+      "brillante": {
+        " ": {
+          "d": {
+            "'": {
+              "antan": {
+                "__default": "Shiny Pryank of Yesteryear"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -142728,6 +143358,17 @@
           },
           "corruption": {
             "__default": "Corruption's Ornament"
+          },
+          "la": {
+            " ": {
+              "fontaine": {
+                " ": {
+                  "onirique": {
+                    "__default": "Dream Fountain Ornament"
+                  }
+                }
+              }
+            }
           }
         }
       },
@@ -142798,9 +143439,6 @@
   },
   "mazaithe": {
     "__default": "Mazetti"
-  },
-  "mérydique": {
-    "__default": "Meridiawful"
   },
   "dorulf": {
     "__default": "Dorulphe"
@@ -142965,6 +143603,17 @@
         " ": {
           "sauce": {
             "__default": "Toss the Sauce"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "l": {
+            "'": {
+              "huppermage": {
+                "__default": "Huppermage's Scales"
+              }
+            }
           }
         }
       }
@@ -143727,6 +144376,9 @@
       },
       "malsaine": {
         "__default": "Unhealthy Mist"
+      },
+      "onirique": {
+        "__default": "Dreamy Fog"
       }
     },
     "__default": "Mist"
@@ -144228,6 +144880,13 @@
         "'": {
           "airain": {
             "__default": "Brass Rain"
+          },
+          "étoiles": {
+            " ": {
+              "filantes": {
+                "__default": "Rain of Shooting Stars"
+              }
+            }
           }
         }
       },
@@ -145179,9 +145838,6 @@
             "__default": "Venerable One's Awakening"
           }
         }
-      },
-      "vénérable": {
-        "__default": "Venerable Awakening"
       }
     }
   },
@@ -146340,6 +146996,9 @@
         " ": {
           "harebourg": {
             "__default": "Harebourg Attire"
+          },
+          "zi": {
+            "__default": "Zi Attire"
           }
         }
       }
@@ -146991,6 +147650,13 @@
                 "__default": "Hecate's Secret Love"
               }
             }
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "helséphine": {
+            "__default": "Helsephine's Love"
           }
         }
       },
@@ -150630,6 +151296,9 @@
       }
     }
   },
+  "nékinéko": {
+    "__default": "Nekineko"
+  },
   "graingalet": {
     "__default": "Peebles"
   },
@@ -153280,6 +153949,9 @@
           }
         }
       },
+      "songevante": {
+        "__default": "Dreamalive Set"
+      },
       "gelax": {
         "__default": "Jellix Set"
       },
@@ -153727,6 +154399,9 @@
                       },
                       "ii": {
                         "__default": "Demon II Ceremonial Set"
+                      },
+                      "iii": {
+                        "__default": "Demon III Ceremonial Set"
                       }
                     }
                   },
@@ -153869,6 +154544,13 @@
                         " ": {
                           "merveilleuse": {
                             "__default": "Marvellous Woman Ceremonial Set"
+                          }
+                        }
+                      },
+                      "fontaine": {
+                        " ": {
+                          "onirique": {
+                            "__default": "Dream Fountain Ceremonial Set"
                           }
                         }
                       }
@@ -154354,6 +155036,13 @@
                     " ": {
                       "lary": {
                         "__default": "Lary Masters Ceremonial Set"
+                      }
+                    }
+                  },
+                  "bétas": {
+                    " ": {
+                      "testeurs": {
+                        "__default": "Beta Tester Ceremonial Set"
                       }
                     }
                   }
@@ -154900,6 +155589,9 @@
                           },
                           "ii": {
                             "__default": "Many-Hued Demon II Ceremonial Set"
+                          },
+                          "iii": {
+                            "__default": "Many-Hued Demon III Ceremonial Set"
                           }
                         }
                       }
@@ -154912,6 +155604,9 @@
               },
               "gargandyesque": {
                 "__default": "Gargandyuan Ceremonial Set"
+              },
+              "songevante": {
+                "__default": "Dreamalive Ceremonial Set"
               }
             }
           },
@@ -155597,6 +156292,13 @@
         " ": {
           "royalmouth": {
             "__default": "Royal Mastogob Ram"
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "gargandyas": {
+            "__default": "Gargandyas's Ram"
           }
         }
       },
@@ -156376,6 +157078,13 @@
       }
     }
   },
+  "lymphe": {
+    " ": {
+      "régénérante": {
+        "__default": "Regenerating Lymph"
+      }
+    }
+  },
   "réducteur": {
     " ": {
       "dimensionnel": {
@@ -156383,6 +157092,17 @@
         " ": {
           "automatique": {
             "__default": "Automatic Dimensional Reducer"
+          }
+        }
+      }
+    }
+  },
+  "télékamètre": {
+    " ": {
+      "de": {
+        " ": {
+          "terrain": {
+            "__default": "Field Telekameter"
           }
         }
       }
@@ -156773,7 +157493,8 @@
       "délock": {
         "__default": "Unlock Mount"
       }
-    }
+    },
+    "__default": "Mounts"
   },
   "grocha": {
     " ": {
@@ -156861,6 +157582,296 @@
   },
   "parer": {
     "__default": "Parry"
+  },
+  "pilules": {
+    " ": {
+      "bleues": {
+        "__default": "Blue Pills"
+      }
+    }
+  },
+  "commandes": {
+    " ": {
+      "de": {
+        " ": {
+          "juinssidor": {
+            " ": {
+              "des": {
+                " ": {
+                  "voyageurs": {
+                    "__default": "Voyagers' Junssidor Orders"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "balebz": {
+    "__default": "Bzzulky",
+    " ": {
+      "perturbé": {
+        "__default": "Upset Bzzulky"
+      },
+      "solitaire": {
+        "__default": "Lone Bzzulky"
+      },
+      "protecteur": {
+        "__default": "Protective Bzzulky"
+      }
+    }
+  },
+  "toubibz": {
+    "__default": "Bzzoctor",
+    " ": {
+      "perturbé": {
+        "__default": "Upset Bzzoctor"
+      },
+      "solitaire": {
+        "__default": "Lone Bzzoctor"
+      },
+      "protecteur": {
+        "__default": "Protective Bzzoctor"
+      },
+      "attentif": {
+        "__default": "Attentive Bzzoctor"
+      },
+      "perspicace": {
+        "__default": "Perceptive Bzzoctor"
+      }
+    }
+  },
+  "supprys": {
+    "__default": "Aspryst"
+  },
+  "limaille": {
+    " ": {
+      "collante": {
+        "__default": "Sticky Filings"
+      }
+    }
+  },
+  "attributs": {
+    " ": {
+      "osamodas": {
+        "__default": "Osamodas Attributes"
+      },
+      "de": {
+        " ": {
+          "crocoburio": {
+            " ": {
+              "(": {
+                "déclencheur": {
+                  ")": {
+                    "__default": "Crocoburio's Attributes (trigger)"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "manches": {
+    " ": {
+      "xélor": {
+        "__default": "Xelor Sleeves"
+      }
+    }
+  },
+  "ardeur": {
+    " ": {
+      "d": {
+        "'": {
+          "oto": {
+            " ": {
+              "mustam": {
+                "__default": "Oto Mustam's Ardour"
+              }
+            }
+          }
+        }
+      },
+      "estivale": {
+        "__default": "Summery Ardour"
+      },
+      "déclenché": {
+        "__default": "Ardour Triggered"
+      },
+      "de": {
+        " ": {
+          "la": {
+            " ": {
+              "cité": {
+                " ": {
+                  "sombre": {
+                    "__default": "Ardour of the Dark City"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "__default": "Ardour"
+  },
+  "ponctualité": {
+    " ": {
+      "d": {
+        "'": {
+          "henual": {
+            "__default": "Henual's Punctuality"
+          }
+        }
+      }
+    }
+  },
+  "tournoton": {
+    " ": {
+      "monstrueux": {
+        "__default": "Monstrous Tournoken"
+      },
+      "guerrier": {
+        "__default": "Warrior Tournoken"
+      }
+    }
+  },
+  "faveur": {
+    " ": {
+      "onirique": {
+        "__default": "Dream Favour"
+      }
+    }
+  },
+  "brandade": {
+    " ": {
+      "stimulante": {
+        "__default": "Stimulating Brandade"
+      },
+      "énergisante": {
+        "__default": "Energising Brandade"
+      },
+      "exaltante": {
+        "__default": "Exhilarating Brandade"
+      },
+      "fatigante": {
+        "__default": "Tiring Brandade"
+      },
+      "éreintante": {
+        "__default": "Exhausting Brandade"
+      },
+      "épuisante": {
+        "__default": "Draining Brandade"
+      }
+    }
+  },
+  "narkoffret": {
+    " ": {
+      "infini": {
+        "__default": "Infinite Narkofret"
+      }
+    }
+  },
+  "panards": {
+    " ": {
+      "du": {
+        " ": {
+          "démon": {
+            " ": {
+              "iii": {
+                "__default": "Demon III Feet"
+              }
+            }
+          }
+        }
+      },
+      "diaprés": {
+        " ": {
+          "du": {
+            " ": {
+              "démon": {
+                " ": {
+                  "iii": {
+                    "__default": "Many-Hued Demon III Feet"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ferveur": {
+    " ": {
+      "d": {
+        "'": {
+          "amayiro": {
+            "__default": "Amayiro's Fervour"
+          },
+          "onibi": {
+            "__default": "Onibi Fervour"
+          }
+        }
+      },
+      "pandissidante": {
+        "__default": "Pandissident Fervour"
+      },
+      "de": {
+        " ": {
+          "la": {
+            " ": {
+              "cité": {
+                " ": {
+                  "blanche": {
+                    "__default": "Fervour of the White City"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "__default": "Fervour"
+  },
+  "indeprys": {
+    "__default": "Unmovaprys"
+  },
+  "pâle": {
+    " ": {
+      "adin": {
+        "__default": "Pallor Din"
+      }
+    }
+  },
+  "sith": {
+    " ": {
+      "adin": {
+        "__default": "Sithy Dweller"
+      }
+    }
+  },
+  "néfarion": {
+    "__default": "Nefarion"
+  },
+  "familiers": {
+    " ": {
+      "songevants": {
+        "__default": "Dreamalive Pets"
+      }
+    }
+  },
+  "montiliers": {
+    " ": {
+      "songevants": {
+        "__default": "Dreamalive Petsmounts"
+      }
+    }
   },
   "bûcheron": {
     "__default": "Lumberjack",
@@ -158292,6 +159303,9 @@
       },
       "explosif": {
         "__default": "Exploding Spimush"
+      },
+      "songeur": {
+        "__default": "Dreamy Spimush"
       },
       "champsoin": {
         "__default": "Musheal Musha"
@@ -163594,7 +164608,12 @@
     "__default": "Torpid Bearbarian"
   },
   "gloursaya": {
-    "__default": "Vespal Bearbarian"
+    "__default": "Vespal Bearbarian",
+    " ": {
+      "énervé": {
+        "__default": "Irritated Vespal Bearbarian"
+      }
+    }
   },
   "crapeur": {
     "__default": "Steam Crackler"
@@ -166533,6 +167552,23 @@
           }
         }
       }
+    },
+    "-": {
+      "sylvestre": {
+        " ": {
+          "[": {
+            "hell": {
+              " ": {
+                "mina": {
+                  "]": {
+                    "__default": "Infiniteaz [Hell Mina]"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "gein": {
@@ -166936,7 +167972,12 @@
     }
   },
   "comtoise": {
-    "__default": "Ticker"
+    "__default": "Ticker",
+    " ": {
+      "onirique": {
+        "__default": "Dream Ticker"
+      }
+    }
   },
   "phonceur": {
     "__default": "Dhrhusher"
@@ -169696,6 +170737,17 @@
       },
       "explosive": {
         "__default": "Explosive Wave"
+      },
+      "destructrice": {
+        " ": {
+          "du": {
+            " ": {
+              "singe": {
+                "__default": "Monkey's Destructive Wave"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -171026,6 +172078,9 @@
         " ": {
           "mémoire": {
             "__default": "Memory Lapse"
+          },
+          "ver": {
+            "__default": "Wormhole"
           }
         }
       },
@@ -171035,6 +172090,12 @@
             "__default": "Swiss Cheese"
           }
         }
+      },
+      "blanc": {
+        "__default": "White Hole"
+      },
+      "noir": {
+        "__default": "Black Hole"
       }
     }
   },
@@ -173283,7 +174344,7 @@
   "ébourifauve": {
     "__default": "Touslecat",
     " ": {
-      "perturbé": {
+      "perturbée": {
         "__default": "Upset Touslecat"
       },
       "intérieure": {
@@ -173379,7 +174440,7 @@
   "vénérable": {
     " ": {
       "endormi": {
-        "__default": "Sleeping Master",
+        "__default": "Sleeping Venerable One",
         " ": {
           "perturbé": {
             "__default": "Upset Sleeping Venerable One"
@@ -173388,40 +174449,6 @@
       },
       "somnolent": {
         "__default": "Drowsy Venerable One"
-      }
-    }
-  },
-  "balebz": {
-    "__default": "Bzzulky",
-    " ": {
-      "perturbé": {
-        "__default": "Upset Bzzulky"
-      },
-      "solitaire": {
-        "__default": "Lone Bzzulky"
-      },
-      "protecteur": {
-        "__default": "Protective Bzzulky"
-      }
-    }
-  },
-  "toubibz": {
-    "__default": "Bzzoctor",
-    " ": {
-      "perturbé": {
-        "__default": "Upset Bzzoctor"
-      },
-      "solitaire": {
-        "__default": "Lone Bzzoctor"
-      },
-      "protecteur": {
-        "__default": "Protective Bzzoctor"
-      },
-      "attentif": {
-        "__default": "Attentive Bzzoctor"
-      },
-      "perspicace": {
-        "__default": "Perceptive Bzzoctor"
       }
     }
   },
@@ -173710,6 +174737,63 @@
         "__default": "Kabombz Analyst"
       }
     }
+  },
+  "récolteur": {
+    " ": {
+      "déviant": {
+        "__default": "Deviant Harvester"
+      },
+      "frigostien": {
+        "__default": "Frigostian Harvester"
+      },
+      "kabombz": {
+        "__default": "Kabombz Harvester"
+      }
+    }
+  },
+  "bribes": {
+    " ": {
+      "de": {
+        " ": {
+          "gardien": {
+            "__default": "Keeper Fragments"
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "aventurier": {
+            "__default": "Adventurer Fragments"
+          }
+        }
+      }
+    }
+  },
+  "traumatisme": {
+    " ": {
+      "roublard": {
+        "__default": "Rogue Trauma"
+      },
+      "féca": {
+        "__default": "Feca Trauma"
+      }
+    },
+    "__default": "Trauma"
+  },
+  "sinj": {
+    "__default": "Munkee",
+    " ": {
+      "&": {
+        " ": {
+          "sonj": {
+            "__default": "Munkee & Dreem"
+          }
+        }
+      }
+    }
+  },
+  "sonj": {
+    "__default": "Dreem"
   },
   "gang": {
     " ": {
@@ -174527,28 +175611,6 @@
       }
     }
   },
-  "trois": {
-    "-": {
-      "fleurs": {
-        "__default": "Three-Flower"
-      }
-    },
-    " ": {
-      "coeurs": {
-        ",": {
-          " ": {
-            "un": {
-              " ": {
-                "roi": {
-                  "__default": "Three Hearts, One King"
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
   "essiac": {
     " ": {
       "d": {
@@ -174998,6 +176060,13 @@
         " ": {
           "patre": {
             "__default": "Liam Nesswiltee"
+          }
+        }
+      },
+      "michel": {
+        " ": {
+          "karlé": {
+            "__default": "David Hambeck"
           }
         }
       }
@@ -178011,6 +179080,9 @@
     " ": {
       "celeux": {
         "__default": "Miller Solo"
+      },
+      "landro": {
+        "__default": "Barry Viesda"
       }
     }
   },
@@ -180594,16 +181666,6 @@
   "bharik": {
     "__default": "Bharil"
   },
-  "récolteur": {
-    " ": {
-      "frigostien": {
-        "__default": "Frigostian Harvester"
-      },
-      "kabombz": {
-        "__default": "Kabombz Harvester"
-      }
-    }
-  },
   "émile": {
     " ": {
       "kah": {
@@ -181389,6 +182451,13 @@
         " ": {
           "sacrifiés": {
             "__default": "Stone of the Sacrificed"
+          }
+        }
+      },
+      "du": {
+        " ": {
+          "phénix": {
+            "__default": "Phoenix Rock"
           }
         }
       },
@@ -182942,6 +184011,292 @@
       }
     }
   },
+  "zazou": {
+    "-": {
+      "ivoire": {
+        " ": {
+          "[": {
+            "hell": {
+              " ": {
+                "mina": {
+                  "]": {
+                    "__default": "Ixdey [Hell Mina]"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "silenna": {
+    "-": {
+      "xx": {
+        " ": {
+          "[": {
+            "hell": {
+              " ": {
+                "mina": {
+                  "]": {
+                    "__default": "Annelis [Hell Mina]"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    " ": {
+      "[": {
+        "hell": {
+          " ": {
+            "mina": {
+              "]": {
+                "__default": "Awdee-ee [Hell Mina]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "-": {
+    "1": {
+      " ": {
+        "{": {
+          "{": {
+            "spell": {
+              ",": {
+                "23996": {
+                  ",": {
+                    "1": {
+                      ":": {
+                        ":": {
+                          "évolution": {
+                            "}": {
+                              "}": {
+                                "__default": "-1 {{spell,23996,1::Evolution}}"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "à": {
+          " ": {
+            "-": {
+              "2": {
+                " ": {
+                  "{": {
+                    "{": {
+                      "spell": {
+                        ",": {
+                          "23996": {
+                            ",": {
+                              "1": {
+                                ":": {
+                                  ":": {
+                                    "évolutions": {
+                                      "}": {
+                                        "}": {
+                                          "__default": "-1 to -2 {{spell,23996,1::Evolutions}}"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "100": {
+      " ": {
+        "pm": {
+          " ": {
+            "et": {
+              " ": {
+                "échange": {
+                  " ": {
+                    "de": {
+                      " ": {
+                        "position": {
+                          " ": {
+                            "avec": {
+                              " ": {
+                                "barbéryl": {
+                                  "__default": "-100 MP and switches places with Berylbell"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-": {
+      "-": {
+        "-": {
+          "-": {
+            "-": {
+              "-": {
+                "-": {
+                  "-": {
+                    "\n": {
+                      "-": {
+                        "-": {
+                          " ": {
+                            "[": {
+                              "tylezia": {
+                                "]": {
+                                  "__default": "Tamactih-Jun [Hell Mina]"
+                                }
+                              },
+                              "hell": {
+                                " ": {
+                                  "mina": {
+                                    "]": {
+                                      "__default": "Silenna [Hell Mina]"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    " ": {
+      "1": {
+        " ": {
+          "niveau": {
+            " ": {
+              "d": {
+                "'": {
+                  "évolution": {
+                    "__default": "-1 Evolution Level"
+                  }
+                }
+              }
+            }
+          },
+          "{": {
+            "{": {
+              "spell": {
+                ",": {
+                  "23988": {
+                    ",": {
+                      "1": {
+                        ":": {
+                          ":": {
+                            "rage": {
+                              "}": {
+                                "}": {
+                                  "__default": "-1 {{spell,23988,1::Rage}}"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "3": {
+        " ": {
+          "niveaux": {
+            " ": {
+              "d": {
+                "'": {
+                  "évolution": {
+                    "__default": "-3 Evolution Levels"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "lord": {
+    "-": {
+      "birusu": {
+        " ": {
+          "[": {
+            "orukam": {
+              "]": {
+                "__default": "Coeur-Agressant [Orukam]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rozma": {
+    " ": {
+      "[": {
+        "tylezia": {
+          "]": {
+            "__default": "Nouldager [Mikhal]"
+          }
+        }
+      }
+    }
+  },
+  "masterw": {
+    " ": {
+      "[": {
+        "hell": {
+          " ": {
+            "mina": {
+              "]": {
+                "__default": "Zioff [Tal Kasha]"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "livine": {
     " ": {
       "staune": {
@@ -183324,6 +184679,20 @@
         "__default": "Calm Lionodas"
       }
     }
+  },
+  "dispensateur": {
+    " ": {
+      "de": {
+        " ": {
+          "faveurs": {
+            "__default": "Favour Dispenser"
+          }
+        }
+      }
+    }
+  },
+  "gobastrale": {
+    "__default": "Goblastral"
   },
   "manuscrit": {
     " ": {
@@ -190416,6 +191785,13 @@
       }
     }
   },
+  "chants": {
+    " ": {
+      "pétrifiés": {
+        "__default": "Petrified Hoarse Heath"
+      }
+    }
+  },
   "souterrain": {
     " ": {
       "d": {
@@ -192858,6 +194234,13 @@
       },
       "brâkmarienne": {
         "__default": "Brakmarian Frenzy"
+      },
+      "d": {
+        "'": {
+          "ouginak": {
+            "__default": "Ouginak's Frenzy"
+          }
+        }
       }
     }
   },
@@ -194921,7 +196304,7 @@
         "__default": "Nadir Glyph"
       },
       "chronostase": {
-        "__default": "Chronostasis Glyph"
+        "__default": "Chronostase Glyph"
       },
       "radiations": {
         "__default": "Radiation Glyph"
@@ -196232,6 +197615,13 @@
       },
       "finaude": {
         "__default": "Sly Deviousness"
+      },
+      "de": {
+        " ": {
+          "sram": {
+            "__default": "Sram's Cunning"
+          }
+        }
       }
     },
     "__default": "Deviousness"
@@ -198065,9 +199455,6 @@
       }
     }
   },
-  "traumatisme": {
-    "__default": "Trauma"
-  },
   "kwakikri": {
     "__default": "Kwak Cry"
   },
@@ -198401,6 +199788,9 @@
             }
           }
         }
+      },
+      "simiesque": {
+        "__default": "Simian Capering"
       }
     },
     "__default": "Capering"
@@ -200628,6 +202018,13 @@
     " ": {
       "sylvestre": {
         "__default": "Sylvan Manipulation"
+      },
+      "des": {
+        " ": {
+          "ombres": {
+            "__default": "Shadow Manipulation"
+          }
+        }
       }
     }
   },
@@ -201539,6 +202936,13 @@
     " ": {
       "explosive": {
         "__default": "Dirty Explosive Trick"
+      },
+      "du": {
+        " ": {
+          "roublard": {
+            "__default": "Rogue's Trickery"
+          }
+        }
       }
     },
     "__default": "Dirty Trick"
@@ -201650,17 +203054,6 @@
       },
       "bontarien": {
         "__default": "Bontarian Extrication"
-      }
-    }
-  },
-  "ardeur": {
-    "__default": "Ardour",
-    " ": {
-      "estivale": {
-        "__default": "Summery Ardour"
-      },
-      "déclenché": {
-        "__default": "Ardour Triggered"
       }
     }
   },
@@ -202191,7 +203584,8 @@
       "pandala": {
         "__default": "Pandala Revolution"
       }
-    }
+    },
+    "__default": "Revolution"
   },
   "kroutage": {
     "__default": "Klunfing"
@@ -204022,6 +205416,21 @@
       }
     }
   },
+  "butor": {
+    "__default": "Oaf"
+  },
+  "horize": {
+    "__default": "Horiz"
+  },
+  "bihilète": {
+    "__default": "Behelit"
+  },
+  "pénitent": {
+    "__default": "Penitent"
+  },
+  "leukide": {
+    "__default": "Dakid"
+  },
   "estocrâme": {
     "__default": "Sword of Flame"
   },
@@ -204030,6 +205439,18 @@
   },
   "unicité": {
     "__default": "Unique"
+  },
+  "yoche": {
+    "__default": "Yosh"
+  },
+  "cafra": {
+    "__default": "Rocha"
+  },
+  "vaude": {
+    "__default": "Vood"
+  },
+  "pého": {
+    "__default": "Payo"
   },
   "transpercer": {
     "__default": "Run Through"
@@ -205419,6 +206840,9 @@
     "-": {
       "onde": {
         "__default": "Microwave"
+      },
+      "sieste": {
+        "__default": "Micro-Nap"
       }
     }
   },
@@ -206739,6 +208163,13 @@
     " ": {
       "vampyrique": {
         "__default": "Vampiric Resilience"
+      },
+      "de": {
+        " ": {
+          "sacrieur": {
+            "__default": "Sacrier's Resilience"
+          }
+        }
       }
     },
     "__default": "Resilience"
@@ -207385,7 +208816,12 @@
     "__default": "Wakizakitty"
   },
   "errance": {
-    "__default": "Wandering"
+    "__default": "Wandering",
+    " ": {
+      "eliotrope": {
+        "__default": "Eliotrope's Wandering"
+      }
+    }
   },
   "vénalité": {
     " ": {
@@ -207493,6 +208929,16 @@
     " ": {
       "blanche": {
         "__default": "All-Nighter"
+      },
+      "sans": {
+        " ": {
+          "lune": {
+            "__default": "Moonless Night"
+          }
+        }
+      },
+      "étoilée": {
+        "__default": "Starry Night"
       }
     }
   },
@@ -208051,679 +209497,6 @@
             "'": {
               "âme": {
                 "__default": "Soul Sealing"
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "paradoxe": {
-    " ": {
-      "du": {
-        " ": {
-          "tournesol": {
-            " ": {
-              "affamé": {
-                "__default": "Famished Sunflower's Paradox"
-              }
-            }
-          },
-          "bouftou": {
-            " ": {
-              "royal": {
-                "__default": "Royal Gobball's Paradox"
-              }
-            }
-          },
-          "scarabosse": {
-            " ": {
-              "doré": {
-                "__default": "Golden Scarabugly's Paradox"
-              }
-            }
-          },
-          "boostache": {
-            "__default": "Boostache's Paradox"
-          },
-          "chafer": {
-            " ": {
-              "r": {
-                "ō": {
-                  "nin": {
-                    "__default": "Ronin Chafer's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "coffre": {
-            " ": {
-              "des": {
-                " ": {
-                  "forgerons": {
-                    "__default": "Smiths' Chest's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "corailleur": {
-            " ": {
-              "magistral": {
-                "__default": "Great Coralator's Paradox"
-              }
-            }
-          },
-          "kwakwa": {
-            "__default": "Kwakwa's Paradox"
-          },
-          "kanniboul": {
-            " ": {
-              "ebil": {
-                "__default": "Kanniball Andchain's Paradox"
-              }
-            }
-          },
-          "wa": {
-            " ": {
-              "wabbit": {
-                "__default": "Wa Wabbit's Paradox"
-              },
-              "wobot": {
-                "__default": "Wa Wobot's Paradox"
-              }
-            }
-          },
-          "craqueleur": {
-            " ": {
-              "légendaire": {
-                "__default": "Legendary Crackler's Paradox"
-              }
-            }
-          },
-          "mantiscore": {
-            "__default": "Mantiscore's Paradox"
-          },
-          "chouque": {
-            "__default": "LeChouque's Paradox"
-          },
-          "dragon": {
-            " ": {
-              "cochon": {
-                "__default": "Dragon Pig's Paradox"
-              }
-            }
-          },
-          "meulou": {
-            "__default": "Moowolf's Paradox"
-          },
-          "rat": {
-            " ": {
-              "blanc": {
-                "__default": "White Rat's Paradox"
-              },
-              "noir": {
-                "__default": "Black Rat's Paradox"
-              }
-            }
-          },
-          "maître": {
-            " ": {
-              "corbac": {
-                "__default": "Lord Crow's Paradox"
-              },
-              "des": {
-                " ": {
-                  "pantins": {
-                    "__default": "Puppet Master's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "pounicheur": {
-            "__default": "Colousses's Paradox"
-          },
-          "minotoror": {
-            "__default": "Minotoror's Paradox"
-          },
-          "blop": {
-            " ": {
-              "multicolore": {
-                " ": {
-                  "royal": {
-                    "__default": "Royal Rainbow Blop's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "tofu": {
-            " ": {
-              "royal": {
-                "__default": "Royal Tofu's Paradox"
-              }
-            }
-          },
-          "royalmouth": {
-            "__default": "Royal Mastogob's Paradox"
-          },
-          "capitaine": {
-            " ": {
-              "ekarlatte": {
-                "__default": "Captain Scarlight's Paradox"
-              },
-              "meno": {
-                "__default": "Captain Meno's Paradox"
-              }
-            }
-          },
-          "chêne": {
-            " ": {
-              "mou": {
-                "__default": "Soft Oak's Paradox"
-              }
-            }
-          },
-          "phossile": {
-            "__default": "Drhossil's Paradox"
-          },
-          "kimbo": {
-            "__default": "Kimbo's Paradox"
-          },
-          "minotot": {
-            "__default": "Minotot's Paradox"
-          },
-          "mansot": {
-            " ": {
-              "royal": {
-                "__default": "Royal Pingwin's Paradox"
-              }
-            }
-          },
-          "père": {
-            " ": {
-              "ver": {
-                "__default": "Wurmlord's Paradox"
-              },
-              "fwetar": {
-                "__default": "Father Whupper's Paradox"
-              }
-            }
-          },
-          "toxoliath": {
-            "__default": "Toxoliath's Paradox"
-          },
-          "bworker": {
-            "__default": "Bworker's Paradox"
-          },
-          "professeur": {
-            " ": {
-              "xa": {
-                "__default": "Professor Xa's Paradox"
-              }
-            }
-          },
-          "glourséleste": {
-            "__default": "Celestial Bearbarian's Paradox"
-          },
-          "kolosso": {
-            "__default": "Kolosso's Paradox"
-          },
-          "chaloeil": {
-            "__default": "Catseye's Paradox"
-          },
-          "comte": {
-            " ": {
-              "harebourg": {
-                "__default": "Count Harebourg's Paradox"
-              },
-              "razof": {
-                "__default": "Count Razof's Paradox"
-              }
-            }
-          },
-          "roi": {
-            " ": {
-              "nidas": {
-                "__default": "King Nidas's Paradox"
-              },
-              "imagami": {
-                "__default": "King Imagami's Paradox"
-              }
-            }
-          },
-          "korriandre": {
-            "__default": "Korriander's Paradox"
-          },
-          "papa": {
-            " ": {
-              "nowel": {
-                "__default": "Father Kwismas's Paradox"
-              }
-            }
-          },
-          "koulosse": {
-            "__default": "Koolich's Paradox"
-          },
-          "mawabouaino": {
-            "__default": "Mawabouwaino's Paradox"
-          },
-          "croqueleur": {
-            "__default": "Crunchler's Paradox"
-          },
-          "kharnozor": {
-            "__default": "Kharnotaurus's Paradox"
-          },
-          "tanukouï": {
-            " ": {
-              "san": {
-                "__default": "Tanukouï San's Paradox"
-              }
-            }
-          },
-          "shogun": {
-            " ": {
-              "tofugawa": {
-                "__default": "Shogun Tofugawa's Paradox"
-              }
-            }
-          },
-          "directeur": {
-            " ": {
-              "grunob": {
-                "__default": "Director Grunob's Paradox"
-              }
-            }
-          }
-        }
-      },
-      "de": {
-        " ": {
-          "mob": {
-            " ": {
-              "l": {
-                "'": {
-                  "éponge": {
-                    "__default": "Sponge Mob's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "kankreblath": {
-            "__default": "Kickroach's Paradox"
-          },
-          "batofu": {
-            "__default": "Batofu's Paradox"
-          },
-          "shin": {
-            " ": {
-              "larve": {
-                "__default": "Shin Larva's Paradox"
-              }
-            }
-          },
-          "la": {
-            " ": {
-              "bworkette": {
-                "__default": "Bworkette's Paradox"
-              },
-              "reine": {
-                " ": {
-                  "nyée": {
-                    "__default": "Rac Queen's Paradox"
-                  },
-                  "des": {
-                    " ": {
-                      "voleurs": {
-                        "__default": "Queen of Thieves's Paradox"
-                      }
-                    }
-                  },
-                  "amirukam": {
-                    "__default": "Queen Amirukam's Paradox"
-                  }
-                }
-              },
-              "haute": {
-                " ": {
-                  "truche": {
-                    "__default": "Cross Strich's Paradox"
-                  }
-                }
-              },
-              "larve": {
-                " ": {
-                  "de": {
-                    " ": {
-                      "koutoulou": {
-                        "__default": "Koutoulou Larva's Paradox"
-                      }
-                    }
-                  }
-                }
-              },
-              "prêtresse": {
-                " ": {
-                  "de": {
-                    " ": {
-                      "kao": {
-                        "__default": "Chokao Priestess's Paradox"
-                      }
-                    }
-                  }
-                }
-              },
-              "dame": {
-                " ": {
-                  "des": {
-                    " ": {
-                      "eaux": {
-                        "__default": "Lady of the Water's Paradox"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "gourlo": {
-            " ": {
-              "le": {
-                " ": {
-                  "terrible": {
-                    "__default": "Gourlo the Terrible's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "nelween": {
-            "__default": "Nelween's Paradox"
-          },
-          "l": {
-            "'": {
-              "abraknyde": {
-                " ": {
-                  "ancestral": {
-                    "__default": "Ancestral Treechnid's Paradox"
-                  }
-                }
-              },
-              "obsidiantre": {
-                "__default": "Obsidemon's Paradox"
-              },
-              "éternel": {
-                " ": {
-                  "conflit": {
-                    "__default": "Eternal Conflict's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "choudini": {
-            "__default": "Cauldini's Paradox"
-          },
-          "moon": {
-            "__default": "Moon's Paradox"
-          },
-          "silf": {
-            " ": {
-              "le": {
-                " ": {
-                  "rasboul": {
-                    " ": {
-                      "majeur": {
-                        "__default": "Silf the Greater Bherb's Paradox"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "skeunk": {
-            "__default": "Skeunk's Paradox"
-          },
-          "fraktale": {
-            "__default": "Fraktal's Paradox"
-          },
-          "crocabulia": {
-            "__default": "Crocabulia's Paradox"
-          },
-          "sphincter": {
-            " ": {
-              "cell": {
-                "__default": "Sphincter Cell's Paradox"
-              }
-            }
-          },
-          "kanigroula": {
-            "__default": "Kanigrula's Paradox"
-          },
-          "xlii": {
-            "__default": "XLII's Paradox"
-          },
-          "ben": {
-            " ": {
-              "le": {
-                " ": {
-                  "ripate": {
-                    "__default": "Buck Anear's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "grolloum": {
-            "__default": "Grohlum's Paradox"
-          },
-          "fuji": {
-            " ": {
-              "givrefoux": {
-                "__default": "Fuji Snowfoux's Paradox"
-              }
-            }
-          },
-          "tengu": {
-            " ": {
-              "givrefoux": {
-                "__default": "Tengu Snowfoux's Paradox"
-              }
-            }
-          },
-          "dazak": {
-            " ": {
-              "martegel": {
-                "__default": "Dazahk Freezammer's Paradox"
-              }
-            }
-          },
-          "solar": {
-            "__default": "Solar's Paradox"
-          },
-          "nileza": {
-            "__default": "Nileza's Paradox"
-          },
-          "dantinéa": {
-            "__default": "Dantinea's Paradox"
-          },
-          "merkator": {
-            "__default": "Merkator's Paradox"
-          },
-          "tal": {
-            " ": {
-              "kasha": {
-                "__default": "Tal Kasha's Paradox"
-              }
-            }
-          },
-          "bethel": {
-            " ": {
-              "akarna": {
-                "__default": "Bethel Akarna's Paradox"
-              }
-            }
-          },
-          "vortex": {
-            "__default": "Vortex's Paradox"
-          },
-          "sylargh": {
-            "__default": "Sylargh's Paradox"
-          },
-          "missiz": {
-            " ": {
-              "frizz": {
-                "__default": "Missiz Freezz's Paradox"
-              }
-            }
-          },
-          "klime": {
-            "__default": "Klime's Paradox"
-          },
-          "sapik": {
-            "__default": "Itzting's Paradox"
-          },
-          "malléfisk": {
-            "__default": "Brutatax's Paradox"
-          },
-          "kardorim": {
-            "__default": "Kardorim's Paradox"
-          },
-          "torkélonia": {
-            "__default": "Turtelonia's Paradox"
-          },
-          "draegnerys": {
-            "__default": "Draegnerys's Paradox"
-          },
-          "corruption": {
-            "__default": "Corruption's Paradox"
-          },
-          "guerre": {
-            "__default": "War's Paradox"
-          },
-          "servitude": {
-            "__default": "Servitude's Paradox"
-          },
-          "misère": {
-            "__default": "Misery's Paradox"
-          },
-          "founoroshi": {
-            "__default": "Founoroshi's Paradox"
-          },
-          "damadrya": {
-            "__default": "Damadrya's Paradox"
-          },
-          "shihan": {
-            "__default": "Shihan's Paradox"
-          },
-          "hanshi": {
-            "__default": "Hanshi's Paradox"
-          },
-          "koumiho": {
-            "__default": "Koumiho's Paradox"
-          },
-          "kabahal": {
-            "__default": "Kabaal's Paradox"
-          },
-          "rakoopeur": {
-            "__default": "Raccooper's Paradox"
-          },
-          "belladone": {
-            "__default": "Belladonna's Paradox"
-          },
-          "barbéryl": {
-            " ": {
-              "clochecuivre": {
-                "__default": "Berylbell Copperbeard's Paradox"
-              }
-            }
-          }
-        }
-      },
-      "des": {
-        " ": {
-          "blops": {
-            " ": {
-              "royaux": {
-                "__default": "Royal Blops' Paradox"
-              }
-            }
-          },
-          "gelées": {
-            " ": {
-              "royales": {
-                "__default": "Royal Jellies' Paradox"
-              }
-            }
-          },
-          "tynrils": {
-            "__default": "Tynrils' Paradox"
-          }
-        }
-      },
-      "d": {
-        "'": {
-          "el": {
-            " ": {
-              "piko": {
-                "__default": "El Piko's Paradox"
-              }
-            }
-          },
-          "ougah": {
-            "__default": "Ougaa's Paradox"
-          },
-          "ombre": {
-            "__default": "Shadow's Paradox"
-          },
-          "ilyzaelle": {
-            "__default": "Ilyzaelle's Paradox"
-          },
-          "anerice": {
-            " ": {
-              "la": {
-                " ": {
-                  "shushess": {
-                    "__default": "Anerice the Shushess's Paradox"
-                  }
-                }
-              }
-            }
-          },
-          "halouine": {
-            "__default": "Al Howin's Paradox"
-          },
-          "entropix": {
-            "__default": "Entropix's Paradox"
-          },
-          "hell": {
-            " ": {
-              "mina": {
-                "__default": "Hell Mina's Paradox"
-              }
-            }
-          }
-        }
-      }
-    },
-    "__default": "Paradox"
-  },
-  "attributs": {
-    " ": {
-      "de": {
-        " ": {
-          "crocoburio": {
-            " ": {
-              "(": {
-                "déclencheur": {
-                  ")": {
-                    "__default": "Crocoburio's Attributes (trigger)"
-                  }
-                }
               }
             }
           }
@@ -209634,9 +210407,6 @@
   "acédie": {
     "__default": "Acedia"
   },
-  "chronostase": {
-    "__default": "Chronostasis"
-  },
   "shursharge": {
     "__default": "Shushoverload"
   },
@@ -209695,30 +210465,6 @@
             }
           }
         }
-      }
-    }
-  },
-  "sommeil": {
-    " ": {
-      "d": {
-        "'": {
-          "agonie": {
-            "__default": "Agony Slumber"
-          }
-        }
-      },
-      "paradoxal": {
-        "__default": "Paradoxical Sleep"
-      },
-      "du": {
-        " ": {
-          "vénérable": {
-            "__default": "Venerable One's Sleep"
-          }
-        }
-      },
-      "vénérable": {
-        "__default": "Venerable Sleep"
       }
     }
   },
@@ -210252,6 +210998,13 @@
             "__default": "Koalak Savings"
           }
         }
+      },
+      "d": {
+        "'": {
+          "enutrof": {
+            "__default": "Enutrof's Savings"
+          }
+        }
       }
     }
   },
@@ -210265,6 +211018,13 @@
                 "__default": "Hystritcheria"
               }
             }
+          }
+        }
+      },
+      "du": {
+        " ": {
+          "zobal": {
+            "__default": "Masqueraider's Hysteria"
           }
         }
       }
@@ -210681,6 +211441,13 @@
       },
       "scélérate": {
         "__default": "Scoundrel Acuteness"
+      },
+      "de": {
+        " ": {
+          "crâ": {
+            "__default": "Cra's Sharpness"
+          }
+        }
       }
     }
   },
@@ -212203,21 +212970,6 @@
       }
     }
   },
-  "ferveur": {
-    "__default": "Fervour",
-    " ": {
-      "d": {
-        "'": {
-          "onibi": {
-            "__default": "Onibi Fervour"
-          }
-        }
-      },
-      "pandissidante": {
-        "__default": "Pandissident Fervour"
-      }
-    }
-  },
   "verfeur": {
     "__default": "Verfour"
   },
@@ -212803,6 +213555,9 @@
         }
       }
     }
+  },
+  "mérydique": {
+    "__default": "Meridiawful"
   },
   "foutel": {
     " ": {
@@ -215512,6 +216267,9 @@
             " ": {
               "peur": {
                 "__default": "Rejection of Fear"
+              },
+              "mort": {
+                "__default": "Clinging to Life"
               }
             }
           }
@@ -215531,9 +216289,6 @@
   },
   "miséricorne": {
     "__default": "Horn of Mercy"
-  },
-  "hypostase": {
-    "__default": "Hypostasis"
   },
   "cytocinèse": {
     "__default": "Cytokinesis"
@@ -216170,160 +216925,6 @@
   },
   "renommée": {
     "__default": "Renown"
-  },
-  "-": {
-    "1": {
-      " ": {
-        "{": {
-          "{": {
-            "spell": {
-              ",": {
-                "23996": {
-                  ",": {
-                    "1": {
-                      ":": {
-                        ":": {
-                          "évolution": {
-                            "}": {
-                              "}": {
-                                "__default": "-1 {{spell,23996,1::Evolution}}"
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "à": {
-          " ": {
-            "-": {
-              "2": {
-                " ": {
-                  "{": {
-                    "{": {
-                      "spell": {
-                        ",": {
-                          "23996": {
-                            ",": {
-                              "1": {
-                                ":": {
-                                  ":": {
-                                    "évolutions": {
-                                      "}": {
-                                        "}": {
-                                          "__default": "-1 to -2 {{spell,23996,1::Evolutions}}"
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "100": {
-      " ": {
-        "pm": {
-          " ": {
-            "et": {
-              " ": {
-                "échange": {
-                  " ": {
-                    "de": {
-                      " ": {
-                        "position": {
-                          " ": {
-                            "avec": {
-                              " ": {
-                                "barbéryl": {
-                                  "__default": "-100 MP and switches places with Berylbell"
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    " ": {
-      "1": {
-        " ": {
-          "niveau": {
-            " ": {
-              "d": {
-                "'": {
-                  "évolution": {
-                    "__default": "-1 Evolution Level"
-                  }
-                }
-              }
-            }
-          },
-          "{": {
-            "{": {
-              "spell": {
-                ",": {
-                  "23988": {
-                    ",": {
-                      "1": {
-                        ":": {
-                          ":": {
-                            "rage": {
-                              "}": {
-                                "}": {
-                                  "__default": "-1 {{spell,23988,1::Rage}}"
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "3": {
-        " ": {
-          "niveaux": {
-            " ": {
-              "d": {
-                "'": {
-                  "évolution": {
-                    "__default": "-3 Evolution Levels"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
   },
   "empêche": {
     " ": {
@@ -220719,9 +221320,6 @@
   "sépulcri": {
     "__default": "Sepulcry"
   },
-  "insomnie": {
-    "__default": "Trapped!"
-  },
   "bougiffle": {
     "__default": "Cloak of Flames"
   },
@@ -223323,7 +223921,8 @@
       "animale": {
         "__default": "Animal Amnesia"
       }
-    }
+    },
+    "__default": "Amnesia"
   },
   "gropotacle": {
     "__default": "Heapotalock"
@@ -223532,6 +224131,255 @@
   },
   "oraison": {
     "__default": "Oration"
+  },
+  "fixette": {
+    "__default": "Fixation"
+  },
+  "griffade": {
+    "__default": "Claws Out"
+  },
+  "coercition": {
+    "__default": "Coercion"
+  },
+  "symbioxe": {
+    "__default": "Symboxosis"
+  },
+  "fluctueur": {
+    "__default": "Fatal Fluctuation"
+  },
+  "régimange": {
+    "__default": "Regimunch"
+  },
+  "sentinul": {
+    "__default": "Sentinull"
+  },
+  "poupées": {
+    " ": {
+      "de": {
+        " ": {
+          "sadida": {
+            "__default": "Sadida's Dolls"
+          }
+        }
+      }
+    }
+  },
+  "éventail": {
+    " ": {
+      "de": {
+        " ": {
+          "pandawa": {
+            "__default": "Pandawa's Fan"
+          }
+        }
+      }
+    }
+  },
+  "technomagie": {
+    " ": {
+      "du": {
+        " ": {
+          "steamer": {
+            "__default": "Foggernaut's Technomagic"
+          }
+        }
+      }
+    }
+  },
+  "hallucination": {
+    " ": {
+      "collective": {
+        "__default": "Collective Hallucination"
+      }
+    }
+  },
+  "asthénopie": {
+    "__default": "Asthenopia"
+  },
+  "narcotique": {
+    "__default": "Sedative"
+  },
+  "somnifère": {
+    "__default": "Soporific"
+  },
+  "exclamâton": {
+    "__default": "Exclamation Staff"
+  },
+  "batte": {
+    " ": {
+      "sunémicu": {
+        "__default": "Matsunehiku Club"
+      }
+    }
+  },
+  "aberration": {
+    " ": {
+      "du": {
+        " ": {
+          "roi": {
+            " ": {
+              "nidas": {
+                "__default": "King Nidas Aberration"
+              }
+            }
+          },
+          "chaloeil": {
+            "__default": "Catseye Aberration"
+          },
+          "père": {
+            " ": {
+              "ver": {
+                "__default": "Wurmlord Aberration"
+              }
+            }
+          },
+          "capitaine": {
+            " ": {
+              "meno": {
+                "__default": "Captain Meno Aberration"
+              }
+            }
+          }
+        }
+      },
+      "de": {
+        " ": {
+          "belladone": {
+            "__default": "Belladonna Aberration"
+          },
+          "kabahal": {
+            "__default": "Kabaal Aberration"
+          },
+          "la": {
+            " ": {
+              "dame": {
+                " ": {
+                  "des": {
+                    " ": {
+                      "eaux": {
+                        "__default": "Lady of the Water Aberration"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "founoroshi": {
+            "__default": "Founoroshi Aberration"
+          },
+          "torkélonia": {
+            "__default": "Turtelonia Aberration"
+          },
+          "bethel": {
+            " ": {
+              "akarna": {
+                "__default": "Bethel Akarna Aberration"
+              }
+            }
+          },
+          "solar": {
+            "__default": "Solar Aberration"
+          },
+          "vortex": {
+            "__default": "Vortex Aberration"
+          },
+          "xlii": {
+            "__default": "XLII Aberration"
+          },
+          "fraktale": {
+            "__default": "Fraktal Aberration"
+          },
+          "dantinéa": {
+            "__default": "Dantinea Aberration"
+          },
+          "cire": {
+            " ": {
+              "momore": {
+                "__default": "Cire Momore Aberration"
+              }
+            }
+          },
+          "tal": {
+            " ": {
+              "kasha": {
+                "__default": "Tal Kasha Aberration"
+              }
+            }
+          }
+        }
+      },
+      "d": {
+        "'": {
+          "ilyzaelle": {
+            "__default": "Ilyzaelle Aberration"
+          },
+          "osavora": {
+            "__default": "Osavora Aberration"
+          }
+        }
+      },
+      "des": {
+        " ": {
+          "krobes": {
+            "__default": "Krobes Aberration"
+          },
+          "kabombz": {
+            "__default": "Kabombz Aberration"
+          },
+          "zarbivores": {
+            "__default": "Oddnivores Aberration"
+          },
+          "rhoarims": {
+            "__default": "Rhoarim Aberration"
+          }
+        }
+      }
+    }
+  },
+  "quoi": {
+    " ": {
+      "?": {
+        "__default": "What?"
+      }
+    }
+  },
+  "feur": {
+    " ": {
+      "!": {
+        "__default": "WOTEVA!"
+      }
+    }
+  },
+  "cohobation": {
+    " ": {
+      "onirique": {
+        "__default": "Dream Cohobation"
+      }
+    }
+  },
+  "dark": {
+    " ": {
+      "sonj": {
+        "__default": "Dark Dreem"
+      }
+    }
+  },
+  "sinjerie": {
+    "__default": "Munkee Business"
+  },
+  "fulgurang": {
+    "-": {
+      "outan": {
+        "__default": "Lightnangutan"
+      }
+    }
+  },
+  "ninjutsinj": {
+    "__default": "Munkinjutsu"
+  },
+  "sonjerie": {
+    "__default": "Shenangutan"
   },
   "économe": {
     "__default": "Scanty"
