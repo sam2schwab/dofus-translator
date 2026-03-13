@@ -15,8 +15,8 @@ async function translatePageText() {
   }
 
   for (const textNode of textNodes) {
-    const originalText = textNode.nodeValue;
-    if (!originalText || !textNode.parentNode) continue;
+    const originalText = textNode.nodeValue?.trim() || "";
+    if (originalText == "" || !textNode.parentNode) continue;
 
     const translatedHtml = await translate(originalText, language);
     if (translatedHtml === originalText) continue;
@@ -24,7 +24,7 @@ async function translatePageText() {
     const template = document.createElement("template");
     template.innerHTML = translatedHtml;
 
-    textNode.replaceWith(template.content.cloneNode(true));
+    textNode.parentNode.replaceChild(template.content.cloneNode(true) , textNode);
   }
 }
 
