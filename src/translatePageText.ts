@@ -14,17 +14,17 @@ async function translatePageText() {
     textNodes.push(node); // Collect text nodes
   }
 
-  for (const node of textNodes) {
-    const originalText = node.nodeValue;
-    if (originalText) {
-      const translatedHtml = await translate(originalText, language);
+  for (const textNode of textNodes) {
+    const originalText = textNode.nodeValue;
+    if (!originalText || !textNode.parentNode) continue;
 
-      if (translatedHtml !== originalText && node.parentNode) {
-        const wrapper = document.createElement("span");
-        wrapper.innerHTML = translatedHtml; // Allow partial HTML replacement
-        node.parentNode.replaceChild(wrapper, node);
-      }
-    }
+    const translatedHtml = await translate(originalText, language);
+    if (translatedHtml === originalText) continue;
+
+    const template = document.createElement("template");
+    template.innerHTML = translatedHtml;
+
+    textNode.replaceWith(template.content.cloneNode(true));
   }
 }
 
