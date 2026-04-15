@@ -3,6 +3,13 @@ import { tokenize } from "./tokenize";
 import { getTokenMap } from "./tokenMaps";
 
 const cleanString = (s: string) => s.replace("œ", "oe").replace('’', '\'').replace('Œ', 'Oe');
+const escapeHtml = (value: string) =>
+  value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 
 export const translateLine = async (line: string,  language: Language) => {
     const tokenMap = await getTokenMap(language);
@@ -22,7 +29,9 @@ export const translateLine = async (line: string,  language: Language) => {
       while (currentMap !== undefined) {
         currentMap = currentMap[currentToken?.toLowerCase()];
         if (currentMap?.["__default"] !== undefined) {
-          bestMatch = `\n<span class="notranslate" translate="no">${currentMap?.["__default"]}</span>\n`;
+          const translation = currentMap["__default"];
+          const escapedTranslation = escapeHtml(translation);
+          bestMatch = `<span class="notranslate dofus-translator-copyable" translate="no" data-copy-text="${escapedTranslation}" role="button" tabindex="0" title="Click to copy translation">${escapedTranslation}</span>`;
           bestMatchPosition = endPointer;
         }
         endPointer += 1;
