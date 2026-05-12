@@ -5,14 +5,12 @@ import { tokenize } from "./utils/tokenize";
 import { blacklist, overrides } from "./utils/overrides";
 import path from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
+import { languages, Language } from "./utils/language.js";
 
 const __filename = fileURLToPath(import.meta.url); // get the resolved path to the file
 const __dirname = path.dirname(__filename); // get the name of the directory
 
 const cleanString = (s: string) => s.toLowerCase().replace("œ", "oe").replace('’', '\'');
-
-const languages = ["fr", "es", "en", "pt", "de"] as const;
-type Language = (typeof languages)[number];
 
 type Item = {
   name?: { [Lang in Language]?: string };
@@ -65,7 +63,9 @@ const generateMap = async (
 
   for (const [fr, override] of Object.entries(overrides)) {
     const lang = override[language];
-    addToken(tokenMap, fr, lang);
+    if (lang) {
+      addToken(tokenMap, fr, lang);
+    }
   }
 
   const outputFile = path.join(

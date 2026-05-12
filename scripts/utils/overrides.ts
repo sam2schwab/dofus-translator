@@ -1,4 +1,6 @@
-export const overrides = {
+import { Language } from "./language";
+
+export const overrides: Record<string, {[lang in Language]?: string}> = {
   Piou: {
     en: "Piwi",
   },
