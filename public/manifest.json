@@ -24,10 +24,14 @@
   "options_ui": {
     "page": "src/options.html"
   },
-  "host_permissions": ["*://www.dofuspourlesnoobs.com/*"],
+  "host_permissions": [
+    "*://www.dofuspourlesnoobs.com/*" ,
+    "*://duffus.fr/*",
+    "*://www.duffus.fr/*"
+  ],
   "content_scripts": [
     {
-      "matches": ["*://www.dofuspourlesnoobs.com/*"],
+      "matches": ["*://www.dofuspourlesnoobs.com/*", "*://duffus.fr/*", "*://www.duffus.fr/*"],
       "js": ["content.js"],
       "run_at": "document_end"
     }
